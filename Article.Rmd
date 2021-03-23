@@ -11,14 +11,46 @@ output:
     reference_docx: "article_template.docx"
 csl: bmj.csl
 bibliography: references.bib
+link-citations: true
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+library(bookdown)
 ```
 
 # Results
 
 ## Literature search
 
-![](Files/images/PRISMA.png)
+You can find the complete flowchart in Figure \@ref(fig:PRISMA)
+
+```{r PRISMA, fig.cap = "PRISMA flowchart of the included search strategy"}
+knitr::include_graphics("Files/images/PRISMA.png")
+
+
+```
+
+## How are studies concerning Syndemic Theory applied to MSM conducted?
+
+### General characteristics of included studies
+
+### Subpopulations studied
+
+### Syndemic conditions and their measurement
+
+### Outcomes and their measurement
+
+### Interventions
+
+## How is the concept of interaction explored in syndemic research applied to MSM?
+
+### Statistics used to show an interaction
+
+### Proposed mechanisms of interaction
+
+## What were the key findings of these studies?
+
+# Discussion
+
+# Conclusion
