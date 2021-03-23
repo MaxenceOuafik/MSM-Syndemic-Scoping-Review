@@ -12,12 +12,20 @@ VL  - 27
 IS  - 11
 SP  - 955
 EP  - 966
+J2  - Int J STD AIDS
 SN  - 0956-4624
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4798921/
-KW  - Syndémie - Applications
-KW  - A lire
+KW  - MSM
+KW  - Depression
 KW  - Syndemic
 KW  - Transgender people
+KW  - Binge drinking
+KW  - Anxiety
+KW  - IPV
+KW  - Transgender men
+KW  - Polysubstance use
+KW  - Childhood sexual abuse
+KW  - Childhood neglect/abuse
 ER  - 
 
 TY  - JOUR
@@ -36,12 +44,16 @@ VL  - 36
 IS  - 7
 SP  - 695
 EP  - 703
+J2  - Health Psychol
 SN  - 1930-7810
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5532533/
-KW  - Syndémie - Applications
-KW  - A lire
 KW  - MSM
+KW  - Depression
 KW  - Syndemic
+KW  - IPV
+KW  - Polysubstance use
+KW  - Sexual compulsivity
+KW  - Childhood sexual abuse
 ER  - 
 
 TY  - JOUR
@@ -58,10 +70,18 @@ VL  - 47
 IS  - 1
 SP  - 75
 EP  - 93
+J2  - Arch Sex Behav
 SN  - 00040002
-KW  - Syndémie - Applications
-KW  - A lire
+KW  - MSM
+KW  - Depression
 KW  - Syndemic
+KW  - Substance use
+KW  - Anxiety
+KW  - Meta-analysis
+KW  - IPV
+KW  - Sexual compulsivity
+KW  - Childhood sexual abuse
+KW  - Alcohol use
 ER  - 
 
 TY  - JOUR
@@ -81,12 +101,18 @@ VL  - 22
 IS  - 8
 SP  - 2564
 EP  - 2574
+J2  - AIDS Behav
 SN  - 15733254
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6628710/
-KW  - Syndémie - Applications
-KW  - A lire
 KW  - MSM
+KW  - Depression
 KW  - Syndemic
+KW  - Substance use
+KW  - Binge drinking
+KW  - Anxiety
+KW  - PTSD
+KW  - Polysubstance use
+KW  - Childhood sexual abuse
 ER  - 
 
 TY  - JOUR
@@ -100,7 +126,7 @@ AU  - Sivarajah, Vishalini
 AU  - Gough, Kevin
 AU  - Naccarato, Mark
 AU  - Tan, Darrell H.S.
-T2  - PLoS ONE
+T2  - PLOS One
 AB  - Introduction The standard clinical approach to non-occupational HIV post-exposure prophylaxis (nPEP) focuses on biomedical aspects of the intervention, but may overlook co-occurring or ‘syndemic’ psychosocial problems that reinforce future vulnerability to HIV. We therefore sought to determine the prevalence of syndemic health problems in a cohort of Ontario nPEP patients, and explored the relationship between syndemic burden and HIV risk. Methods Between 07/2013-08/2016, we distributed a self-administered questionnaire to patients presenting to three clinics in Toronto and Ottawa seeking nPEP for sexual HIV exposures. We used validated screening tools to estimate the prevalence of depression (CES-D score ≥16), harmful alcohol use (AUDIT ≥8), problematic drug use (DUDIT ≥6 men/≥2 women), and sexual compulsivity (SCS ≥24) among men who have sex with men (MSM) respondents. In exploratory analyses, we examined the relationships between syndemic conditions using univariable logistic regression models, and the relationship between syndemic count (total number of syndemic conditions per participant) and HIV risk, as estimated by the HIRI-MSM score, using linear regression models. Results The 186 MSM included in the analysis had median age 31 (IQR = 26–36), including 87.6% having a college/undergraduate degree or higher. Overall, 53.8% screened positive for depression, 34.4% for harmful alcohol use, 30.1% for problematic drug use, and 16.1% for sexual compulsivity. Most participants (74.2%) had at least one syndemic condition and 46.8% had more than one. Exploratory analyses suggested positive associations between depression and harmful alcohol use (OR = 2.11, 95%CI = 1.13, 3.94) and between harmful alcohol use and problematic drug use (OR = 1.22, 95%CI = 0.65, 2.29). Syndemic count was associated with increased HIRI-MSM risk scores in univariable (2.2, 95%CI = 1.0, 3.3 per syndemic condition) and multivariable (2.1, 95%CI = 0.6, 3.6) linear regression models. Conclusions The prevalence of syndemic conditions in MSM seeking nPEP for sexual exposure is alarmingly high, and is associated with underlying HIV risk. Routine screening for these conditions may identify opportunities for intervention and could alleviate future vulnerability to HIV.
 DA  - 2018///
 PY  - 2018
@@ -108,11 +134,15 @@ DO  - 10.1371/journal.pone.0197998
 VL  - 13
 IS  - 5
 SP  - e0197998
+J2  - PLoS ONE
 SN  - 19326203
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5965882/
-KW  - Syndémie - Applications
-KW  - A lire
+KW  - MSM
+KW  - Depression
 KW  - Syndemic
+KW  - Sexual compulsivity
+KW  - Alcohol Use Disorder
+KW  - Substance Use Disorder
 ER  - 
 
 TY  - JOUR
@@ -136,10 +166,14 @@ IS  - 3
 SP  - 163
 EP  - 168
 SN  - 15374521
-KW  - Syndémie - Applications
-KW  - A lire
+KW  - Suicide
 KW  - MSM
+KW  - Depression
 KW  - Syndemic
+KW  - Substance use
+KW  - Binge drinking
+KW  - Anxiety
+KW  - IPV
 ER  - 
 
 TY  - JOUR
@@ -149,13 +183,24 @@ AU  - Nelson, Kimberly M.
 AU  - Carey, Michael P.
 T2  - LGBT Health
 AB  - Purpose: Psychosocial syndemic indicators (e.g., internalizing symptoms, alcohol/substance use, and violence exposure) have been associated with increased risk for HIV among older adolescent sexual minority males and adult sexual minority men. No studies have examined these concerns among early adolescents (<16 years old). The purpose of this study was to examine syndemic indicators among early adolescent sexual minority males and their associations with sexual behavior. Methods: Sexual minority males (N = 207; ages 14–17; drawn from 40 U.S. states) completed a cross-sectional online survey. Descriptive statistics were used to document profiles of syndemic indicators. Firth logistic regressions tested the associations between count of syndemic indicators and sexual behavior with male and female partners. Results: Psychosocial syndemic indicators were highly prevalent and co-occurring, with diverse psychosocial profiles. After controlling for age, race, and ethnicity, having more syndemic indicators was significantly positively associated with condomless anal sex with male partners (adjusted odds ratio [AOR] = 1.37, 95% confidence interval [CI] 1.02–1.84) and vaginal and/or anal sex with females (AOR = 1.75, 95% CI 1.25–2.47). Conclusions: This study documents the psychosocial profiles of syndemic indicators with a sample of early adolescent sexual minority males and the association of syndemic indicators with sexual behavior. Among early adolescent sexual minority males, psychosocial concerns were prevalent, similar to rates seen among adult sexual minority males, and conferred vulnerability to HIV transmission. Behavioral and psychosocial interventions must reach sexual minority males in early adolescence to address mental health and substance use concerns and to help reduce the risk of HIV acquisition.
+DA  - 2019///
+PY  - 2019
 DO  - 10.1089/lgbt.2019.0113
+VL  - 6
+IS  - 8
+SP  - 386
+EP  - 392
+J2  - LGBT Health
 UR  - https://www.liebertpub.com/doi/abs/10.1089/lgbt.2019.0113?mi=9mjfuu&af=R&SeriesKey=lgbt&sortBy=Earliest&target=default&utm_source=researcher_app&utm_medium=referral&utm_campaign=RESR_MRKT_Researcher_inbound
 L1  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6918838/pdf/lgbt.2019.0113.pdf
-KW  - Syndémie - Applications
-KW  - A lire
 KW  - MSM
+KW  - Depression
 KW  - Syndemic
+KW  - Anxiety
+KW  - Marijuana use
+KW  - Adolescents
+KW  - Childhood sexual abuse
+KW  - Alcohol Use Disorder
 ER  - 
 
 TY  - JOUR
@@ -169,15 +214,17 @@ AU  - Stall, Ronald D.
 AU  - Egan, James E.
 T2  - AIDS Care
 AB  - HIV Pre-Exposure Prophylaxis (PrEP) has shown great promise in reducing HIV transmission among affected populations; however, PrEP uptake among Black men who have sex with men (BMSM) has stalled. This study compares BMSM using PrEP and BMSM at risk for HIV not using PrEP based on differences in behavior, psychosocial conditions and the presence of a syndemic (n = 1,411). BMSM reporting PrEP use were significantly more likely to report three of five HIV risk behaviors and three of four psychosocial conditions. Odds of reporting PrEP use increased as the number of psychosocial conditions increased such that BMSM with three psychosocial conditions (AOR = 5.65, 95% CI: 3.17, 10.08) and four conditions (AOR = 18.34, 95% CI: 5.01, 67.20) demonstrated significantly greater odds of PrEP use compared to BMSM reporting one or less conditions. While BMSM at greatest risk are using PrEP, strategies are still needed for men at varying risk levels.
-DA  - 2019///
-PY  - 2019
+DA  - 2020///
+PY  - 2020
 DO  - 10.1080/09540121.2019.1659921
-SP  - 1
-EP  - 6
+VL  - 32
+IS  - 5
+SP  - 551
+EP  - 556
+J2  - AIDS Care
 SN  - 0954-0121
 UR  - https://www.tandfonline.com/doi/full/10.1080/09540121.2019.1659921?af=R&utm_source=researcher_app&utm_medium=referral&utm_campaign=RESR_MRKT_Researcher_inbound
 KW  - PrEP
-KW  - A lire
 KW  - MSM
 KW  - Depression
 KW  - Syndemic
@@ -186,6 +233,7 @@ KW  - STD
 KW  - Binge drinking
 KW  - IPV
 KW  - Polysubstance use
+KW  - Black MSM
 ER  - 
 
 TY  - JOUR
@@ -199,16 +247,22 @@ AU  - Egan, James E.
 AU  - Stall, Ronald D.
 T2  - AIDS and Behavior
 AB  - Syndemic production theory has been used to explore HIV transmission risk or infections but has not been used to investigate prevention behavior, or with large samples of non-Whites. This analysis is the first to explore the impact of syndemic factors on previous six-month HIV screening behavior among US Black MSM. Data from Promoting Our Worth, Equality and Resilience (POWER) were analyzed from 3294 participants using syndemic variable counts and measures of interaction/synergy. Syndemic variables included: past three-month poly-drug use, depression, last year intimate partner violence, HIV risk and problematic binge drinking. BMSM reporting two syndemic factors were more likely to report screening (AOR = 1.37, 95% CI 1.04–1.80; p = 0.028) with no significant associations for three or more conditions. Measures of joint effect revealed that there were synergies among depression, problematic binge drinking and poly-drug use but these psychosocial factors cannot entirely explain testing patterns and excess disease burden among BMSM.
-DA  - 2019/03/18/
-PY  - 2019
+DA  - 2020///
+PY  - 2020
 DO  - 10.1007/s10461-019-02458-z
+VL  - 28
+SP  - 428
+EP  - 436
+J2  - AIDS Behav
 SN  - 1090-7165
 UR  - http://link.springer.com/article/10.1007/s10461-019-02458-z?utm_source=researcher_app&utm_medium=referral&utm_campaign=RESR_MRKT_Researcher_inbound
-L4  - http://link.springer.com/10.1007/s10461-019-02458-z
-L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6751033/
-KW  - Syndémie - Applications
-KW  - A lire
+KW  - MSM
+KW  - Depression
 KW  - Syndemic
+KW  - Binge drinking
+KW  - IPV
+KW  - Polysubstance use
+KW  - Black MSM
 ER  - 
 
 TY  - JOUR
@@ -224,30 +278,41 @@ AB  - This study examined the longitudinal effects of co-occurring psychosocial 
 DA  - 2019///
 PY  - 2019
 DO  - 10.1007/s10508-018-1329-x
+VL  - 48
+SP  - 1159
+EP  - 1170
+J2  - Arch Sex Behav
 SN  - 00040002
 UR  - http://link.springer.com/article/10.1007/s10508-018-1329-x?utm_source=researcher_app&utm_medium=referral&utm_campaign=RESR_MRKT_Researcher_inbound
-L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6586562/
-KW  - A lire
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Substance use
+KW  - Binge drinking
+KW  - Anxiety
+KW  - PTSD
+KW  - Polysubstance use
+KW  - Childhood sexual abuse
 ER  - 
 
 TY  - JOUR
 TI  - Syndemic and other risk factors for unprotected anal intercourse among an online sample of belgian HIV negative men who have sex with men
-AU  - Wim, Vanden Berghe
-AU  - Christiana, Nöstlinger
-AU  - Marie, Laga
+AU  - Van den Berghe, Wim
+AU  - Nöstlinger, Christiana
+AU  - Laga, Marie
 T2  - AIDS and Behavior
 AB  - Men who have sex with men (MSM) are confronted with different health problems. Next to a higher HIV prevalence and a higher reporting of depressive symptoms and other mental health problems, there is also evidence of substance dependence and sexual compulsivity occurring simultaneously. Using a sample of 591 HIV-negative Belgian MSM, we examine the relationships between depressive symptoms and other risk factors of unprotected anal intercourse (UAI) practice with casual partners. These risk factors include depressive symptoms, sexual behavioural indicators, individual risk perception of UAI, intrapersonal factors measured by the sexual sensation seeking scale, substance use, sources of social support and social norming regarding condom use and finally the location where or media through which men find sex partners. Our findings show that multifactorial, intertwined factors contribute to the explanation of UAI among MSM at risk for HIV infection. These findings underline the need for an integrated sexual health approach for MSM.
 DA  - 2014///
 PY  - 2014
 DO  - 10.1007/s10461-013-0516-y
 VL  - 18
-IS  - 1
 SP  - 50
 EP  - 58
+J2  - AIDS Behav
 SN  - 10907165
-KW  - Syndémie - Applications
-KW  - A lire
+KW  - Chemsex
 KW  - MSM
+KW  - Depression
 KW  - Syndemic
 ER  - 
 
@@ -264,7 +329,7 @@ AU  - Chesney, Margaret A.
 AU  - Donnell, Deborah J.
 AU  - Stall, Ron D.
 AU  - Mayer, Kenneth H.
-T2  - JAIDS Journal of Acquired Immune Deficiency Syndromes
+T2  - Journal of Acquired Immune Deficiency Syndromes
 AB  - Copyright © 2014 Wolters Kluwer Health, Inc. All rights reserved. Background: Cross-sectional studies have suggested that co-occurring epidemics or "syndemics" of psychosocial health problems may accelerate HIV transmission among men who have sex with men (MSM) in the United States. We aimed to assess how 5 syndemic conditions (depressive symptoms, heavy alcohol use, stimulant use, polydrug use, and childhood sexual abuse) affected HIV incidence and sexual risk behavior over time. Methods: Eligible men in a large prospective cohort of sexually active HIV-uninfected MSM completed HIV testing and behavioral surveys at baseline and every 6 months for 48 months. We examined interrelationships between psychosocial problems and whether these interactions increased the odds of HIV risk behaviors and risk of seroconversion over study follow-up. Results: Among 4295 men, prevalence of psychosocial conditions was substantial at baseline and was positively associated with each other. We identified a statistically significant positive dose-response relationship between numbers of syndemic conditions and HIV seroconversion for all comparisons (with the greatest hazard among those with 4-5 conditions, adjusted hazard ratio 8.69; 95% confidence interval: 4.78 to 15.44). The number of syndemic conditions also predicted increased HIV-related risk behaviors over time, which mediated the syndemic-HIV seroconversion association. Conclusions: The accumulation of syndemic psychosocial problems predicted HIV-related sexual risk behaviors and seroconversion in a large sample of US MSM. Given the high prevalence of syndemic conditions among MSM and the moderate effect sizes attained by traditional brief behavioral interventions to date, the HIV prevention agenda requires a shift toward improved assessment of psychosocial comorbidities and stronger integration with mental health and substance abuse treatment services.
 DA  - 2015/03//
 PY  - 2015
@@ -273,12 +338,16 @@ VL  - 68
 IS  - 3
 SP  - 329
 EP  - 336
+J2  - J Acquir Immune Defic Syndr
 SN  - 1525-4135
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4415161/
-KW  - Syndémie - Applications
-KW  - A lire
 KW  - MSM
+KW  - Depression
 KW  - Syndemic
+KW  - Substance use
+KW  - Binge drinking
+KW  - Polysubstance use
+KW  - Childhood sexual abuse
 ER  - 
 
 TY  - JOUR
@@ -288,21 +357,27 @@ AU  - Rendina, H Jonathon
 AU  - Moody, Raymond L
 AU  - Ventuneac, Ana
 AU  - Grov, Christian
-T2  - Archives of sexual behavior
+T2  - Archives of Sexual Behavior
 AB  - Among gay and bisexual men (GBM), a syndemic describes a situation in which negative conditions (e.g., childhood sexual abuse, intimate partner violence, depression, polysubstance use) co-occur such to amplify HIV risk. Research has suggested that sexual compulsivity (SC) may also be a syndemic condition. Between 2011 and 2013, 368 highly sexually active (9+ male partners in 90 days) GBM completed a survey of syndemic factors as well as measures of sexual compulsivity (Sexual Compulsivity Scale [SCS]) and hypersexuality (hypersexual disorder screening inventory [HDSI]). Based on scores on the SCS and HDSI, participants were organized into three groups-negative on both ("Neither SC nor HD"); positive on the SCS only ("SC Only"), and positive on both the SCS and the HDSI ("Both SC and HD"). We found support for the utility of a three-group classification of sexual compulsivity/hypersexuality as one of the syndemic factors that contribute to HIV risk. The average number of syndemic factors experienced was lowest among those who experienced Neither SC nor HD and highest among the group that experienced Both SC and HD, with those experiencing SC Only falling between the two other groups. This study provided further evidence that sexual compulsivity/hypersexuality is a contributing factor to the syndemics model of HIV risk for GBM and that considering three levels of severity (i.e., SC along with HD) led to stronger model predictions than considering SC alone. SC/HD severity provides another modifiable target for HIV prevention intervention development.
 DA  - 2015/10//
 PY  - 2015
 DO  - 10.1007/s10508-015-0574-5
 VL  - 44
-IS  - 7
 SP  - 1903
 EP  - 1913
+J2  - Arch Sex Behav
 LA  - eng
 SN  - 1573-2800
 UR  - https://pubmed.ncbi.nlm.nih.gov/26081246
 L1  - https://link.springer.com/content/pdf/10.1007%252Fs10508-015-0574-5.pdf
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4561029/
-KW  - A lire
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - IPV
+KW  - Polysubstance use
+KW  - Sexual compulsivity
+KW  - CSA
 ER  - 
 
 TY  - JOUR
@@ -314,21 +389,27 @@ AU  - Myers, Ted
 AU  - Calzavara, Liviana M
 AU  - Loutfy, Mona R
 AU  - Hart, Trevor A
-T2  - Archives of sexual behavior
+T2  - Archives of Sexual Behavior
 AB  - Gay and bisexual men (GBM) continue to have a disproportionately higher HIV incidence than any other group in Canada and the United States. This study examined how multiple co-occurring psychosocial problems, also known as a syndemic, contribute to high-risk sexual behavior among GBM. It also examined the impact of early life adversity on high-risk sexual behavior as mediated by syndemic severity. A sample of 239 GBM completed self-report questionnaires at baseline and 6-month follow-up. Syndemic variables included depression, polysubstance use, and intimate partner violence. Early life adversity variables measured retrospectively included physical and verbal bullying by peers and physical and sexual abuse by adults. A Cochran-Armitage trend test revealed a proportionate increase between number of syndemic problems and engagement in high-risk sex (p < .0001), thereby supporting syndemic theory. All early life adversity variables were positively correlated with number of syndemic problems. A bootstrap mediation analysis revealed indirect effects of two types of early life adversity on high-risk sex via syndemic severity: verbal bullying by peers and physical abuse by adults. There was also an overall effect of physical bullying by peers on high-risk sexual behavior, but no specific direct or indirect effects were observed. Consistent with syndemic theory, results provide evidence that certain types of early life adversity impact high-risk sex later in life via syndemic problems. Behavioral interventions to reduce sexual risk among GBM should address anti-gay discrimination experienced before adulthood as well as adult psychological problems.
 DA  - 2015/10//
 PY  - 2015
 DO  - 10.1007/s10508-015-0479-3
 VL  - 44
-IS  - 7
 SP  - 1879
 EP  - 1889
+J2  - Arch Sex Behav
 LA  - eng
 SN  - 1573-2800
 UR  - https://pubmed.ncbi.nlm.nih.gov/26089251
 L1  - https://link.springer.com/content/pdf/10.1007%252Fs10508-015-0479-3.pdf
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4559573/
-KW  - A lire
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - IPV
+KW  - Polysubstance use
+KW  - Bullying
+KW  - Childhood sexual abuse
 ER  - 
 
 TY  - JOUR
@@ -336,7 +417,7 @@ TI  - Operating without a safety net: gay male adolescents and emerging adults' 
 AU  - Bruce, Douglas
 AU  - Harper, Gary W
 AU  - Interventions, Adolescent Medicine Trials Network for HIV/AIDS
-T2  - Health education & behavior : the official publication of the Society for Public Health Education
+T2  - Health Education & Behavior
 AB  - Health disparities among gay men (HIV, substance use, depression) have been described as a mutually occurring "syndemic" that is socially produced through two overarching dynamics: marginalization and migration. Although the syndemic theory proposes a developmental trajectory, it has been largely based on epidemiological studies of adult gay men and has not been examined using qualitative data from gay male adolescents and emerging adults describing their developmental experience. We conducted interviews with 54 HIV-positive gay and bisexual male adolescents and emerging adults at four sites in the United States. This study provides examples of developmental trajectories that help explain the early onset of socially produced health disparities among some gay male adolescents and emerging adults, but also the development of risk factors that may follow some gay men into adulthood.
 DA  - 2011/08//
 PY  - 2011
@@ -345,12 +426,15 @@ VL  - 38
 IS  - 4
 SP  - 367
 EP  - 378
+J2  - Health Educ Behav
 LA  - eng
 SN  - 1552-6127
 UR  - https://pubmed.ncbi.nlm.nih.gov/21398621
 L1  - https://europepmc.org/articles/pmc3149744?pdf=render
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3149744/
-KW  - A lire
+KW  - MSM
+KW  - Syndemic
+KW  - YMSM
 ER  - 
 
 TY  - JOUR
@@ -359,7 +443,7 @@ AU  - Mustanski, Brian
 AU  - Garofalo, Robert
 AU  - Herrick, Amy
 AU  - Donenberg, Geri
-T2  - Annals of behavioral medicine : a publication of the Society of Behavioral Medicine
+T2  - Annals of Behavioral Medicine
 AB  - BACKGROUND: Young men who have sex with men (YMSM) experience disparities in HIV rates and potentially in mental health, substance abuse, and exposure to violence. PURPOSE: We assessed the extent to which these psychosocial health problems had an additive effect on increasing HIV risk among YMSM. METHODS: An urban sample of 310 ethnically diverse YMSM reported on psychosocial health problems, sexual risk behaviors, and HIV status. A count of psychosocial health problems was calculated to test the additive relationship to HIV risk. RESULTS: The prevalence of psychosocial health problems varied from 23% for regular binge drinking to 34% for experiencing partner violence. Rates of sexual risk behaviors were high and 14% of YMSM reported receiving a HIV+ test result. Psychosocial health problems cooccurred, as evidenced by significant bivariate odds ratios (ORs) between 12 of the 15 associations tested. Number of psychosocial health problems significantly increased the odds of having multiple anal sex partners (OR=1.24), unprotected anal sex (OR=1.42), and an HIV-positive status (OR 1.42), after controlling for demographic factors. CONCLUSIONS: These data suggest the existence of cooccurring epidemics, or "syndemic," of health problems among YMSM. Disparities exist not only in the prevalence of HIV among YMSM but also in research to combat the epidemic within this vulnerable population. Future research is needed to identify risk and resiliency factors across the range of health disparities and develop interventions that address this syndemic.
 DA  - 2007/08//
 PY  - 2007
@@ -368,12 +452,18 @@ VL  - 34
 IS  - 1
 SP  - 37
 EP  - 45
+J2  - Ann Behav Med
 LA  - eng
 SN  - 0883-6612
 UR  - https://pubmed.ncbi.nlm.nih.gov/17688395
 L1  - https://europepmc.org/articles/pmc2219199?pdf=render
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2219199/
-KW  - A lire
+KW  - MSM
+KW  - Syndemic
+KW  - Substance use
+KW  - Sexual violence
+KW  - IPV
+KW  - Violence
 ER  - 
 
 TY  - JOUR
@@ -392,10 +482,13 @@ VL  - 19
 IS  - 11
 SP  - 1254
 EP  - 1267
+J2  - Cult Health Sex
 LA  - eng
 SN  - 1464-5351
 UR  - https://pubmed.ncbi.nlm.nih.gov/28394721
-KW  - A lire
+KW  - MSM
+KW  - Syndemic
+KW  - Qualitative study
 ER  - 
 
 TY  - JOUR
@@ -405,12 +498,21 @@ AU  - Kaur, Manmeet
 AU  - Tsai, Alexander C.
 AU  - Newman, Peter A.
 AU  - Kumar, Rajesh
-T2  - Social Science and Medicine
+T2  - Social Science & Medicine
 AB  - <h2 class="section-title u-h3 u-margin-l-top u-margin-xs-bottom">Highlights</h2><dl class="list"><dt class="list-label">•</dt><dd class="list-description"><p>Syndemic alcohol use, depression &amp; internalised homonegativity increased HIV risk.</p></dd><dt class="list-label">•</dt><dd class="list-description"><p>A syndemic theory-based intervention significantly increased condom use among MSM.</p></dd><dt class="list-label">•</dt><dd class="list-description"><p>Syndemic intervention significantly reduced psychosocial syndemic conditions.</p></dd><dt class="list-label">•</dt><dd class="list-description"><p>Managing psychosocial syndemic conditions led to more consistent condom use.</p></dd><dt class="list-label">•</dt><dd class="list-description"><p>HIV interventions for MSM should screen for &amp; treat psychosocial syndemic conditions.</p></dd></dl>
+DA  - 2020///
+PY  - 2020
 DO  - 10.1016/j.socscimed.2020.112817
+J2  - Soc Sci Med
 UR  - https://www.sciencedirect.com/science/article/pii/S0277953620300368?dgcid=rss_sd_all&utm_source=researcher_app&utm_medium=referral&utm_campaign=RESR_MRKT_Researcher_inbound
 L1  - https://pdf.sciencedirectassets.com/271821/AIP/1-s2.0-S0277953620300368/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjENL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIEHxmfbvN%2FhM4WYQVC9PLeeOMNE%2FzHZhCc5OAtxXqZtFAiA%2FibQ7BtuiF9j6y2L7Dm0SaPnfu62Cbb2%2Blf7O%2FZtowSq0AwhLEAMaDDA1OTAwMzU0Njg2NSIMxWP%2FlB9fzcvyo7oLKpEDEP21whosKqfwhIg9IhXrc13zhgNJV0Un4Wxht1i82vFzfIfy0XTqoi%2FsSXmNnoOEvDsvumYzakA5Op7pv7dIWoXIJCe8NOoBRkLajBHXUDXAu0QYO6wKu7rckWdZYZFBEIM5LcKhO6PeqWH%2BsNXdfVprqyWU8XBIxB8xQSM7ZByIdit9Z0mYCYKaqYzBrgqwi31s2CYdtdiebC9PjDJ2PZErAj0lKgi3A233uDyWB5LadYNo7TCGLYai3Rc5X9azQKZgRByn1XoclBmJTFms7yZi5X2Hwcw9riEwOdjneJTmyPNqsOmlbBsUKLDcy28wDgknrf1W5MP8C1EdZBwHfV8QCd%2BivcqVn3Vd6IN4tmTEkU9ScmBF6%2Flfl0tdoJ7zD4v3TXP9cFO6Fp0v3QU6eSF6%2BBf9e6Hy9YMNEtfZBR4n2cKVsUu5%2FBzz9QpStmnI3GpTBdiDTTepVQXZfor8bwnaxPPc%2BJH%2Bx0GKFPRB2jgpMvVAyEPlxOi0aC2sl2sn9Kdh4p1DKrPkXXynPAtIuXMwpNuJ9wU67AFi7v357rAknGlhhNt8tBXvw%2Bdbe61f8GYFrzPd%2Fll6IQyXTVgfKZ54XXo82hq9s%2BgCrno2pLEYEwQbEpZR498vvETuLUlcceZOpHHeFZngDmTXjbuBPYJVJg833wWw9ukNX9%2FufyGWCoPyn46Ld2nVwhOcsxJiATU5dZ9RvG4i0qCAwSEW9sZJkJeY6NTSpeO1wVs41S4IviK2wt5GrXNg03ARxW7ZjeE4wsrWh%2BvT43WZS2pQzDJ5fanLhVRHd2pgMjG%2BlGyGC8Kr33DkzUEGQZcT30uiExVuyfAWXoVy%2F95ZuXr4BZCeRq3olw%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200611T184049Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYYTUSYR7P%2F20200611%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=578344b7af92912dda74a2634ce457685bbd16ae50fc481163361075f6accb58&hash=e6298a0dd1a3b2b21ed74eb4588485027ab7fdcd8d7e2278aa49126b3bebbb07&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0277953620300368&tid=spdf-1f1451d4-b38e-48a3-9323-75aab1091dcc&sid=8ae8e80a6e91b845ad494748819f0b7b4119gxrqb&type=client
-KW  - A lire
+KW  - MSM
+KW  - Depression
+KW  - Internalised homophobia
+KW  - Syndemic
+KW  - STD
+KW  - HIV/AIDS
+KW  - Alcohol Use Disorder
 ER  - 
 
 TY  - JOUR
@@ -428,11 +530,15 @@ AB  - Exchange sex is a behavior associated with HIV transmission risk among men
 DA  - 2020/01/21/
 PY  - 2020
 DO  - 10.1007/s10508-020-01628-8
+VL  - 49
+SP  - 1965
+EP  - 1978
+J2  - Arch Sex Behav
 SN  - 0004-0002
 UR  - http://link.springer.com/article/10.1007/s10508-020-01628-8?utm_source=researcher_app&utm_medium=referral&utm_campaign=RESR_MRKT_Researcher_inbound
 L4  - http://link.springer.com/10.1007/s10508-020-01628-8
-KW  - A lire
 KW  - IDU
+KW  - MSM
 KW  - Depression
 KW  - Syndemic
 KW  - HIV
@@ -450,22 +556,36 @@ AU  - Kegeles, Susan M.
 AU  - Brown, Stephen
 AU  - Williams, Robert
 AU  - Arnold, Emily A.
-T2  - Culture, Health and Sexuality
+T2  - Culture, health & sexuality
 AB  - In this longitudinal qualitative study we explored the lived experiences of young Black men who have sex with men in Dallas, Texas in relation to methamphetamine use, intimate partner violence and a history of incarceration as syndemic conditions that may contribute to their risk of transmitting or acquiring HIV. We conducted a total of 106 interviews (four repeat interviews every six months) with a cohort of 30 participants. Some reported condomless sex and no discussion about condom use or HIV status with sexual partners. Fifteen participants reported that they were living with HIV. Methamphetamine use contributed to participants' unstable housing, job loss, destructive relationships and HIV risk. One third of participants reported a history of intimate partner violence. About half had a history of incarceration resulting from intimate partner violence, substance use/dealing and/or other activities. Post-release, having a criminal record limited job opportunities and impacted financial stability. Consequently, some men engaged in survival work involving HIV risk (sex work, organising/participating in sex parties). Methamphetamine use, intimate partner violence and incarceration may constitute syndemic conditions that increase young Black men who have sex with men's risk for HIV acquisition and transmission. HIV prevention interventions must address syndemics and include structural factors and the wider social environment.
+DA  - 2020///
+PY  - 2020
 DO  - 10.1080/13691058.2019.1688395
+J2  - Cult Health Sex
 UR  - https://www.tandfonline.com/doi/full/10.1080/13691058.2019.1688395?af=R&utm_source=researcher_app&utm_medium=referral&utm_campaign=RESR_MRKT_Researcher_inbound
-KW  - A lire
+KW  - MSM
+KW  - Syndemic
+KW  - Substance use
+KW  - Incarceration
+KW  - IPV
+KW  - Black MSM
 ER  - 
 
 TY  - JOUR
 TI  - Applying an intersectional framework to understand syndemic conditions among young Black gay, bisexual, and other men who have sex with men
 AU  - Quinn, Katherine G.
-T2  - Social Science and Medicine
+T2  - Social Science & Medicine
 AB  - <p>Syndemic theory has been useful in illuminating the co-existence and reinforcing nature of multiple health and social conditions that contribute to HIV risk. However, little research has examined syndemics among young Black gay, bisexual, and other men who have sex with men (GBM) or situated syndemics within the context of racism, homonegativity, and other intersecting social inequities. Applying an intersectional framework to syndemics can help demonstrate how social and structural inequities and oppression facing young Black GBM contribute to and reinforce syndemic health conditions. In 2018, we conducted 45 in-depth qualitative interviews with young Black GBM in Milwaukee and Cleveland. Our analyses examined how intersectional stigma contributes to syndemics and HIV disparities facing young Black GBM. Our findings demonstrate that broader systems of oppression and disadvantage facing young Black GBM contribute to syndemic conditions. Future conceptualizations and measurements of syndemics must capture these experiences to strengthen our understanding of syndemics among young Black GBM.</p>
+DA  - 2019///
+PY  - 2019
 DO  - 10.1016/j.socscimed.2019.112779
+J2  - Soc Sci Med
 UR  - https://www.sciencedirect.com/science/article/pii/S0277953619307749?dgcid=rss_sd_all&utm_source=researcher_app&utm_medium=referral&utm_campaign=RESR_MRKT_Researcher_inbound
 L1  - https://pdf.sciencedirectassets.com/271821/AIP/1-s2.0-S0277953619307749/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjENL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIEHxmfbvN%2FhM4WYQVC9PLeeOMNE%2FzHZhCc5OAtxXqZtFAiA%2FibQ7BtuiF9j6y2L7Dm0SaPnfu62Cbb2%2Blf7O%2FZtowSq0AwhLEAMaDDA1OTAwMzU0Njg2NSIMxWP%2FlB9fzcvyo7oLKpEDEP21whosKqfwhIg9IhXrc13zhgNJV0Un4Wxht1i82vFzfIfy0XTqoi%2FsSXmNnoOEvDsvumYzakA5Op7pv7dIWoXIJCe8NOoBRkLajBHXUDXAu0QYO6wKu7rckWdZYZFBEIM5LcKhO6PeqWH%2BsNXdfVprqyWU8XBIxB8xQSM7ZByIdit9Z0mYCYKaqYzBrgqwi31s2CYdtdiebC9PjDJ2PZErAj0lKgi3A233uDyWB5LadYNo7TCGLYai3Rc5X9azQKZgRByn1XoclBmJTFms7yZi5X2Hwcw9riEwOdjneJTmyPNqsOmlbBsUKLDcy28wDgknrf1W5MP8C1EdZBwHfV8QCd%2BivcqVn3Vd6IN4tmTEkU9ScmBF6%2Flfl0tdoJ7zD4v3TXP9cFO6Fp0v3QU6eSF6%2BBf9e6Hy9YMNEtfZBR4n2cKVsUu5%2FBzz9QpStmnI3GpTBdiDTTepVQXZfor8bwnaxPPc%2BJH%2Bx0GKFPRB2jgpMvVAyEPlxOi0aC2sl2sn9Kdh4p1DKrPkXXynPAtIuXMwpNuJ9wU67AFi7v357rAknGlhhNt8tBXvw%2Bdbe61f8GYFrzPd%2Fll6IQyXTVgfKZ54XXo82hq9s%2BgCrno2pLEYEwQbEpZR498vvETuLUlcceZOpHHeFZngDmTXjbuBPYJVJg833wWw9ukNX9%2FufyGWCoPyn46Ld2nVwhOcsxJiATU5dZ9RvG4i0qCAwSEW9sZJkJeY6NTSpeO1wVs41S4IviK2wt5GrXNg03ARxW7ZjeE4wsrWh%2BvT43WZS2pQzDJ5fanLhVRHd2pgMjG%2BlGyGC8Kr33DkzUEGQZcT30uiExVuyfAWXoVy%2F95ZuXr4BZCeRq3olw%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200611T184143Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYYTUSYR7P%2F20200611%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=9be794b5ad75bf08d7b469bfd472bcc4b967bb9d15abde584c7372181b02f1ec&hash=a9be46c30c6c0076ec82bc8a75d3d7fb369d00f4d2c98506aa0c33f223d00410&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0277953619307749&tid=spdf-6b4b60d1-64bb-4143-9c52-e88c4d14da0e&sid=8ae8e80a6e91b845ad494748819f0b7b4119gxrqb&type=client
-KW  - A lire
+KW  - MSM
+KW  - Syndemic
+KW  - Qualitative study
+KW  - Black MSM
 ER  - 
 
 TY  - JOUR
@@ -477,14 +597,34 @@ AU  - Rodríguez-Díaz, Carlos E.
 AU  - Horvath, Keith J.
 AU  - Blashill, Aaron J.
 T2  - International Journal of Behavioral Medicine
-AB  - <h3 class="Heading">Background</h3><p class="Para">Although studies consistently find that syndemic indicators are additively associated with increased HIV/STI risk behavior (e.g., condomless anal sex; CAS) among men who have sex with men (MSM), information is lacking about how syndemic indicators are associated with each other. Young Latino MSM are one of the most at-risk groups for acquiring HIV in the U.S. Understanding the associations of syndemic indicators with each other and with CAS may improve understanding of how to enhance sexual and behavioral health in this population.</p>
-<h3 class="Heading">Method</h3><p class="Para">Network analysis using the graphical LASSO (glasso) algorithm was employed to explore associations between CAS and syndemic indicators among 139 young Latino MSM. Structural and psychosocial syndemic indicators were assessed via self-report. CAS was defined as the number of partners in the past 3 months with whom one engaged in CAS.</p>
+AB  - Although studies consistently find that syndemic indicators are additively associated with increased HIV/STI risk behavior (e.g., condomless anal sex; CAS) among men who have sex with men (MSM), information is lacking about how syndemic indicators are associated with each other. Young Latino MSM are one of the most at-risk groups for acquiring HIV in the U.S. Understanding the associations of syndemic indicators with each other and with CAS may improve understanding of how to enhance sexual and behavioral health in this population.
+
+Method
+
+Network analysis using the graphical LASSO (glasso) algorithm was employed to explore associations between CAS and syndemic indicators among 139 young Latino MSM. Structural and psychosocial syndemic indicators were assessed via self-report. CAS was defined as the number of partners in the past 3 months with whom one engaged in CAS.</p>
 <h3 class="Heading">Results</h3><p class="Para">Results of the network analysis suggested the variables with the highest centrality were unstable housing, prison history, childhood sexual abuse, and CAS. Specific significant associations included links between CAS and alcohol use (b = 0.40), childhood sexual abuse and unstable housing (b = − 0.75), alcohol use and childhood sexual abuse (b = 0.40), and substance use and intimate partner violence (b = 0.43).</p>
 <h3 class="Heading">Conclusion</h3><p class="Para">This pattern of interconnectedness demonstrates the potential for network analysis to examine nuanced interrelationships of syndemic indicators. The specific associations in this sample raise the question whether a primary focus of interventions should address the more central syndemic indicators for this population, such as alcohol use and unstable housing, and whether this would, via downstream effects, affect other aspects of behavioral health in this population.</p>
+DA  - 2020///
+PY  - 2020
 DO  - 10.1007/s12529-019-09831-1
+VL  - 27
+SP  - 39
+EP  - 51
+J2  - Int J Behav Med
 UR  - http://link.springer.com/article/10.1007/s12529-019-09831-1?utm_source=researcher_app&utm_medium=referral&utm_campaign=RESR_MRKT_Researcher_inbound
 L1  - https://link.springer.com/content/pdf/10.1007%252Fs12529-019-09831-1.pdf
-KW  - A lire
+KW  - IDU
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Substance use
+KW  - Incarceration
+KW  - IPV
+KW  - Childhood sexual abuse
+KW  - Latino MSM
+KW  - Poverty
+KW  - Unstable housing
+KW  - Alcohol use
 ER  - 
 
 TY  - JOUR
@@ -492,7 +632,7 @@ TI  - Syndemics of stigma, minority-stress, maladaptive coping, risk environment
 AU  - Pollard, Alex
 AU  - Nadarzynski, Tom
 AU  - Llewellyn, Carrie
-T2  - Culture, Health & Sexuality
+T2  - Culture, health & sexuality
 AB  - There has been a steep rise in the use of drugs during sex (chemsex) by some men who have sex with men in economically developed countries, with associated increases in sexual risk for HIV and other STIs. This paper presents data from telephone interviews with 15 men attending sexual health clinics for post-exposure prophylaxis following a chemsex-related risk for HIV and discusses some of the theoretical approaches that have been employed to understand chemsex and inform interventions. Interviews were conducted as part of a larger intervention study, which used an adapted version of motivational Interviewing to explore risk behaviour and support change. Participants conceptualised their chemsex and HIV-related risks in a psycho-social context, highlighting the influences of psycho-socio-cultural challenges of homophobic marginalisation and the ‘gay scene’ on behaviour. Multiple influences of stigma, marginalisation, minority stress and maladaptive coping (including drug-use) contribute to syndemic ‘risk-environments’ and ‘littoral spaces’ in which chemsex and risk behaviours are played out.
 DA  - 2018/04/03/
 PY  - 2018
@@ -501,16 +641,15 @@ VL  - 20
 IS  - 4
 SP  - 411
 EP  - 427
+J2  - Cult Health Sex
 SN  - 1369-1058
 UR  - http://doi.org/10.1080/13691058.2017.1350751
 L4  - https://www.tandfonline.com/doi/full/10.1080/13691058.2017.1350751
 KW  - Chemsex
-KW  - A lire
 KW  - MSM
 KW  - Minority stress
 KW  - Syndemic
-KW  - MSMW
-KW  - Bisexuals
+KW  - Loneliness
 ER  - 
 
 TY  - JOUR
@@ -528,21 +667,20 @@ AB  - Intimate partner violence (IPV) is highly prevalent in transgender (trans)
 DA  - 2019/10/13/
 PY  - 2019
 DO  - 10.1080/09540121.2019.1678722
-SP  - 1
-EP  - 6
+VL  - 32
+IS  - 3
+SP  - 337
+EP  - 342
 SN  - 0954-0121
 UR  - https://www.tandfonline.com/doi/full/10.1080/09540121.2019.1678722?af=R&utm_source=researcher_app&utm_medium=referral&utm_campaign=RESR_MRKT_Researcher_inbound
-L4  - https://journals.sagepub.com/doi/abs/10.1177/0886260519876024?ai=2b4&mi=ehikzz&af=R&utm_source=
-L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6980916/
-KW  - A lire
 KW  - MSM
 KW  - Depression
 KW  - Syndemic
 KW  - HIV
 KW  - Substance use
-KW  - Alcohol abuse
 KW  - Sex work
 KW  - PTSD
+KW  - Alcohol Use Disorder
 ER  - 
 
 TY  - JOUR
@@ -558,23 +696,21 @@ DA  - 2014/02//
 PY  - 2014
 DO  - 10.2105/AJPH.2013.301744
 VL  - 104
-IS  - 2
 SP  - 287
 EP  - 294
+J2  - Am J Public Health
 SN  - 0090-0036
 Y2  - 2019/12/01/
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3935701/
 KW  - Suicide
-KW  - A lire
 KW  - MSM
 KW  - Depression
 KW  - Syndemic
 KW  - Substance use
+KW  - Binge drinking
 KW  - MSMW
 KW  - Sexual violence
 KW  - IPV
-KW  - Bisexuals
-KW  - Violence
 ER  - 
 
 TY  - JOUR
@@ -590,14 +726,13 @@ AB  - Globally, gay, bisexual and other men who have sex with men (GBMSM) experi
 DA  - 2019/11//
 PY  - 2019
 DO  - 10.1016/j.ssmph.2019.100519
+VL  - 10
 SP  - 100519
+J2  - SSM Popul Health
 SN  - 23528273
 UR  - https://www.sciencedirect.com/science/article/pii/S2352827319301466?dgcid=rss_sd_all&utm_source=researcher_app&utm_medium=referral&utm_campaign=RESR_MRKT_Researcher_inbound
-L4  - https://linkinghub.elsevier.com/retrieve/pii/S2352827319301466
-L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6911981/
-KW  - Syndémie - Général
-KW  - A lire
 KW  - MSM
+KW  - Syndemic
 ER  - 
 
 TY  - JOUR
@@ -622,13 +757,12 @@ VL  - 82
 IS  - 12
 SP  - 158
 EP  - 165
+J2  - Addict. Behav
 SN  - 03064603
 UR  - https://linkinghub.elsevier.com/retrieve/pii/S0306460318301102
-KW  - A lire
 KW  - MSM
 KW  - Depression
 KW  - Syndemic
-KW  - MSMW
 KW  - Polysubstance use
 ER  - 
 
@@ -649,18 +783,25 @@ VL  - 21
 IS  - 3
 SP  - 845
 EP  - 857
+J2  - AIDS Behav
 SN  - 15733254
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5303540/
-KW  - A lire
+KW  - Suicide
 KW  - Chlamydia
 KW  - MSM
-KW  - Young adults
 KW  - Gonorrhea
 KW  - Depression
 KW  - Syndemic
 KW  - HIV
-KW  - Substance use
+KW  - IPV
+KW  - Discrimination
+KW  - Polysubstance use
 KW  - Violence
+KW  - Childhood sexual abuse
+KW  - Black MSM
+KW  - Latino MSM
+KW  - Alcohol Use Disorder
+KW  - YMSM
 ER  - 
 
 TY  - JOUR
@@ -680,15 +821,20 @@ DA  - 2014///
 PY  - 2014
 DO  - 10.1007/s10461-014-0826-8
 VL  - 18
-IS  - 11
 SP  - 2089
 EP  - 2096
+J2  - AIDS Behav
 SN  - 15733254
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4198419/
-KW  - Syndémie - Applications
-KW  - A lire
+KW  - Suicide
 KW  - MSM
 KW  - Syndemic
+KW  - Substance use
+KW  - Sexual violence
+KW  - Sex work
+KW  - Violence
+KW  - Alcohol use
+KW  - Social support
 ER  - 
 
 TY  - JOUR
@@ -704,16 +850,20 @@ AB  - In the U.S., sexual minority men (SMM) are disproportionately affected by 
 DA  - 2020/02/20/
 PY  - 2020
 DO  - 10.1080/00224499.2020.1728514
-SP  - 1
-EP  - 28
+VL  - 57
+SP  - 681
+EP  - 708
+J2  - J Sex Res
 SN  - 0022-4499
 UR  - https://www.tandfonline.com/doi/full/10.1080/00224499.2020.1728514?af=R&utm_source=researcher_app&utm_medium=referral&utm_campaign=RESR_MRKT_Researcher_inbound
 L4  - https://www.tandfonline.com/doi/full/10.1080/00224499.2020.1728514
-KW  - A lire
 KW  - MSM
 KW  - Syndemic
+KW  - HIV
 KW  - Systematic review
+KW  - Substance use
 KW  - Meta-analysis
+KW  - Alcohol Use Disorder
 ER  - 
 
 TY  - JOUR
@@ -727,19 +877,26 @@ AU  - Pyun, Thomas
 AU  - Hebert, Pato
 AU  - Wilson, Patrick A
 AU  - Ayala, George
-T2  - Sexually transmitted infections
+T2  - Sexually Transmitted Infections
 AB  - OBJECTIVE: We evaluated the relationship among syndemic conditions (defined as a cluster of interconnected psychosocial health conditions), sexual behaviours and self-reported HIV infection in a global sample of men who have sex with men (MSM). METHODS: We used generalised estimating equations logistic regression models with robust SEs to assess the relationships among cumulative number of syndemic conditions--including depression, substance use, violence, sexual stigma and homelessness--and unprotected anal intercourse (UAI) and HIV infection, while accounting for clustering within-country in a global cross-sectional survey of 3934 MSM across 151 countries. RESULTS: We observed parallel, significant dose-response associations between the number of syndemic conditions and UAI, as well as number of syndemic conditions and HIV infection. Compared with participants without syndemics, the adjusted OR (aOR) for UAI among those with 1, 2 and 3 or more syndemic conditions were 1.44 (Bonferroni-adjusted 95% CI 1.23 to 1.68), 1.89 (1.51 to 2.36) and 2.03 (1.43 to 2.89), respectively. Compared with participants without syndemics, the aOR for HIV infection among those with 1, 2 and 3 or more syndemic conditions were 1.67 (1.24 to 2.26), 2.02 (1.44 to 2.85) and 2.35 (1.31 to 4.21), respectively. CONCLUSIONS: This analysis provides evidence of intertwining syndemics that may operate synergistically to increase HIV risk among MSM globally. To curb HIV effectively and advance the health of MSM, multiple conditions must be addressed concurrently using multi-level approaches that target both individual and structural risk factors.
 DA  - 2014/05//
 PY  - 2014
 DO  - 10.1136/sextrans-2013-051318
 VL  - 90
-IS  - 3
 SP  - 250
 EP  - 253
+J2  - Sex Transm Infect
 LA  - eng
 SN  - 1472-3263
 UR  - https://pubmed.ncbi.nlm.nih.gov/24431183
-KW  - A lire
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Healthcare access
+KW  - Substance use
+KW  - Discrimination
+KW  - Violence
+KW  - Unstable housing
 ER  - 
 
 TY  - JOUR
@@ -758,10 +915,18 @@ VL  - 39
 IS  - 2
 SP  - 116
 EP  - 127
+J2  - Drug Alcohol Rev.
 LA  - eng
 SN  - 1465-3362
 UR  - https://pubmed.ncbi.nlm.nih.gov/32012373
-KW  - A lire
+KW  - MSM
+KW  - Syndemic
+KW  - Healthcare access
+KW  - Incarceration
+KW  - Black MSM
+KW  - Latino MSM
+KW  - Unstable housing
+KW  - Unemployment
 ER  - 
 
 TY  - JOUR
@@ -771,7 +936,7 @@ AU  - Ciyong, Lu
 AU  - Xueqing, Deng
 AU  - Hui, Wang
 AU  - Lingyao, Hong
-T2  - PloS one
+T2  - PLOS One
 AB  - BACKGROUND: The MSM (Men who have sex with men) population suffers from very high rates of concurrent psychosocial problems. Together, these problems comprise a syndemic that increases the risk of HIV infection for this community. The precise mechanisms through which this syndemic can raise the likelihood of HIV infection warrant further exploration. METHODOLOGY/PRINCIPAL FINDINGS: A total of 522 MSM were enrolled via a multiframe sampling approach and were asked to report psychosocial problems, risky sexual behaviors and HIV test results. A count of psychosocial health problems was calculated to test the additive relationship of these factors on HIV risk. Adjusting analysis and restriction analysis were used to determine a proposed intermediate pathway. Psychosocial health problems are highly concurrent and intercorrelated among urban MSM. Greater numbers of health problems are significantly and positively associated with HIV infection, which is mediated, at least partially, by risky sexual behaviors. CONCLUSIONS/SIGNIFICANCE: MSM experience concurrent psychosocial health problems that correlate with HIV infection in this community. We recommend the development of coping strategies for this population to deal with these psychosocial problems, both in prevention research and health policy.
 DA  - 2012///
 PY  - 2012
@@ -779,13 +944,19 @@ DO  - 10.1371/journal.pone.0032312
 VL  - 7
 IS  - 3
 SP  - e32312
-EP  - e32312
+J2  - PLoS ONE
 LA  - eng
 SN  - 1932-6203
 UR  - https://pubmed.ncbi.nlm.nih.gov/22479319
 L1  - https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0032312&type=printable
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3316524/
-KW  - A lire
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Binge drinking
+KW  - IPV
+KW  - Polysubstance use
+KW  - Childhood sexual abuse
 ER  - 
 
 TY  - JOUR
@@ -796,19 +967,25 @@ AU  - Tsai, Alexander C
 AU  - Vijin, Pandara Purayil
 AU  - Kumar, Pradeep
 AU  - Srinivas, Venkatesh
-T2  - SSM - population health
+T2  - SSM - Population Health
 AB  - The theory of syndemics has been used to explain elevated HIV risk facing men who have sex with men (MSM). However, few studies have employed suitable analytical methods to test this theory. Using data from a probability-based sample of MSM in India, we tested three proposed models linking the co-occurring epidemics of violence victimisation, drug use, and frequent alcohol use to HIV risk: 1) the syndemic model of synergistically interacting epidemics; 2) the "chains of risk" model; and 3) the model of mutually causal epidemics. The primary outcome was inconsistent condom use with male or hijra (transgender women) partners in the past month. For the syndemic model, we included product terms between the exposures and assessed for interaction on the additive (linear probability regression) and multiplicative (logistic regression) scales. Path analysis was used to test the models of serially causal epidemics and mutually causal epidemics. Among 22,297 HIV-negative MSM, violence victimisation (24.7%), frequent alcohol use (27.5%), and drug use (10.9%) frequently co-occurred. We found evidence for a three-way interaction between violence victimisation, drug use and frequent alcohol use on both the multiplicative (semi-elasticity = 0.28; 95% CI 0.10, 0.47) and additive (b = 0.14; 95% CI 0.01, .27) scales. We also estimated statistically significant two-way interactions between violence victimisation and frequent alcohol use on the multiplicative (semi-elasticity = .10; 95% CI 0.008, 0.20) and additive (b = 0.05, 95% CI 0.002, 0.107) scales, and between drug use and frequent alcohol use on the multiplicative (semi-elasticity = 0.13, 95% CI 0.02, 0.24) and additive (b = 0.06, 95% CI 0.007, 0.129) scales. Thus, we found strong evidence for the syndemic model. The models of serially causal and mutually causal epidemics were partially supported. These findings highlight the need to sharpen how syndemic models are specified so that their empirical predictions can be adequately tested and distinguished from other theories of disease distribution.
 DA  - 2019/01/03/
 PY  - 2019
 DO  - 10.1016/j.ssmph.2018.100348
 VL  - 7
 SP  - 100348
+J2  - SSM Popul Health
 LA  - eng
 SN  - 2352-8273
 UR  - https://pubmed.ncbi.nlm.nih.gov/30656208
 L1  - https://pdf.sciencedirectassets.com/312210/1-s2.0-S2352827318X00044/1-s2.0-S2352827318301678/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjENP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIBo9ZMsqxv%2FiCJxBiEJ60fAUsV1HDhOr87igxWIIK8JMAiEAw3tSfW3vBIjYV3ZZ14UiUVAUwKt%2FuBhP4uShK3UUvUMqtAMISxADGgwwNTkwMDM1NDY4NjUiDP1GImUv1dThIQkuSiqRA%2BYtwfT6%2FQMjuQiGKdd9subB9nLhnD6q6iVHV75G%2FbFzgnDORI9Fm6rluhA77%2B9SNUubNatLbytbswDUff6UwaBUIKXojjGcWlINl0Ik2kTUYaJHTMy%2B9gd%2FgD0dSg3tDfGGm382gBfVryJO%2BtUBWFNwXofLuLmgG9iMmGcqWv1SoVsAdSNyLk%2F7C2tyAI8KtBzQF37M7pKyuqfA4cXlLXjEAENiQirTlYcwXVAQ60fjoZqzvv6uvrESQ9hVKKpDABRxG%2FboZBxd8A7Z1IHrNYXOrFaqnKTSQG49NFvO8nHqLoSJwiE1cC8ms%2BvlOD%2BKOJRpXa4B89vk9RUYJD4VsSZhBQYObfndhOgtmRlBoirQv6Lazlep2438kz8u0rf8x72ndoOiMHm0UucOlugqZAuk9munoeHrWgUTOKqaZd9wNyKzybG9KvP3qFnYklut1iSy5XGgO45%2Bdm3tgq5brVTDsA7vNd7cDUnEprsh1%2BhDrcWhQC4%2F0amXQxhuBW3hJ%2BUO4TRqQji%2BsFQAiLAYQ%2BycMOHlifcFOusB%2BBDRcdNM4ivEfH0NVrOCJkku95YV3ubUXyvdOXJhkosOrmGS71nnLFi%2BKtg3Srg6ycnYGPbhlHx8jDmAgGfsK6zQPf3zkOh3dcq9TSBoc%2Bx%2FeTBBWZTCMQSqNXFStvOqjSad5pEc8KGpVlA8hkgVynyd1qgYnwGPKDA7wTAWHmv5TKqK5JkbHHdg8bniFVoisUs36FkRkkRW1%2FfUg9JfzxCXyXk6dk8YSMJn3HNE09CSQE%2BuCUJrtzAp6EYrhlK2JvDh6defkcJ7bGn%2FtuU9mR%2FcHNGfz5gXNXHxEEQYBz3%2Fx8wAzevW5h9UxA%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200611T184058Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY3HC5SJRQ%2F20200611%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3485ab89fbc76bc698c5f5edd515c67f88a1cae14341f1f47afdedd396753db7&hash=9469ee2679594548d1231170e30c6a7310b385e2e86c3d2de0c28100e511bfe2&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S2352827318301678&tid=spdf-e43c209c-a31a-444c-b83c-6528e59b9390&sid=8ae8e80a6e91b845ad494748819f0b7b4119gxrqb&type=client
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6329829/
-KW  - A lire
+KW  - ★
+KW  - MSM
+KW  - Syndemic
+KW  - Substance use
+KW  - Violence
+KW  - Alcohol use
 ER  - 
 
 TY  - JOUR
@@ -831,12 +1008,17 @@ VL  - 29
 IS  - 9
 SP  - 1087
 EP  - 1096
+J2  - AIDS
 LA  - eng
 SN  - 1473-5571
 UR  - https://pubmed.ncbi.nlm.nih.gov/25870981
 L1  - https://europepmc.org/articles/pmc4739626?pdf=render
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4739626/
-KW  - A lire
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Polysubstance use
+KW  - HIV/AIDS
 ER  - 
 
 TY  - JOUR
@@ -855,18 +1037,20 @@ VL  - 21
 IS  - 4
 SP  - 416
 EP  - 431
+J2  - Cult Health Sex
 LA  - eng
 SN  - 1464-5351
 UR  - https://pubmed.ncbi.nlm.nih.gov/30025511
 L1  - https://www.tandfonline.com/doi/pdf/10.1080/13691058.2018.1486458
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6430415/
-KW  - A lire
+KW  - MSM
+KW  - Syndemic
 ER  - 
 
 TY  - JOUR
 TI  - Using a syndemics theory approach to study HIV risk taking in a population of men who use the internet to find partners for unprotected sex
 AU  - Klein, Hugh
-T2  - American journal of men's health
+T2  - American Journal of Men's Health
 AB  - This study examines the value of using syndemics theory as a model for understanding HIV risk taking in a population of men who are at great risk for acquiring and/or transmitting HIV. The principal aim is to provide an empirical test of the applicability of the theory to sexual risk behaviors in this particular research population. The study was based on a national random sample of 332 men who have sex with men, or MSM, who use the Internet to seek men with whom they can engage in unprotected sex. Data collection was conducted via telephone interviews between January 2008 and May 2009. As hypothesized in the syndemics theory model, attitudes toward condom use were central to understanding men's involvement in risky sex. As hypothesized, these attitudes depended on various demographic, psychological/psychosocial functioning, and sex-related preference measures. Also as hypothesized, psychological and psychosocial functioning were found to be very important to the overall model, and as expected, these factors were shaped greatly by factors such as demographic characteristics and childhood maltreatment experiences. The structural equation assessing the fit of the overall model indicated solid support for the syndemics theory approach. Overall, syndemics theory seems to apply fairly well to understanding the complexity of the factors that underlie men's risk-taking practices. The complicated interplay among factors such as attitudes toward condom use, childhood maltreatment experiences, psychological and psychosocial functioning, and substance use and abuse-all of which are central to a syndemics theory approach to studying risk-was demonstrated.
 DA  - 2011/11//
 PY  - 2011
@@ -875,12 +1059,18 @@ VL  - 5
 IS  - 6
 SP  - 466
 EP  - 476
+J2  - Am J Men's Health
 LA  - eng
 SN  - 1557-9891
 UR  - https://pubmed.ncbi.nlm.nih.gov/21406487
 L1  - https://journals.sagepub.com/doi/pdf/10.1177/1557988311398472
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6192255/
-KW  - A lire
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Substance use
+KW  - Childhood sexual abuse
+KW  - Self-esteem
 ER  - 
 
 TY  - JOUR
@@ -894,19 +1084,26 @@ AU  - O'Cleirigh, Conall
 AU  - Novak, David S
 AU  - Mayer, Kenneth H
 AU  - Safren, Steven A
-T2  - Archives of sexual behavior
+T2  - Archives of Sexual Behavior
 AB  - The HIV epidemic in Latin America is highly concentrated in men who have sex with men (MSM). In the United States, multiple co-occurring psychosocial conditions have been shown to act as intertwined epidemics to potentiate HIV transmission among MSM. To date, no study has examined the role of syndemics and condomless sex among MSM in Latin America. In 2012, an online survey was conducted among members of the largest social/sexual networking website for MSM in Latin America. Participants were asked about demographics, sexual behaviors, HIV/STI diagnoses, and psychosocial well-being, including depression, suicidal ideation, hazardous alcohol use, hard drug use during sex, history of childhood/adolescent sexual abuse, intimate partner violence, and sexual compulsivity. Multivariable logistic generalized estimation equations were used to assess the relationship of syndemic factors and (1) engagement in higher risk condomless anal sex and (2) self-report of prior HIV diagnosis. Among 24,274 survey respondents, 74.6 % of the sample had at least one syndemic factor. In an additive model, syndemics were associated with increased odds of higher risk condomless anal sex, ranging from adjusted odds ratio of 1.31 (95 % CI 1.20, 1.43) for one syndemic factor to 4.06 (95 % CI 3.25, 5.09) for 6/7 syndemic factors. Similarly, syndemics were associated with increased odds of HIV infection (p < .0001). This study provides initial evidence that intertwined syndemics increase HIV risk behavior and HIV infection among MSM in Latin America. In the Latin American context, comprehensive HIV prevention interventions for MSM should be developed and tested that simultaneously address co-occurring psychosocial conditions and HIV risk.
 DA  - 2015/10//
 PY  - 2015
 DO  - 10.1007/s10508-015-0488-2
 VL  - 44
-IS  - 7
 SP  - 1869
 EP  - 1878
 LA  - eng
 SN  - 1573-2800
 UR  - https://pubmed.ncbi.nlm.nih.gov/26159862
-KW  - A lire
+KW  - Suicide
+KW  - Chemsex
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - IPV
+KW  - Sexual compulsivity
+KW  - Childhood sexual abuse
+KW  - Alcohol Use Disorder
 ER  - 
 
 TY  - JOUR
@@ -916,21 +1113,26 @@ AU  - Stall, Ron
 AU  - Egan, James
 AU  - Schrager, Sheree
 AU  - Kipke, Michele
-T2  - Journal of urban health : bulletin of the New York Academy of Medicine
+T2  - Journal of Urban Health
 AB  - Research shows that young men who have sex with men (YMSM) engage in higher rates of health risk behaviors and experience higher rates of negative health outcomes than their peers. The purpose of this study is to determine if the effects of adversity on HIV risk are mediated by syndemics (co-occurring health problems). Participants were 470 ethnically diverse YMSM ages 18 to 24 recruited between 2005 and 2006 and surveyed every 6 months for 24 months. Regression analyses examined the impact of adversity on syndemics (emotional distress, substance use, and problematic alcohol use) and the effects of both adversity and syndemics on HIV risk behaviors over time. Gay-related discrimination and victimization-among other adversity variables-were significantly associated with syndemics and condomless sex (CS). Syndemics mediated the effects of adversity on CS in all models. Adverse events impact HIV risk taking among YMSM through syndemics. These findings suggest that prevention programs aimed at reducing adversity may reduce both the synergistic effect of multiple psychosocial health problems and HIV risk taking.
 DA  - 2014/10//
 PY  - 2014
 DO  - 10.1007/s11524-014-9896-1
 VL  - 91
-IS  - 5
 SP  - 969
 EP  - 982
+J2  - J Urban Health
 LA  - eng
 SN  - 1468-2869
 UR  - https://pubmed.ncbi.nlm.nih.gov/25146488
 L1  - https://link.springer.com/content/pdf/10.1007%252Fs11524-014-9896-1.pdf
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4199441/
-KW  - A lire
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Substance use
+KW  - Binge drinking
+KW  - YMSM
 ER  - 
 
 TY  - JOUR
@@ -943,7 +1145,7 @@ AU  - Zhu, Chengdi
 AU  - Tian, Yilin
 AU  - Jiang, Xueqin
 AU  - Gan, Feng
-T2  - Health psychology : official journal of the Division of Health Psychology, American Psychological Association
+T2  - Health Psychology
 AB  - OBJECTIVE: We intended to verify the syndemic effect of psychosocial health conditions on suicidal ideation among men who have sex with men (MSM) in Shanghai, China; design a comprehensive framework for the identification of the MSM with suicidal ideation; and provide suggestion for suicidality intervention among MSM. METHOD: A cross-sectional study was conducted among 547 MSM in 4 districts in Shanghai. Sociodemographic, psychosocial, and suicidal ideation information of the participants was collected. Logistic regressions were performed to assess the relationship between psychosocial variables and suicidal ideation and to verify the syndemic effect of psychosocial factors. RESULTS: Of the MSM sample, 10.6% reported suicidal thoughts in the past year. In univariate analysis, depression, anxiety, loneliness, impulsivity, involuntary subordination (IS), social support, and risky sex were associated with suicidal ideation. Multivariate analysis found that IS (ORm = 2.92, 95% confidence interval [CI] = 1.55-5.51) and risky sex (ORm = 3.79, 95% CI = 1.44-9.97) remained significant. The MSM with more than 5 psychosocial health problems were nearly 4 times more likely (adjusted odds ratio = 4.68, 95% CI = 2.23-9.80) to have had suicidal ideation in the past year. CONCLUSIONS: The study confirmed the syndemic effect of psychosocial health problems in magnifying the risk of suicidality among MSM. More integrated and holistic approaches in the identification of high-risk groups and intervention of suicidality among MSM are needed.
 DA  - 2016/02//
 PY  - 2016
@@ -952,10 +1154,22 @@ VL  - 35
 IS  - 2
 SP  - 148
 EP  - 156
+J2  - Health Psychol
 LA  - eng
 SN  - 1930-7810
 UR  - https://pubmed.ncbi.nlm.nih.gov/26462059
-KW  - A lire
+KW  - Suicide
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Substance use
+KW  - Anxiety
+KW  - Loneliness
+KW  - Sexual compulsivity
+KW  - Social support
+KW  - Involuntary subordination
+KW  - Self-esteem
+KW  - Impulsivity
 ER  - 
 
 TY  - JOUR
@@ -964,21 +1178,27 @@ AU  - Starks, Tyrel J
 AU  - Tuck, Andrew N
 AU  - Millar, Brett M
 AU  - Parsons, Jeffrey T
-T2  - AIDS and behavior
+T2  - AIDS and Behavior
 AB  - The purpose of the current study was to examine whether syndemic stress in partnered gay men might undermine communication processes essential to the utilization of negotiated safety and other harm reduction strategies that rely on partners' HIV status disclosure. Participants included 100 gay male couples (N = 200 individuals) living in the U.S., who responded to an online survey. Participants completed measures of five syndemic factors (depression, poly-drug use, childhood sexual abuse, intimate partner violence, and sexual compulsivity). They also reported on whether condoms were used during first intercourse together and the timing of first condomless anal intercourse (CAI) relative to HIV disclosure in their relationship. Results of binary logistic regression analyses supported the hypothesis that the sum of partners' syndemic stress was negatively associated with condom use at first intercourse and with HIV disclosure prior to first CAI. Syndemic stress may contribute to HIV transmission risk between main partners in part because it accelerates the progression to CAI and interferes with communication processes central to harm reduction strategies utilized by gay men in relationships. Implications for prevention strategies and couples interventions, such as couples HIV counseling and testing, that facilitate communication skill-building, are discussed.
 DA  - 2016/02//
 PY  - 2016
 DO  - 10.1007/s10461-015-1248-y
 VL  - 20
-IS  - 2
 SP  - 439
 EP  - 448
+J2  - AIDS Behav
 LA  - eng
 SN  - 1573-3254
 UR  - https://pubmed.ncbi.nlm.nih.gov/26552658
 L1  - https://link.springer.com/content/pdf/10.1007%252Fs10461-015-1248-y.pdf
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4831131/
-KW  - A lire
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - IPV
+KW  - Polysubstance use
+KW  - Sexual compulsivity
+KW  - Childhood sexual abuse
 ER  - 
 
 TY  - JOUR
@@ -1001,12 +1221,19 @@ DO  - 10.1186/s12879-016-2132-8
 VL  - 17
 IS  - 1
 SP  - 46
+J2  - BMC Infect Dis
 LA  - eng
 SN  - 1471-2334
 UR  - https://pubmed.ncbi.nlm.nih.gov/28061819
 L1  - https://bmcinfectdis.biomedcentral.com/track/pdf/10.1186/s12879-016-2132-8
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5219803/
-KW  - A lire
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Anxiety
+KW  - Loneliness
+KW  - Sexual compulsivity
+KW  - Self-esteem
 ER  - 
 
 TY  - JOUR
@@ -1020,7 +1247,7 @@ AU  - Blumenthal, Jill
 AU  - Morris, Sheldon
 AU  - Moore, David J
 AU  - Safren, Steven A
-T2  - Archives of sexual behavior
+T2  - Archives of Sexual Behavior
 AB  - Young Latino men who have sex with men (MSM) are a highly vulnerable population for HIV infection. Pre-exposure prophylaxis (PrEP) is a novel biomedical HIV prevention tool that may aid in reducing the disparity in HIV incidence among Latino MSM. However, PrEP use is disproportionally low among Latino MSM and, therefore, identifying barriers along the PrEP continuum of care (the "PrEP cascade") would provide insight into how to best deploy PrEP interventions. Syndemics theory is a prominent framework employed in HIV prevention; however, to date, no known studies have applied this theory to PrEP. Thus, the aim of the current study was to explore the association between syndemics and the PrEP cascade, including the degree to which psychosocial and structural syndemic constructs are related to the PrEP cascade. Participants were 151 young Latino MSM (M age = 24 years; SD = 3) residing in San Diego, California, who completed a battery of online self-report measures. Results indicated high levels of syndemic indicators and varying levels of engagement across the PrEP cascade. As syndemic indicators increased, the odds of engagement across the PrEP cascade were significantly lowered. Psychosocial and structural syndemic factors accounted for unique variance in the PrEP cascade. Results highlight the need for combination interventions that address both psychosocial and structural barriers to PrEP use and persistence among young Latino MSM.
 DA  - 2020/01//
 PY  - 2020
@@ -1029,11 +1256,23 @@ VL  - 49
 IS  - 1
 SP  - 125
 EP  - 135
+J2  - Arch Sex Behav
 LA  - eng
 SN  - 1573-2800
 UR  - https://pubmed.ncbi.nlm.nih.gov/31591666
 L1  - https://link.springer.com/content/pdf/10.1007%252Fs10508-019-01470-7.pdf
-KW  - A lire
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Incarceration
+KW  - Binge drinking
+KW  - IPV
+KW  - Polysubstance use
+KW  - Marijuana use
+KW  - Childhood sexual abuse
+KW  - Latino MSM
+KW  - Poverty
+KW  - Unstable housing
 ER  - 
 
 TY  - JOUR
@@ -1052,12 +1291,17 @@ VL  - 20
 IS  - 2
 SP  - 497
 EP  - 501
+J2  - J Immigr Minor Health
 LA  - eng
 SN  - 1557-1920
 UR  - https://pubmed.ncbi.nlm.nih.gov/28341890
 L1  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5610922/pdf/nihms862932.pdf
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5610922/
-KW  - A lire
+KW  - Depression
+KW  - Syndemic
+KW  - MSMW
+KW  - Polysubstance use
+KW  - Childhood sexual abuse
 ER  - 
 
 TY  - JOUR
@@ -1068,20 +1312,28 @@ AU  - Bub, Kristen L
 AU  - Barton, Staci
 AU  - Moreira, Alvaro D
 AU  - Stults, Christopher B
-T2  - AIDS and behavior
+T2  - AIDS and Behavior
 AB  - The persistence of disparities in STI/HIV risk among a new generation of emerging adult gay, bisexual, and other men who have sex with men (YMSM) warrant holistic frameworks and new methodologies for investigating the behaviors related to STI/HIV in this group. In order to better understand the continued existence of these disparities in STI/HIV risk among YMSM, the present study evaluated the presence and persistence of syndemic conditions among YMSM by examining the co-occurrence of alcohol and drug use, unprotected sexual behavior, and mental health burden over time. Four waves of data, collected over the first 18 months of a 7 wave, 36-month prospective cohort study of YMSM (n=600) were used to examine the extent to which measurement models of drug use, unprotected sexual behavior, and mental health burden remained consistent across time using latent class modeling. Health challenges persisted across time as these YMSM emerged into young adulthood and the measurement models for the latent constructs of drug use and unprotected sexual behavior were essentially consistent across time whereas models for mental health burden varied over time. In addition to confirming the the robustness of our measurement models which capture a more holistic understandings of the health conditions of drug use, unprotected sex, and mental health burden, these findings underscore the ongoing health challenges YMSM face as they mature into young adulthood. These ongoing health challenges, which have been understood as forming a syndemic, persist over time, and add further evidence to support ongoing and vigilant comprehensive health programming for sexual minority men that move beyond a sole focus on HIV.
 DA  - 2015/06//
 PY  - 2015
 DO  - 10.1007/s10461-014-0892-y
 VL  - 19
-IS  - 6
 SP  - 970
 EP  - 980
+J2  - AIDS Behav
 LA  - eng
 SN  - 1573-3254
 UR  - https://pubmed.ncbi.nlm.nih.gov/25192900
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4362859/
-KW  - A lire
+KW  - Suicide
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Substance use
+KW  - Loneliness
+KW  - PTSD
+KW  - Alcohol use
+KW  - YMSM
 ER  - 
 
 TY  - JOUR
@@ -1092,21 +1344,26 @@ AU  - Stall, Ronald D
 AU  - Margolis, Andrew D
 AU  - Downing  Jr, Martin J
 AU  - Chiasson, Mary Ann
-T2  - American journal of public health
+T2  - American Journal of Public Health
 AB  - OBJECTIVES: We surveyed men who have sex with men (MSM) to determine whether sexual risk behaviors, recent drug use, and other psychosocial problems differed between men who engaged in one-on-one and group sexual encounters. METHODS: We conducted an Internet-based cross-sectional survey of 7158 MSM aged 18 years or older in the United States recruited from a gay-oriented sexual networking Web site in 2008. Among MSM who engaged in group sexual encounters, we compared their past-60-day sexual behaviors in one-on-one encounters and group sexual encounters. We also compared risk profiles and syndemic production between men who did and did not participate in group sex. RESULTS: Men reporting a group-sex encounter had significantly higher polydrug use and sexual risk than did the men not reporting group sex in the past 60 days. The odds of engaging in group sex with 4 or more sexual partners significantly increased with the number of psychosocial problems, supporting evidence of syndemic production. CONCLUSIONS: We identified a particularly high-risk subgroup in the MSM population with considerable psychosocial problems that may be reached online. Research is needed on how to engage these high-risk men in combination prevention interventions.
 DA  - 2015/09//
 PY  - 2015
 DO  - 10.2105/AJPH.2014.302346
 VL  - 105
-IS  - 9
 SP  - 1849
 EP  - 1858
+J2  - Am J Public Health
 LA  - eng
 SN  - 1541-0048
 UR  - https://pubmed.ncbi.nlm.nih.gov/25713951
 L1  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4539820/pdf/AJPH.2014.302346.pdf
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4539820/
-KW  - A lire
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Incarceration
+KW  - Polysubstance use
+KW  - Alcohol use
 ER  - 
 
 TY  - JOUR
@@ -1116,20 +1373,26 @@ AU  - Bazzi, Angela Robertson
 AU  - Funk, Danielle
 AU  - James, Bonface
 AU  - Potter, Jennifer
-T2  - Journal of community health
+T2  - Journal of Community Health
 AB  - Syndemic theory posits that epidemics of multiple physical and psychosocial problems co-occur among disadvantaged groups due to adverse social conditions. Although sexual minority populations are often stigmatized and vulnerable to multiple health problems, the syndemic perspective has been underutilized in understanding chronic disease. To assess the potential utility of this perspective in understanding the management of co-occurring HIV and Type 2 diabetes, we used linear regression to examine glycemic control (A1c) among men who have sex with men (MSM) with both HIV and Type 2 diabetes (n = 88). Bivariable linear regression explored potential syndemic correlates of inadequate glycemic control. Compared to those with adequate glycemic control (A1c ≤ 7.5 %), more men with inadequate glycemic control (A1c > 7.5 %) had hypertension (70 vs. 46 %, p = 0.034), high triglycerides (93 vs. 61 %, p = 0.002), depression (67 vs. 39 %, p = 0.018), current substance abuse (15 vs. 2 %, p = 0.014), and detectable levels of HIV (i.e., viral load ≥75 copies per ml blood; 30 vs. 10 %, p = 0.019). In multivariable regression controlling for age, the factors that were independently associated with higher A1c were high triglycerides, substance use, and detectable HIV viral load, suggesting that chronic disease management among MSM is complex and challenging for patients and providers. Findings also suggest that syndemic theory can be a clarifying lens for understanding chronic disease management among sexual minority stigmatized populations. Interventions targeting single conditions may be inadequate when multiple conditions co-occur; thus, research using a syndemic framework may be helpful in identifying intervention strategies that target multiple co-occurring conditions.
 DA  - 2016/12//
 PY  - 2016
 DO  - 10.1007/s10900-016-0202-x
 VL  - 41
-IS  - 6
 SP  - 1204
 EP  - 1211
+J2  - J. Community Health
 LA  - eng
 SN  - 1573-3610
 UR  - https://pubmed.ncbi.nlm.nih.gov/27137196
 L1  - https://link.springer.com/content/pdf/10.1007%252Fs10900-016-0202-x.pdf
-KW  - A lire
+KW  - Diabetes
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - HIV
+KW  - Substance use
+KW  - IPV
 ER  - 
 
 TY  - JOUR
@@ -1153,13 +1416,18 @@ VL  - 132
 IS  - 1-2
 SP  - 265
 EP  - 270
+J2  - Drug Alcohol Depend
 LA  - eng
 SN  - 1879-0046
 UR  - https://pubmed.ncbi.nlm.nih.gov/23517682
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3726538/
-KW  - A lire
 KW  - MSM
+KW  - Depression
 KW  - Syndemic
+KW  - Substance use
+KW  - IPV
+KW  - Alcohol use
+KW  - Tobacco use
 ER  - 
 
 TY  - JOUR
@@ -1172,7 +1440,7 @@ AU  - Tomassili, Julia
 AU  - Biello, Katie B
 AU  - Mimiaga, Matthew J
 AU  - Mayer, Kenneth H
-T2  - Health psychology : official journal of the Division of Health Psychology, American Psychological Association
+T2  - Health Psychology
 AB  - OBJECTIVE: Among men who have sex with men (MSM), HIV sexual risk and poor self-care behavior is associated with syndemics, or co-occurring psychosocial problems. Though prior research has demonstrated an additive total effect of syndemics on HIV risk behavior and infection, mostly within cross-sectional designs, it is possible that these associations are not direct but rather that syndemics disrupt relevant individual-level mediating psychological variables. One of the more common individual-level psychological variables that predicts health behavior generally, and HIV risk behavior specifically, is self-efficacy. This study sought to examine the potential effects of syndemics on condomless sex via condom-use self-efficacy as an intermediary variable. METHOD: In high-risk MSM (N = 197), across 3 time points (baseline, 3 months, and 6 months) we used latent growth curve modeling to test the degree to which self-efficacy mediated the relationship between syndemics (heavy alcohol use, substance use disorder, sexual compulsivity, depression, social anxiety, intimate partner violence, childhood sexual abuse) and condomless anal sex. RESULTS: The baseline analyses were consistent with an indirect effect of the association between syndemics and condomless sex through self-efficacy. Prospective longitudinal mediation was partially supported, such that baseline syndemics were associated with lower baseline self-efficacy, which in turn predicted higher increases in condomless anal sex across time. CONCLUSIONS: These findings provide preliminary evidence (due to the partial support for the longitudinal model) that syndemics themselves may not be directly causal in their association with condomless sex, but the association may be through modifiable social-cognitive mechanisms such as condom self-efficacy. (PsycINFO Database Record
 DA  - 2018/09//
 PY  - 2018
@@ -1181,12 +1449,21 @@ VL  - 37
 IS  - 9
 SP  - 820
 EP  - 827
+J2  - Health Psychol
 LA  - eng
 SN  - 1930-7810
 UR  - https://pubmed.ncbi.nlm.nih.gov/29927272
 L1  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6107409/pdf/nihms971574.pdf
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6107409/
-KW  - A lire
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Anxiety
+KW  - IPV
+KW  - Sexual compulsivity
+KW  - Childhood sexual abuse
+KW  - Alcohol Use Disorder
+KW  - Substance Use Disorder
 ER  - 
 
 TY  - JOUR
@@ -1199,7 +1476,7 @@ AU  - Sweek, Elsa W
 AU  - Ironson, Gail
 AU  - Safren, Steven A
 AU  - O'Cleirigh, Conall
-T2  - Health psychology : official journal of the Division of Health Psychology, American Psychological Association
+T2  - Health Psychology
 AB  - OBJECTIVE: Syndemic theory posits that co-occurring problems (e.g., substance use, depression, and trauma) synergistically increase HIV risk in men who have sex with men (MSM). However, most investigations have assessed these problems additively using self-report. METHOD: In a sample of HIV-negative MSM with trauma histories (n = 290), we test bivariate relationships between four clinical diagnoses (substance use disorder [SUD]); major depressive disorder [MDD], posttraumatic stress disorder [PTSD], and anxiety disorders) and their additive and interactive effects on three health indicators (i.e., high-risk sex, visiting the emergency room [ER], and sexually transmitted infections [STIs]). RESULTS: We found significant bivariate relationships between SUD and MDD (χ² = 4.85, p = .028) and between PTSD and MDD (χ² = 35.38, p = .028, p < .001) but did not find a significant relationship between SUD and PTSD (χ² = 3.64, p = .056). Number of diagnoses were associated with episodes of high-risk sex (incidence rate ratio [IRR] = 1.14, 95% CI [1.03, 1.26], p = .009) and visiting the ER (odds ratio = 1.27; 95% CI [1.01, 1.60], p = .040) but not with STIs. No interactions were found between diagnoses and health-related indicators. CONCLUSIONS: This is the first study to demonstrate additive effects of clinical diagnoses on risk behavior and health care utilization among MSM with developmental trauma histories. Results indicate the need to prioritize empirically supported treatments for SUD and MDD, in addition to trauma treatment, for this population. (PsycINFO Database Record (c) 2019 APA, all rights reserved).
 DA  - 2019/06//
 PY  - 2019
@@ -1213,13 +1490,20 @@ SN  - 1930-7810
 UR  - https://pubmed.ncbi.nlm.nih.gov/30973745
 L1  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6784311/pdf/nihms-1022207.pdf
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6784311/
-KW  - A lire
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - STD
+KW  - Anxiety
+KW  - PTSD
+KW  - Childhood sexual abuse
+KW  - Substance Use Disorder
 ER  - 
 
 TY  - JOUR
 TI  - Childhood sexual abuse among Black men who have sex with men: A cornerstone of a syndemic?
 AU  - Wu, Elwin
-T2  - PloS one
+T2  - PLOS One
 AB  - BACKGROUND: The sequelae of childhood sexual abuse (CSA) includes HIV infection, engagement in HIV risk behaviors, substance misuse, and intimate partner violence (IPV). Although Black men who have sex with men (MSM) are disproportionately infected with HIV in the U.S.-especially in urban locations such as New York City-there is limited research with larger samples of Black MSM of varied HIV status regarding the prevalence of CSA and the potential negative consequence with respect to a "syndemic," i.e., the co-occurrence of adverse conditions such as HIVrisk, substance misuse, and IPV. METHODS: Black MSM (N = 1,002) recruited in New York City from 2009-2015 completed a screening assessment eliciting self-reported data on age, CSA, self-reported HIV status, number of male sexual partners, number of acts of condomless anal intercourse (CAI), substance misuse, and IPV. Hypothesis testing utilized logistic and linear regression models with self-reported data on CSA (independent variable) and indicators of the following syndemic factors: HIV risk, substance misuse, and IPV. RESULTS: More than one-fourth (28.1%) met criteria for experiencing CSA. CSA was associated with significantly greater odds of being HIV-positive (AOR = 1.5; 95% CI = 1.1-2.0); number of male sexual partners (b = 2.0, SE = 0.5, p = .002) and condomless acts of anal intercourse (b = 4.3, SE = 1.6, p = .007); odds of binge drinking (AOR = 1.5; 95% CI = 1.1-2.0) and illicit substance use (AOR = 1.5; 95% CI = 1.1-2.0); and odds of experiencing current IPV (AOR = 1.7; 95% CI = 1.2-2.3). CSA was associated with significantly greater odds of concurrently experiencing 2 or more syndemic factors (AOR = 2.0, 95% CI = 1.4-2.9, p < .001); concurrently experiencing 2 or more syndemic factors was significantly associated with having a riskier HIV status (for being HIV-positive: AOR = 1.5, 95% CI = 1.1-2.1, p = .02; for having an unknown HIV status: AOR = 3.7, 95% CI = 1.9-12.9, p = .04). CONCLUSIONS: Among Black MSM, CSA is a prevalent problem and is a significant antecedent to HIV, substance misuse, and IPV indicators and risk. Addressing CSA may be a valuable approach to remedy the syndemic of HIV, substance misuse, and violence that has burdened MSM, especially Black MSM, in the U.S.
 DA  - 2018/11/01/
 PY  - 2018
@@ -1228,19 +1512,25 @@ VL  - 13
 IS  - 11
 SP  - e0206746
 EP  - e0206746
+J2  - PLoS ONE
 LA  - eng
 SN  - 1932-6203
 UR  - https://pubmed.ncbi.nlm.nih.gov/30383859
 L1  - https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0206746&type=printable
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6211721/
-KW  - A lire
+KW  - MSM
+KW  - Syndemic
+KW  - IPV
+KW  - Childhood sexual abuse
+KW  - Black MSM
+KW  - Substance Use Disorder
 ER  - 
 
 TY  - JOUR
 TI  - Validating the Syndemic Threat Surrounding Sexual Minority Men's Health in a Population-Based Study With National Registry Linkage and a Heterosexual Comparison
 AU  - Bränström, Richard
 AU  - Pachankis, John E
-T2  - Journal of acquired immune deficiency syndromes (1999)
+T2  - Journal of Acquired Immune Deficiency Syndromes
 AB  - BACKGROUND: Research on the syndemic health threats facing sexual minority men suggests that the elevated risk of HIV among this population co-occurs with other psychosocial health disparities. This study aimed to conduct a population-based examination of clinically assessed syndemic predictors of HIV infection among gay and bisexual, compared with heterosexual, men. SETTING AND METHODS: The sample comprised adult men in the Stockholm Public Health Cohort. A total of 29,328 (91.9%) self-identified as heterosexual, 535 (1.7%) as gay, and 396 (1.2%) as bisexual. We linked survey responses to national health registry data. RESULTS: Gay men had vastly elevated risk of HIV infection (>150 times) compared with heterosexuals. Gay men also had an elevated risk of depression, suicidality, and violent assaults compared with heterosexuals. Bisexual men had 16 times higher risk of being HIV-positive than heterosexual men. The number of psychosocial syndemic conditions was significantly associated with HIV infection among gay men (adjusted odds ratio [AOR] = 1.67; 95% confidence interval [95% CI]: 1.18 to 2.36), but not among bisexual and heterosexual men (AOR = 0.51; 95% CI: 0.07 to 3.59; AOR = 1.92; 95% CI: 0.96 to 3.84). Among gay men, the association between co-occurring syndemic conditions and odds of HIV infection was synergistic (ie, more than additive). CONCLUSIONS: This study confirms emerging evidence of the syndemic health threats affecting sexual minority men, finds stronger evidence for syndemics among gay compared with bisexual men, and suggests the need for HIV-prevention interventions that comprehensively address the co-occurring, and synergistically perpetuating, disparities affecting this population.
 DA  - 2018/08/01/
 PY  - 2018
@@ -1249,10 +1539,18 @@ VL  - 78
 IS  - 4
 SP  - 376
 EP  - 382
+J2  - J. Acquir. Immune Defic. Syndr.
 LA  - eng
 SN  - 1944-7884
 UR  - https://pubmed.ncbi.nlm.nih.gov/29940602
-KW  - A lire
+KW  - Suicide
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - HIV
+KW  - MSMW
+KW  - Violence
+KW  - Alcohol Use Disorder
 ER  - 
 
 TY  - JOUR
@@ -1261,7 +1559,7 @@ AU  - Kurtz, Steven P
 AU  - Buttram, Mance E
 AU  - Surratt, Hilary L
 AU  - Stall, Ronald D
-T2  - AIDS education and prevention : official publication of the International Society for AIDS Education
+T2  - AIDS Education and Prevention
 AB  - Serosorting is commonly employed by MSM to reduce HIV risk. We hypothesize that MSM perceive serosorting to be effective, and that serosorting is predicted by resilience and inversely related to syndemic characteristics. Surveys included 504 substance-using MSM. Logistic regression models examined syndemic and resilience predictors of serosorting, separately by serostatus. For HIV-positive men, positive coping behaviors (P = .015) and coping self-efficacy (P = .014) predicted higher odds, and cognitive escape behaviors (P = .003) lower odds, of serosorting. For HIV-negative men, social engagement (P = .03) and coping self-efficacy (P = .01) predicted higher odds, and severe mental distress (P = .001), victimization history (P = .007) and cognitive escape behaviors (P = .006) lower odds, of serosorting. HIV-negative serosorters reported lower perceptions of risk for infection than non-serosorters (P < .000). Although high risk HIV-negative men may perceive serosorting to be effective, their high rates of UAI and partner change render this an ineffective risk reduction approach. Relevant public health messages are urgently needed.
 DA  - 2012/06//
 PY  - 2012
@@ -1270,12 +1568,18 @@ VL  - 24
 IS  - 3
 SP  - 193
 EP  - 205
+J2  - AIDS Educ Prev
 LA  - eng
 SN  - 1943-2755
 UR  - https://pubmed.ncbi.nlm.nih.gov/22676460
 L1  - https://guilfordjournals.com/doi/pdf/10.1521/aeap.2012.24.3.193
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3480663/
-KW  - A lire
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Anxiety
+KW  - Violence
+KW  - Substance Use Disorder
 ER  - 
 
 TY  - JOUR
@@ -1288,7 +1592,7 @@ AU  - Brennan, David J
 AU  - Gardner, Sandra
 AU  - Husbands, Winston
 AU  - Myers, Ted
-T2  - AIDS and behavior
+T2  - AIDS and Behavior
 AB  - Syndemics research shows the additive effect of psychosocial problems on high-risk sexual behavior among gay and bisexual men (GBM). Psychosocial strengths may predict less engagement in high-risk sexual behavior. In a study of 470 ethnically diverse HIV-negative GBM, regression models were computed using number of syndemic psychosocial problems, number of psychosocial strengths, and serodiscordant condomless anal sex (CAS). The number of syndemic psychosocial problems correlated with serodiscordant CAS (RR = 1.51, 95% CI 1.18-1.92; p = 0.001). When adding the number of psychosocial strengths to the model, the effect of syndemic psychosocial problems became non-significant, but the number of strengths-based factors remained significant (RR = 0.67, 95% CI 0.53-0.86; p = 0.002). Psychosocial strengths may operate additively in the same way as syndemic psychosocial problems, but in the opposite direction. Consistent with theories of resilience, psychosocial strengths may be an important set of variables predicting sexual risk behavior that is largely missing from the current HIV behavioral literature.
 DA  - 2017/10//
 PY  - 2017
@@ -1297,10 +1601,16 @@ VL  - 21
 IS  - 10
 SP  - 3035
 EP  - 3046
+J2  - AIDS Behav
 LA  - eng
 SN  - 1573-3254
 UR  - https://pubmed.ncbi.nlm.nih.gov/28050650
-KW  - A lire
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Discrimination
+KW  - Polysubstance use
+KW  - Childhood sexual abuse
 ER  - 
 
 TY  - JOUR
@@ -1309,7 +1619,7 @@ AU  - Pantalone, David W
 AU  - Valentine, Sarah E
 AU  - Woodward, Eva N
 AU  - O'Cleirigh, Conall
-T2  - Journal of gay & lesbian mental health
+T2  - Journal of Gay & Lesbian Mental Health
 AB  - Research on men who have sex with men (MSM) has uncovered psychosocial factors (syndemic indicators) that are associated additively with poor health. To test these relations in a sample of HIV-positive MSM, we enrolled 166 patients from two HIV clinics. We investigated relations between syndemic indicators and outcomes including medication nonadherence, condomless anal sex (CAS), and healthcare utilization. A large proportion of participants reported each syndemic indicator: polysubstance use 43%, suicide attempt 28%, childhood sexual abuse 39%, partner abuse 64%. Analyses confirmed an additive effect, whereby endorsing 1+ indicator was associated with increased odds of medication nonadherence and medical hospitalization.
 DA  - 2018///
 PY  - 2018
@@ -1318,12 +1628,18 @@ VL  - 22
 IS  - 1
 SP  - 71
 EP  - 87
+J2  - J Gay Lesbian Ment Health
 LA  - eng
 SN  - 1935-9705
 UR  - https://pubmed.ncbi.nlm.nih.gov/30976378
 L1  - https://www.tandfonline.com/doi/pdf/10.1080/19359705.2017.1389794
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6456071/
-KW  - A lire
+KW  - Suicide
+KW  - MSM
+KW  - Syndemic
+KW  - IPV
+KW  - Polysubstance use
+KW  - Childhood sexual abuse
 ER  - 
 
 TY  - JOUR
@@ -1335,7 +1651,7 @@ AU  - Rosenberger, Joshua G
 AU  - Novak, David S
 AU  - Mayer, Kenneth H
 AU  - Mimiaga, Matthew J
-T2  - AIDS care
+T2  - AIDS Care
 AB  - Latin America has some of the highest levels of antiretroviral therapy (ART) coverage of any developing region in the world. Early initiation and optimal adherence to ART are necessary for improved health outcomes and reduction in onward transmission. Previous work has demonstrated the role of psychosocial problems as barriers to uptake and adherence to ART, and recently, a syndemic framework has been applied to the role of multiple psychosocial syndemic factors and adherence to ART, in the USA. However, to our knowledge, these associations have not been investigated outside of the USA, nor in a multi-country context. To address these gaps, we assessed the association between multiple co-occurring psychosocial factors and engagement in HIV-related medical care and adherence to ART among a large, multinational sample of sexually-active HIV-infected men who have sex with men in Latin America. Among the 2020 respondents, 80.7% reported currently receiving HIV-related medical care, 72.3% reported currently receiving ART; among those, 62.5% reported 100% adherence. Compared with experiencing no psychosocial health problems, experiencing five or more psychosocial health problems is associated with 42% lower odds of currently receiving HIV-related medical care (adjusted odds ratio, aOR = 0.58, 95% CI 0.36, 0.95) and of currently receiving ART (aOR = 0.58, 95% CI 0.38, 0.91). The number of psychosocial health problems experienced was associated with self-reported ART adherence in a dose-response relationship; compared to those with none of the factors, individuals with one syndemic factor had 23% lower odds (aOR = 0.77, 95% CI 0.60, 0.97) and individuals with five or more syndemic factors had 72% lower odds (aOR = 0.28, 95% CI 0.14, 0.55) of reporting being 100% adherent to ART. Addressing co-occurring psychosocial problems as potential barriers to uptake and adherence of ART in Latin America may improve the effectiveness of secondary prevention interventions.
 DA  - 2016///
 PY  - 2016
@@ -1344,12 +1660,22 @@ VL  - 28 Suppl 1
 IS  - sup1
 SP  - 84
 EP  - 91
+J2  - AIDS Care
 LA  - eng
 SN  - 1360-0451
 UR  - https://pubmed.ncbi.nlm.nih.gov/26883009
 L1  - https://www.tandfonline.com/doi/pdf/10.1080/09540121.2016.1146205
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4828614/
-KW  - A lire
+KW  - Suicide
+KW  - Chemsex
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - IPV
+KW  - HIV/AIDS
+KW  - Sexual compulsivity
+KW  - Alcohol Use Disorder
+KW  - CSA
 ER  - 
 
 TY  - JOUR
@@ -1361,7 +1687,7 @@ AU  - Chen, Xiaobin
 AU  - Cheng, Weibin
 AU  - Gong, Xiao
 AU  - Yang, Yi
-T2  - Archives of sexual behavior
+T2  - Archives of Sexual Behavior
 AB  - Syndemic factors tend to co-occur and increase the risks of condomless anal intercourse (CAI), multiple sexual partners (MSP) and HIV vulnerability among men who have sex with men (MSM). This study aimed to test the synergistic effects of syndemic factors on HIV risk and to further explore the moderators between syndemics and HIV risk among Chinese MSM. A cross-sectional study was conducted to recruit MSM in Guangzhou to collect data on syndemic factors (depression, intimate partner violence, childhood sexual abuse [CSA], alcohol, and rush popper use before anal sex). The relative excess risk due to interactions (RERIs) was calculated to test the synergy in adjusted regression models. A moderated analysis was conducted to test the buffer effects of potential resilience factors (education and income). Among the 976 included MSM, individuals experiencing more syndemic factors were more likely to have CAI (odds ratio [OR]= 1.26, 95% confidence interval [CI] 1.11-1.44), MSP (OR= 1.33, 95% CI 1.16-1.52), and HIV infection (OR= 1.46, 95% CI 1.12-1.90). RERIs showed a synergy of depression and rush popper use prior to sex for MSP (1.17, 95% CI 0.03-2.03) and CSA and rush popper use prior to sex for HIV infection (1.72, 95% CI 0.05-3.43). However, no significant association was found for the interaction between the number of syndemic factors and education or income. Our findings support the synergy approach in syndemic studies and highlight the need for comprehensive and multifactorial intervention strategies on sexual health of MSM. Future studies are needed to identify potential resilience factors among Chinese MSM.
 DA  - 2020/01//
 PY  - 2020
@@ -1370,11 +1696,20 @@ VL  - 49
 IS  - 1
 SP  - 311
 EP  - 320
+J2  - Arch Sex Behav
 LA  - eng
 SN  - 1573-2800
 UR  - https://pubmed.ncbi.nlm.nih.gov/31617111
 L1  - https://link.springer.com/content/pdf/10.1007%252Fs10508-019-01488-x.pdf
-KW  - A lire
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - HIV
+KW  - STD
+KW  - IPV
+KW  - Childhood sexual abuse
+KW  - Alcohol use
+KW  - Poppers
 ER  - 
 
 TY  - JOUR
@@ -1384,21 +1719,28 @@ AU  - Jemmott  3rd, John B
 AU  - Stevens, Robin
 AU  - Rutledge, Scott Edward
 AU  - Icard, Larry D
-T2  - AIDS and behavior
+T2  - AIDS and Behavior
 AB  - The present study sought to replicate effects of the number of syndemic psychosocial health conditions on sexual risk behavior and HIV infection among a sample of high-risk African American men who have sex with men (MSM) and to identify resilience factors that may buffer these effects. We used baseline data from an HIV risk-reduction trial to examine whether a higher number of syndemic conditions was associated with higher rates of self-reported sexual risk behavior and HIV infection. Using logistic regression models, we tested for interactions between number of syndemic conditions and several potential resilience factors to identify buffering effects. Replicating previous studies, we found significant associations between numbers of syndemic conditions and higher rates of sexual risk behavior and HIV infection. Surprisingly, we also replicated a previous finding (Stall et al., Am J Public Health, 93(6):939-942, 2003) that the effects of syndemic burden on HIV status fell off at the highest levels of syndemic conditions. Among a variety of potential resilience factors, two-optimism and education-buffered the syndemic effect on HIV prevalence. This is, to our knowledge, the first paper to identify resilience factors buffering against syndemic effects among MSM. It also constitutes a significant contribution to the literature regarding prevention among black MSM. These results point to the need to identify HIV-positive black MSM and provide effective treatment for them and to develop interventions addressing both syndemic and resilience factors.
 DA  - 2014/11//
 PY  - 2014
 DO  - 10.1007/s10461-014-0708-0
 VL  - 18
-IS  - 11
 SP  - 2080
 EP  - 2088
+J2  - AIDS Behav
 LA  - eng
 SN  - 1573-3254
 UR  - https://pubmed.ncbi.nlm.nih.gov/24705710
 L1  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4186917/pdf/nihms583080.pdf
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4186917/
-KW  - A lire
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - IPV
+KW  - Childhood sexual abuse
+KW  - Black MSM
+KW  - Alcohol Use Disorder
+KW  - Substance Use Disorder
 ER  - 
 
 TY  - JOUR
@@ -1407,20 +1749,26 @@ AU  - Starks, Tyrel J
 AU  - Millar, Brett M
 AU  - Eggleston, Jeremy J
 AU  - Parsons, Jeffrey T
-T2  - AIDS and behavior
+T2  - AIDS and Behavior
 AB  - Syndemics theory has been proposed as a framework for understanding the role of multiple risk factors driving the HIV epidemic among gay and bisexual men. Previous studies have examined five syndemic indicators (polydrug use, depression, childhood sexual abuse, sexual compulsivity, and intimate partner violence). Many of these studies have utilized sum scores, the total number of syndemic factors endorsed, to quantify syndemic stress. This approach assumes a unidimensional latent factor and equivalence of factor loadings. It also overlooks the possibility that patterns, or classes, of syndemic factor endorsement may be present. The current study utilized survey data from 669 gay and bisexual men to test assumptions of unidimensionality and factor loading equivalence and to examine the utility of identifying latent classes of syndemic stress. Analysis supported operationalizing syndemics as a unidimensional latent factor. Assumptions of loading equality were not supported. Meaningful profiles of syndemic stress were not evident in latent class analysis results.
 DA  - 2014/11//
 PY  - 2014
 DO  - 10.1007/s10461-014-0841-9
 VL  - 18
-IS  - 11
 SP  - 2075
 EP  - 2079
+J2  - AIDS Behav
 LA  - eng
 SN  - 1573-3254
 UR  - https://pubmed.ncbi.nlm.nih.gov/25055765
 L1  - https://link.springer.com/content/pdf/10.1007%252Fs10461-014-0841-9.pdf
-KW  - A lire
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - IPV
+KW  - Polysubstance use
+KW  - Sexual compulsivity
+KW  - Childhood sexual abuse
 ER  - 
 
 TY  - JOUR
@@ -1435,21 +1783,27 @@ AU  - Shoptaw, Steven
 AU  - Carrico, Adam
 AU  - Ostrow, David
 AU  - Stall, Ron
-T2  - American journal of public health
+T2  - American Journal of Public Health
 AB  - OBJECTIVES: We tested a theory of syndemic production among men who have sex with men (MSM) using data from a large cohort study. METHODS: Participants were 1551 men from the Multicenter AIDS Cohort Study enrolled at 4 study sites: Baltimore, Maryland-Washington, DC; Chicago, Illinois; Los Angeles, California; and Pittsburgh, Pennsylvania. Participants who attended semiannual visits from April 1, 2008, to March 31, 2009, completed an additional survey that captured data about events throughout their life course thought to be related to syndemic production. RESULTS: Using multivariate analysis, we found that the majority of life-course predictor variables (e.g., victimization, internalized homophobia) were significantly associated with both the syndemic condition and the component psychosocial health outcomes (depressive symptoms, stress, stimulant use, sexual compulsivity, intimate partner violence). A nested negative binomial analysis showed that the overall life course significantly explained variability in the syndemic outcomes (χ(2) = 247.94; P < .001; df = 22). CONCLUSIONS: We identified life-course events and conditions related to syndemic production that may help to inform innovative interventions that will effectively disentangle interconnecting health problems and promote health among MSM.
 DA  - 2013/01//
 PY  - 2013
 DO  - 10.2105/AJPH.2012.300810
 VL  - 103
-IS  - 1
 SP  - 79
 EP  - 85
+J2  - Am J Public Health
 LA  - eng
 SN  - 1541-0048
 UR  - https://pubmed.ncbi.nlm.nih.gov/23153154
 L1  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3518355/pdf/AJPH.2012.300810.pdf
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3518355/
-KW  - A lire
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Substance use
+KW  - IPV
+KW  - Sexual compulsivity
+KW  - Stress
 ER  - 
 
 TY  - JOUR
@@ -1458,21 +1812,28 @@ AU  - Biello, Katie B
 AU  - Colby, Donn
 AU  - Closson, Elizabeth
 AU  - Mimiaga, Matthew J
-T2  - AIDS and behavior
+T2  - AIDS and Behavior
 AB  - In Vietnam, the co-occurrence (i.e., "syndemic") of psychosocial factors (e.g., depression and substance use) may disproportionately burden male sex workers and increase their HIV risk. A comprehensive survey was conducted among 300 male sex workers in Ho Chi Minh City, Vietnam in 2010. We performed logistic regression to examine the association between the syndemic variable-a count score of the number of five psychosocial conditions endorsed-and unprotected anal sex (UAS) in the past. One-third of participants reported any UAS, and 42 % reported ≥2 psychosocial health problems. In multivariable models, experiencing ≥4 psychosocial health problems was significantly associated with UAS. Every unit increase in number of psychosocial health problems was associated with a 25-30 % increase in odds of UAS. Understanding the syndemic condition and its association with HIV risk among male sex workers in Vietnam may lead to the development of more effective, comprehensive interventions.
 DA  - 2014/07//
 PY  - 2014
 DO  - 10.1007/s10461-013-0632-8
 VL  - 18
-IS  - 7
 SP  - 1264
 EP  - 1271
+J2  - AIDS Behav
 LA  - eng
 SN  - 1573-3254
 UR  - https://pubmed.ncbi.nlm.nih.gov/24081899
 L1  - https://link.springer.com/content/pdf/10.1007%252Fs10461-013-0632-8.pdf
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4363106/
-KW  - A lire
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Substance use
+KW  - Sexual violence
+KW  - Violence
+KW  - Childhood sexual abuse
+KW  - Alcohol Use Disorder
 ER  - 
 
 TY  - JOUR
@@ -1483,21 +1844,28 @@ AU  - Siconolfi, Daniel E
 AU  - Storholm, Erik D
 AU  - Solomon, Todd M
 AU  - Bub, Kristen L
-T2  - AIDS and behavior
+T2  - AIDS and Behavior
 AB  - The current study was designed to develop a better understanding of the nature of the relationships between mental health burden, drug use, and unprotected sexual behavior within a sample of emerging adult gay and bisexual men, ages 18-19 (N = 598) and to test a theory of syndemics using structural equation modeling. Participants were actively recruited from community-based settings and the Internet for participation in a seven-wave cohort study. Data for participant characteristics and mental health were collected via computer-assisted survey, while drug use and unprotected sex behaviors for the month prior to assessment were collected via a calendar-based technique. Using the baseline data, we developed and tested structural equation models for mental health burden, drug use, and unprotected sex and also tested a second-order model for a single syndemic. First-order measurement models for each of the three epidemics were successfully identified using observed data. Tests of a second-order model seeking to explain the three epidemics as a single syndemic fit poorly. However, a second-order construct comprised of mental health burden and drug use fit the data well and was highly associated with the first-order construct of unprotected sex. The findings advance a theory of syndemics and suggest that in order to be maximally effective both HIV prevention and HIV care must be delivered holistically such that sexual risk behaviors are addressed in relation to, and in sync with, the drug use and mental health of the individual.
 DA  - 2013/02//
 PY  - 2013
 DO  - 10.1007/s10461-012-0273-3
 VL  - 17
-IS  - 2
 SP  - 662
 EP  - 673
+J2  - AIDS Behav
 LA  - eng
 SN  - 1573-3254
 UR  - https://pubmed.ncbi.nlm.nih.gov/22843250
 L1  - https://link.springer.com/content/pdf/10.1007%252Fs10461-012-0273-3.pdf
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3675898/
-KW  - A lire
+KW  - Suicide
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Substance use
+KW  - Loneliness
+KW  - PTSD
+KW  - Alcohol use
 ER  - 
 
 TY  - JOUR
@@ -1506,20 +1874,24 @@ AU  - Ferlatte, Olivier
 AU  - Hottes, Travis Salway
 AU  - Trussler, Terry
 AU  - Marchand, Rick
-T2  - AIDS and behavior
+T2  - AIDS and Behavior
 AB  - Syndemic has become an important theoretical model toward understanding how psychosocial issues may interact to increase HIV acquisition among gay and bisexual men. We measured the extent to which anti-gay experiences are associated with psychosocial issues, which in turn were hypothesized to have an additive effect on HIV risk, in a sample of Canadian young gay and bisexual men. Sixty-eight percent of men reported at least one form of anti-gay experience. For each additional form of anti-gay experience, our data demonstrated increased likelihood of psychosocial issues. Psychosocial issues had an additive effect, increasing the risk of unprotected intercourse in the last 12 months (doubling the risk for those with 3+ issues OR 1.95 [1.39-2.75]). Overall, our findings suggest that a syndemic is occurring among young Canadian gay and bisexual men, highlighting the need to expand HIV prevention efforts beyond sexual risk, to address stigma and gay men's broader health concerns.
 DA  - 2014/07//
 PY  - 2014
 DO  - 10.1007/s10461-013-0639-1
 VL  - 18
-IS  - 7
 SP  - 1256
 EP  - 1263
+J2  - AIDS Behav
 LA  - eng
 SN  - 1573-3254
 UR  - https://pubmed.ncbi.nlm.nih.gov/24129844
 L1  - https://link.springer.com/content/pdf/10.1007%252Fs10461-013-0639-1.pdf
-KW  - A lire
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Loneliness
+KW  - Substance Use Disorder
 ER  - 
 
 TY  - JOUR
@@ -1531,21 +1903,28 @@ AU  - Torres, Karla
 AU  - Semple, Shirley J
 AU  - Strathdee, Steffanie A
 AU  - Patterson, Thomas L
-T2  - AIDS and behavior
+T2  - AIDS and Behavior
 AB  - Multiple psychosocial conditions tend to co-occur and contribute to higher risk for HIV among men who have sex with men (MSM), a phenomenon known as syndemics. Less is known about moderating factors that may attenuate the relation between syndemic conditions and sexual risk-taking. We examined disclosure of same-sex sexual behavior or "outness" as a moderating factor of the syndemic effect. We recruited a sample of MSM (n = 191) using respondent-driven sampling in Tijuana, Mexico. Participants completed a survey of syndemic conditions (i.e., substance use, depression, violence, internalized homophobia, and sexual compulsivity), sexual risk-taking (i.e., condom unprotected anal sex with a stranger in the past 2 months), and the degree to which they are "out" about sex with men. Consistent with previous research, we found that men who report more syndemic conditions show a greater prevalence of sexual risk-taking. As predicted, men who were out to more people showed a weaker association between syndemic conditions and sexual risk-taking, whereas men who were out to fewer people showed the strongest association. This study is the first to provide evidence of "outness" as a moderating factor that attenuates syndemic effects on sexual risk-taking. Building upon previous research, the data suggest that "outness" may be a resilience factor for MSM in Tijuana. HIV prevention intervention implications are discussed.
-DA  - 2016/02//
+DA  - 2016///
 PY  - 2016
 DO  - 10.1007/s10461-015-1172-1
 VL  - 20
-IS  - 2
 SP  - 431
 EP  - 438
+J2  - AIDS Behav
 LA  - eng
 SN  - 1573-3254
 UR  - https://pubmed.ncbi.nlm.nih.gov/26324079
 L1  - https://link.springer.com/content/pdf/10.1007%252Fs10461-015-1172-1.pdf
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4755893/
-KW  - A lire
+KW  - MSM
+KW  - Depression
+KW  - Internalised homophobia
+KW  - Syndemic
+KW  - Substance use
+KW  - Violence
+KW  - Sexual compulsivity
+KW  - Disclosure
 ER  - 
 
 TY  - JOUR
@@ -1571,12 +1950,19 @@ DO  - 10.1016/j.drugalcdep.2016.06.033
 VL  - 166
 SP  - 258
 EP  - 262
+J2  - Drug Alcohol Depend
 LA  - eng
 SN  - 1879-0046
 UR  - https://pubmed.ncbi.nlm.nih.gov/27449272
 L1  - https://pdf.sciencedirectassets.com/271276/1-s2.0-S0376871616X00105/1-s2.0-S0376871616301958/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjENH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIEXVZK2usEo2YWITMzHSpRgOXLtfro%2FYjeaW4HkCuTFnAiEA8wYVw2X26ZHuhJmQ4k6OpgkJICEJEKtDxi3tdY%2F9EXoqtAMIShADGgwwNTkwMDM1NDY4NjUiDPF7sxDcrGc3z9nBdyqRAxKeBJ1m1Efn4ra6uNStepn0n5vj%2Fptug0r2J%2BIbqLKjPStmL7bD2mn%2BUpAiC46hF87StPOdUnz6wfcJUUrmSD6od0Me34Ap52n9ZbzTmedjcXHr1oQzArrXeBXgg5U%2FGKuTxjB9JfypmtBx%2F9t1ZthUuG0op4edmUzvi9MTkiyY3p%2BukzWQCSKNqrlYxU61K7g5sltqH9q%2FfOqRPgDmZ2NBF9Wp5ClgQPP6f3afaW2RVigMYd0BnzSEZc1zaDAS1aAvoqDJ2%2F6AJXirTbcX6wY6SqYrpPzD1kWPNMavMmlKojMz4cLt2zeV4FF0%2F2QP5tW8bS2G8HYrb4EYBW2toR%2Fm%2FG3bJvhbge0HZvxcBlYwWobOFCe8buJhEmEG3sJGHTXkc%2BKp1hXwPT8SV%2BZr%2BRksoPxK9QwOZoHD2z6urgkPCF6rm5BpXjr83HG7v9FhFTo4UEfjA6qunwcusDbbwGGsHWA%2BXZbNGYif%2F7m88YZvAdr29DDVyquhljSvzbHihPnpevQP%2Bte9wk2Mdm7imo7iMK7FifcFOusBP0A12KHABVQnDLzqG15LcWTmDXqlsdD7K4NeaTjbjyiwyXB1vV7gairh3%2BPvkHwT3zknrISyp8fkAuIp1FJPj6EvUiQfJeZSn6%2BYTipPmjDcvj42HblAcBHViWhx3q0IoutQbPpe3W6ePJQsS%2BtSfk6ua8Rk77n3OKHLbuOcosUnF3yOAO99I%2FhVTxvJnCrXb3OV0%2FguEBoiKKUNX4PrXAeBXHSMLm6JD0iypOewy4HiD61%2FDI6N70CrUtdmRAmRgupsWm5VFLTplH0sYyBOM7iQSXlfgObVkaoFk4BpTz5PuQpCpFgkfXI6TA%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200611T184010Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYV6APKAHF%2F20200611%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=cda872b094c27ba8ba087dc86f573c253b55fb580d135564ce3ddb6de3ab6852&hash=ea6afec8d739fc413d6332cb899470209fc4026001c679ef4afa1ecca9d62aea&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0376871616301958&tid=spdf-5ffa483a-a5ea-44d4-860c-da88c6b5486f&sid=8ae8e80a6e91b845ad494748819f0b7b4119gxrqb&type=client
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4983513/
-KW  - A lire
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Binge drinking
+KW  - Discrimination
+KW  - Childhood sexual abuse
+KW  - Latino MSM
 ER  - 
 
 TY  - JOUR
@@ -1586,7 +1972,7 @@ AU  - O'Leary, Ann
 AU  - Jemmott  3rd, John B
 AU  - Icard, Larry D
 AU  - Rutledge, Scott E
-T2  - PloS one
+T2  - PLOS One
 AB  - African American men are disproportionately affected by, not only HIV/AIDS, but also chronic non-communicable diseases. Despite the known benefits of physical activity for reducing chronic non-communicable diseases, scant research has identified factors that may influence physical activity in this population. A growing literature centers on the syndemic theory, the notion that multiple adverse conditions interact synergistically, contributing to excess morbidity. This secondary data analysis examined two primary questions: whether syndemic conditions prospectively predicted physical activity, and whether, consistent with the syndemic theory, syndemic conditions interacted to predict physical activity. Participants were 595 African American men who have sex with men (MSM), a population underrepresented in health research, enrolled in a health-promotion intervention trial from 2008-2011. We used generalized-estimating-equations models to test the associations of syndemic conditions and resilience factors measured pre-intervention to self-reported physical activity 6 and 12 months post-intervention. As hypothesized, reporting more syndemic conditions pre-intervention predicted reporting less physical activity 6 and 12 months post-intervention, adjusting for the intervention. However, contrary to the syndemic theory, we did not find evidence for the interaction effects of syndemic conditions in predicting physical activity. Receiving high school education and having greater social network diversity predicted more physical activity whereas older age predicted less physical activity. To our knowledge, this is the first study to examine the syndemic theory in relation to physical activity. Although reporting a greater number of syndemic conditions was related to reduced physical activity, there was no evidence for synergy among syndemic conditions.
 DA  - 2019/03/13/
 PY  - 2019
@@ -1599,29 +1985,39 @@ LA  - eng
 SN  - 1932-6203
 UR  - https://pubmed.ncbi.nlm.nih.gov/30865694
 L1  - https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0213439&type=printable
-L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6415907/
-KW  - A lire
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - IPV
+KW  - Childhood sexual abuse
+KW  - Black MSM
+KW  - Unemployment
+KW  - Alcohol Use Disorder
+KW  - Substance Use Disorder
 ER  - 
 
 TY  - JOUR
 TI  - Religion and Spirituality's Influences on HIV Syndemics Among MSM: A Systematic Review and Conceptual Model
 AU  - Lassiter, Jonathan M
 AU  - Parsons, Jeffrey T
-T2  - AIDS and behavior
+T2  - AIDS and Behavior
 AB  - This paper presents a systematic review of the quantitative HIV research that assessed the relationships between religion, spirituality, HIV syndemics, and individual HIV syndemics-related health conditions (e.g. depression, substance abuse, HIV risk) among men who have sex with men (MSM) in the United States. No quantitative studies were found that assessed the relationships between HIV syndemics, religion, and spirituality. Nine studies, with 13 statistical analyses, were found that examined the relationships between individual HIV syndemics-related health conditions, religion, and spirituality. Among the 13 analyses, religion and spirituality were found to have mixed relationships with HIV syndemics-related health conditions (6 nonsignificant associations; 5 negative associations; 2 positive associations). Given the overall lack of inclusion of religion and spirituality in HIV syndemics research, a conceptual model that hypothesizes the potential interactions of religion and spirituality with HIV syndemics-related health conditions is presented. The implications of the model for MSM's health are outlined.
 DA  - 2016/02//
 PY  - 2016
 DO  - 10.1007/s10461-015-1173-0
 VL  - 20
-IS  - 2
 SP  - 461
 EP  - 472
+J2  - AIDS Behav
 LA  - eng
 SN  - 1573-3254
 UR  - https://pubmed.ncbi.nlm.nih.gov/26319130
 L1  - https://link.springer.com/content/pdf/10.1007%252Fs10461-015-1173-0.pdf
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4755900/
-KW  - A lire
+KW  - MSM
+KW  - Syndemic
+KW  - Systematic review
+KW  - Religion
 ER  - 
 
 TY  - JOUR
@@ -1635,7 +2031,7 @@ AU  - Ostrow, David
 AU  - Chmiel, Joan S
 AU  - Herrick, Amy
 AU  - Stall, Ron
-T2  - Journal of urban health : bulletin of the New York Academy of Medicine
+T2  - Journal of Urban Health
 AB  - This study analyzed data from a large prospective epidemiologic cohort study among men who have sex with men (MSM), the Multicenter AIDS Cohort Study, to assess syndemic relationships among black MSM in the cohort (N = 301). We hypothesized that multiple interconnections among psychosocial health conditions would be found among these men, defining syndemic conditions. Constituents of syndemic conditions measured included reported depression symptoms, sexual compulsiveness, substance use, intimate partner violence (IPV), and stress. We found significant evidence of syndemics among these black men: depression symptoms were independently associated with sexual compulsiveness (odds ratios [OR]: 1.88, 95% CI = 1.1, 3.3) and stress (OR: 2.67, 95% CI = 1.5, 4.7); sexual compulsiveness was independently associated with stress (OR: 2.04, 95% CI = 1.2, 3.5); substance misuse was independently associated with IPV (OR: 2.57, 95% CI = 1.4, 4.8); stress independently was associated with depression symptoms (OR: 2.67, 95% CI = 1.5, 4.7), sexual compulsiveness (OR: 2.04, 95% CI = 1.2, 3.5) and IPV (OR: 2.84, 95% CI = 1.6, 4.9). Moreover, men who reported higher numbers of syndemic constituents (three or more conditions) reportedly engaged in more unprotected anal intercourse compared to men who had two or fewer health conditions (OR: 3.46, 95% CI = 1.4-8.3). Findings support the concept of syndemics in black MSM and suggest that syndemic theory may help explain complexities that sustain HIV-related sexual transmission behaviors in this group.
 DA  - 2012/08//
 PY  - 2012
@@ -1644,12 +2040,21 @@ VL  - 89
 IS  - 4
 SP  - 697
 EP  - 708
+J2  - J Urban Health
 LA  - eng
 SN  - 1468-2869
 UR  - https://pubmed.ncbi.nlm.nih.gov/22383094
 L1  - https://europepmc.org/articles/pmc3535137?pdf=render
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3535137/
-KW  - A lire
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Substance use
+KW  - Binge drinking
+KW  - IPV
+KW  - Sexual compulsivity
+KW  - Stress
+KW  - BMSM
 ER  - 
 
 TY  - JOUR
@@ -1675,7 +2080,15 @@ J2  - J Sex Res
 LA  - eng
 SN  - 1559-8519
 UR  - https://pubmed.ncbi.nlm.nih.gov/29220586
-KW  - A lire
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Anxiety
+KW  - Loneliness
+KW  - Sexual compulsivity
+KW  - Social support
+KW  - Involuntary subordination
+KW  - Self-esteem
 ER  - 
 
 TY  - JOUR
@@ -1684,21 +2097,26 @@ AU  - Storholm, Erik David
 AU  - Halkitis, Perry N
 AU  - Siconolfi, Daniel E
 AU  - Moeller, Robert W
-T2  - Journal of urban health : bulletin of the New York Academy of Medicine
+T2  - Journal of Urban Health
 AB  - The prevalence of cigarette smoking among young men who have sex with men (YMSM) is significantly higher than among their heterosexual peers. We undertook an analysis to examine cigarette smoking in relation to demographic factors and other risk behaviors among 580 YMSM, ages 13-29, in New York City. Cross-sectional data were collected as part of larger study of risk behaviors using palm devices and targeted active recruitment strategies across all five boroughs of the city. Multivariate modeling suggests that Asian or Pacific Islander and White YMSM are more likely to report cigarette smoking than other racial and ethnic groups, as are men reporting a middle class socioeconomic status. In addition, smoking was related to the likelihood of using a variety of illicit substances, as well as alcohol and pharmaceuticals without a prescription, during the period of assessment. YMSM who smoke cigarettes reported a greater number of casual sex partners and a greater number of transactional sex partners than non-smokers. Episodic analysis of sexual behaviors with casual partners indicated that smokers were more likely to engage in illicit drug and alcohol use immediately before or during sex than did non-smokers. These findings are understood as part of a larger syndemic among YMSM, and suggest that smoking prevention and cessation programs should be embedded as part of larger more holistic health and wellness programs targeting YMSM.
 DA  - 2011/08//
 PY  - 2011
 DO  - 10.1007/s11524-011-9563-8
 VL  - 88
-IS  - 4
 SP  - 663
 EP  - 676
+J2  - J Urban Health
 LA  - eng
 SN  - 1468-2869
 UR  - https://pubmed.ncbi.nlm.nih.gov/21479753
 L1  - https://link.springer.com/content/pdf/10.1007%252Fs11524-011-9563-8.pdf
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3157504/
-KW  - A lire
+KW  - Chemsex
+KW  - MSM
+KW  - Syndemic
+KW  - Substance use
+KW  - Alcohol use
+KW  - Tobacco use
 ER  - 
 
 TY  - JOUR
@@ -1706,20 +2124,23 @@ TI  - "What Could Have Been Different": A Qualitative Study of Syndemic Theory a
 AU  - Lyons, Thomas
 AU  - Johnson, Amy K
 AU  - Garofalo, Robert
-T2  - Journal of HIV/AIDS & social services
+T2  - Journal of HIV/AIDS & Social Services
 AB  - Young men who have sex with men (MSM) experience multiple health disparities, including alcohol and drug use, partner violence, victimization due to sexual orientation, and HIV infection. Syndemic theorists explain the clustering of these disparities among adult MSM as a result of cultural marginalization. To date, research on a similar emerging syndemic among young MSM has been limited to quantitative studies. This study seeks to better understand these disparities, and how they may cluster together, via qualitative interviews with 21 ethnically diverse, HIV infected young MSM aged 18-24 years old. These youth report a lack of gay-specific HIV prevention education, absence of role models, and lack of productive future goal-related activities as factors related to their acquisition of HIV, and downplay substance use as a factor. Although not necessarily the components traditionally cited by syndemic theorists, these findings support the notion that multiple factors of cultural marginalization cluster together in the lives of young MSM, and underscore the importance of community-level interventions, such as sexual health education, access to mentors, and assistance with future goal setting and planning.
 DA  - 2013///
 PY  - 2013
 DO  - 10.1080/15381501.2013.816211
 VL  - 12
 IS  - 3-4
-SP  - 10.1080/15381501.2013.816211
+SP  - 368
+EP  - 383
+J2  - J HIV AIDS Soc Serv
 LA  - eng
 SN  - 1538-1501
 UR  - https://pubmed.ncbi.nlm.nih.gov/24244112
 L1  - https://www.tandfonline.com/doi/pdf/10.1080/15381501.2013.816211
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3825850/
-KW  - A lire
+KW  - MSM
+KW  - Syndemic
 ER  - 
 
 TY  - JOUR
@@ -1729,7 +2150,7 @@ AU  - Newman, Peter A
 AU  - Shunmugam, Murali
 AU  - Logie, Carmen H
 AU  - Samuel, Miriam
-T2  - Global public health
+T2  - Global Public Health
 AB  - We examined the presence and co-occurrence of psychosocial health conditions (depression, frequent alcohol use, and victimisation) among men who have sex with men (MSM) and transgender (TG) women in India, and their cumulative association with sexual risk. A survey questionnaire was administered among a convenience sample of 600 participants (MSM = 300; TG women = 300) recruited through six non-governmental organisations in four states. Prevalences of the number of psychosocial health conditions among MSM were: none = 31.3%, one = 43%, two = 20%, and three = 5.7%; and among TG women: none = 9%; one = 35.33%, two = 38.33%, and three = 17.33%. In bivariate and multivariate models, these conditions were positively and additively related to sexual risk, providing evidence for a syndemic of psychosocial health conditions among MSM and TG women and their synergistic effect on sexual risk. In addition to the number of syndemic conditions, resilient coping and social support were significant predictors of sexual risk among MSM and TG women, respectively. HIV preventive interventions in India should screen for and address co-occurring psychosocial health conditions - experiences of violence, mental health issues, and alcohol use - among MSM and TG women.
 DA  - 2017/02//
 PY  - 2017
@@ -1738,11 +2159,18 @@ VL  - 12
 IS  - 2
 SP  - 250
 EP  - 265
+J2  - Glob. Public Health
 LA  - eng
 SN  - 1744-1706
 UR  - https://pubmed.ncbi.nlm.nih.gov/26457339
 L1  - https://www.tandfonline.com/doi/pdf/10.1080/17441692.2015.1091024
-KW  - A lire
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Transgender people
+KW  - Transgender women
+KW  - Violence
+KW  - Alcohol use
 ER  - 
 
 TY  - JOUR
@@ -1758,11 +2186,18 @@ VL  - 57
 IS  - 1-2
 SP  - 129
 EP  - 143
+J2  - Am J Community Psychol
 LA  - eng
 SN  - 1573-2770
 UR  - https://pubmed.ncbi.nlm.nih.gov/27217317
 L1  - https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ajcp.12028
-KW  - A lire
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Sexual violence
+KW  - Black MSM
+KW  - Resilience
+KW  - Substance Use Disorder
 ER  - 
 
 TY  - JOUR
@@ -1774,20 +2209,27 @@ AU  - Perez-Figueroa, Rafael
 AU  - Kingdon, Molly
 AU  - Eddy, Jessica A
 AU  - Ompad, Danielle C
-T2  - Natural resource modeling
+T2  - Annals of anthropological practice
 AB  - The theory of syndemics has been widely applied in HIV prevention studies of gay, bisexual, and other MSM over the last decade. Our investigation is the first to consider the applicability of the theory in a sample of aging (ages 50 and over) HIV-positive MSM, which is a growing population in the United States. A sample of 199 men were actively recruited and assessed in terms of mental health and drug use burden, as well as sexual risk behaviors. Bivariate and multivariable analyses indicate a high level of association between psychosocial burdens (i.e., drug use and mental health) and same-sex unprotected sexual behaviors, providing initial support for the applicability of the theory of syndemics to this population. Further support can be seen in participants' narratives. Findings suggest the mutually reinforcing nature of drug use, psychiatric disorders, and unprotected sexual behavior in older, HIV-positive, gay, bisexual, and other MSM, highlighting the need for holistic strategies to prevention and care among this population of older and sexually active individuals. In short, the generation of gay men who came of age in the late 1970s and 1980s, "the AIDS Generation," are continuing to mature such that further efforts must be enacted to meet the multidimensional nature of these men's physical, mental, and sexual health needs.
 DA  - 2012/11/01/
 PY  - 2012
 DO  - 10.1111/napa.12009
 VL  - 36
-IS  - 2
-SP  - 10.1111/napa.12009
+SP  - 365
+EP  - 386
+J2  - Ann Anthropol Pract
 LA  - eng
 SN  - 0890-8575
 UR  - https://pubmed.ncbi.nlm.nih.gov/24347817
 L1  - https://europepmc.org/articles/pmc3859453?pdf=render
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3859453/
-KW  - A lire
+KW  - MSM
+KW  - Syndemic
+KW  - Substance use
+KW  - STD
+KW  - PTSD
+KW  - HIV/AIDS
+KW  - Alcohol use
 ER  - 
 
 TY  - JOUR
@@ -1795,21 +2237,27 @@ TI  - Sexual compulsivity, co-occurring psychosocial health problems, and HIV ri
 AU  - Parsons, Jeffrey T
 AU  - Grov, Christian
 AU  - Golub, Sarit A
-T2  - American journal of public health
+T2  - American Journal of Public Health
 AB  - OBJECTIVES: We evaluated whether sexual compulsivity fits into a syndemic framework, in which sexual compulsivity is one of a number of co-occurring psychosocial health problems that increase HIV risk among men who have sex with men (MSM). METHODS: In 2003 and 2004, we conducted an anonymous cross-sectional survey of MSM in New York City (n = 669) by approaching attendees at gay, lesbian, and bisexual community events. We analyzed data by bivariate and multivariate logistic regression. RESULTS: We found strong positive interrelationships among syndemic factors including sexual compulsivity, depression, childhood sexual abuse, intimate partner violence, and polydrug use. In bivariate analyses, all syndemic health problems except for childhood sexual abuse were positively related to HIV seropositivity and high-risk sexual behavior. Our multivariate models revealed an array of interrelationships among psychosocial health problems. We found amplified effects of these problems on HIV seropositivity and on the likelihood of engaging in high-risk sexual behavior. CONCLUSIONS: Our findings support the conclusion that sexual compulsivity is a component of a syndemic framework for HIV risk among MSM. HIV prevention interventions should consider the overlapping and compounding effects of psychosocial problems, including sexual compulsivity.
 DA  - 2012/01//
 PY  - 2012
 DO  - 10.2105/AJPH.2011.300284
 VL  - 102
-IS  - 1
 SP  - 156
 EP  - 162
+J2  - Am J Public Health
 LA  - eng
 SN  - 1541-0048
 UR  - https://pubmed.ncbi.nlm.nih.gov/22095358
 L1  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3490563/pdf/AJPH.2011.300284.pdf
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3490563/
-KW  - A lire
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - IPV
+KW  - Polysubstance use
+KW  - Sexual compulsivity
+KW  - Childhood sexual abuse
 ER  - 
 
 TY  - JOUR
@@ -1828,10 +2276,20 @@ VL  - 15
 SP  - 597
 LA  - eng
 SN  - 1471-2458
+ST  - BMC Public Health
 UR  - https://pubmed.ncbi.nlm.nih.gov/26136235
 L1  - https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-015-1961-5
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4489209/
-KW  - A lire
+KW  - Suicide
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - HIV
+KW  - Substance use
+KW  - STD
+KW  - Anxiety
+KW  - Discrimination
+KW  - Tobacco use
 ER  - 
 
 TY  - JOUR
@@ -1852,15 +2310,20 @@ DP  - DOI.org (Crossref)
 VL  - 206
 SP  - 110
 EP  - 116
-J2  - Social Science & Medicine
+J2  - Soc Sci Med
 LA  - en
 SN  - 02779536
 ST  - Is there synergy in syndemics?
 UR  - https://linkinghub.elsevier.com/retrieve/pii/S0277953618301503
 Y2  - 2020/03/07/17:49:49
 L4  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5955386/
-KW  - A lire
 KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Substance use
+KW  - IPV
+KW  - Childhood sexual abuse
+KW  - Alcohol Use Disorder
 ER  - 
 
 TY  - JOUR
@@ -1869,26 +2332,43 @@ AU  - Woodward, Eva N
 AU  - Banks, Regina J
 AU  - Marks, Amy K
 AU  - Pantalone, David W
-T2  - AIDS and behavior
+T2  - AIDS and Behavior
 AB  - Most HIV prevention for sexual minority men and men who have sex with men targets risk behaviors (e.g., condom use) and helps <50% of participants. Bolstering resilience might increase HIV prevention's effectiveness. This systematic review identified resilience resources (protective factors) in high-risk, HIV-negative, sexual minority men. We reviewed PsycINFO, PsycARTICLES, MEDLINE, references, and Listservs for studies including sexual minority men with 1+ HIV risk factor (syndemics): childhood sexual abuse, partner abuse, substance abuse, or mental health symptoms. From 1356 articles screened, 20 articles met inclusion criteria. Across the articles, we identified and codified 31 resilience resources: socioeconomic (e.g., employment), behavioral coping strategies (e.g., mental health treatment), cognitions/emotions (e.g., acceptance), and relationships. Resilience resources were generally associated with lower HIV risk; there were 18 low-risk associations, 4 high-risk associations, 8 non-significant associations). We generated a set of empirically based resilience variables and a hypothesis to be evaluated further to improve HIV prevention.
+DA  - 2017///
+PY  - 2017
 DO  - 10.1007/s10461-016-1608-2
-IS  - 10
+IS  - 21
 SP  - 2860
+EP  - 2873
+J2  - AIDS Behav
 SN  - 1573-3254,1090-7165
-KW  - A lire
+KW  - Scoping Review
+KW  - MSM
+KW  - Syndemic
+KW  - Resilience
 ER  - 
 
 TY  - JOUR
 TI  - A mixed methods study of health and social disparities among substance-using African American/Black men who have sex with men.
 AU  - Buttram, Mance E
 AU  - Kurtz, Steven P
-T2  - Journal of racial and ethnic health disparities
+T2  - Journal of Racial and Ethnic Health Disparities
 AB  - African American/Black men who have sex with men (MSM) in the U.S. experience health and social disparities at greater rates than MSM of other races/ethnicities, including HIV infection and substance use. This mixed methods paper presents: 1) a quantitative examination of health and social disparities among a sample of substance-using African American/Black MSM (N=108), compared to Caucasian/White MSM (N=250), and 2) in-depth qualitative data from a subsample of African American/Black MSM (N=21) in order to contextualize the quantitative data. Findings indicate that compared to Caucasian/White MSM, African American/Black MSM experienced a wide range of health and social disparities including: substance use and dependence; buying, trading or selling sex; educational attainment; employment; homelessness; identifying as gay; HIV status; arrest history; social support; and satisfaction with one's living situation. Qualitative data suggests that structural interventions that address homophobia and the social environment would be likely to mitigate many of the health and social disparities experienced by African American/Black MSM.
+DA  - 2015///
+PY  - 2015
 DO  - 10.1007/s40615-014-0042-2
-IS  - 1
+VL  - 2
 SP  - 1
+EP  - 10
+J2  - J Racial Ethn Health Disparities
 SN  - 2196-8837,2196-8837
-KW  - A lire
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Anxiety
+KW  - Violence
+KW  - Black MSM
+KW  - Substance Use Disorder
 ER  - 
 
 TY  - JOUR
@@ -1905,6 +2385,10 @@ AB  - For people living with HIV, lack of adherence to antiretroviral therapy (A
 DA  - 2020///
 PY  - 2020
 DO  - 10.1080/09540121.2020.1772954
+VL  - 32
+IS  - 12
+SP  - 1610
+EP  - 1616
 SN  - 1360-0451,0954-0121
 ST  - AIDS Care
 KW  - MSM
@@ -1929,7 +2413,7 @@ AU  - Albright, C
 AU  - O'Cleirigh, C
 AU  - Mayer, K H
 AU  - Safren, S A
-T2  - Journal of behavioral medicine
+T2  - Journal of Behavioral Medicine
 AB  - Syndemics, or comorbid and mutually reinforcing psychosocial problems, are associated with increased HIV risk among men who have sex with men (MSM). Although the dynamic interplay among syndemic indicators is theorized to be crucial for increasing risk of HIV acquisition, novel approaches are needed to understand how these syndemic problems interrelate. This study examined the associations between nine self-reported syndemic indicators in 194 MSM at high risk of HIV acquisition. We compared exploratory factor analyses (EFA) to a network analysis. In the present study, network analysis consisted of edges representing bidirectional partial polychoric correlations between nodes, which represent psychosocial syndemic indicators. EFA yielded a 1-factor solution including suicidal ideation (SI), injection drug use (IDU), depression, social anxiety, intimate partner violence, substance use, and sexual compulsivity, and excluded heavy drinking and childhood sexual abuse. Network analysis yielded a pattern of interconnectedness with the most central nodes being SI, IDU, substance use, and depression. Statistically significant relationships (absolute edge weights) were found between SI and depression, social anxiety, and IDU, and IDU and substance use. These results suggest that depression and substance use, especially more severe presentations of these conditions such as SI and IDU, are prominent interconnected components of the HIV syndemic among MSM at high risk for HIV acquisition. SI, IDU, substance use, and depression may indeed be prudent targets of intervention. Future research on the inclusion of these syndemic indicators in analytical models involving interaction terms may be warranted.
 DA  - 2020///
 PY  - 2020
@@ -1942,11 +2426,11 @@ KW  - MSM
 KW  - Depression
 KW  - Syndemic
 KW  - Substance use
-KW  - Alcohol abuse
 KW  - Anxiety
 KW  - IPV
 KW  - Sexual compulsivity
 KW  - Childhood sexual abuse
+KW  - Alcohol Use Disorder
 ER  - 
 
 TY  - JOUR
@@ -1955,33 +2439,23 @@ AU  - Turpin, Rodman E
 AU  - Salerno, John P
 AU  - Rosario, Andre D
 AU  - Boekeloo, Bradley
-T2  - Archives of sexual behavior
+T2  - Archives of Sexual Behavior
 AB  - Adolescent males who have sex with males (AMSM) are at increased risk of HIV/STI acquisition compared to other adolescents, making sexual risk behaviors in this population a priority public health focus. AMSM experience more victimization (including sexual/partner violence), depression, and substance abuse than their heterosexual counterparts; these may form a syndemic associated with risky sexual behavior. We pooled data from the 2015 and 2017 Youth Risk Behavior Survey, restricted to male students who reported a previous male sexual partner (n = 448). Latent profile analysis was used to identify syndemic profiles, with log-binomial and cumulative complementary log-log models used to test associations with substance use at last intercourse, condomless sex at last intercourse, and the number of sexual partners. Nearly all measures of victimization, depression, and substance use had bivariate associations with greater substance use during sex and more sexual partners. We identified three profiles of AMSM: The profile (n = 55) with the greatest risk factors (evident of a syndemic) had substantially higher prevalence of substance use during sex (aPR = 4.74, 95% CI 3.02, 7.43) and more sexual partners (aPR = 2.45, 95% CI 1.39, 4.31) than the profile with the lowest risk factors (n = 326) after adjusting for confounders. This profile was not associated with condomless sex. We identified a syndemic characterized by victimization, depression, and substance use associated with risky sexual behaviors in a nationally representative sample of AMSM. Comprehensive sexual risk reduction interventions incorporating mental health and substance use are critically important in this population.
+DA  - 2020///
+PY  - 2020
 DO  - 10.1007/s10508-020-01685-z
-IS  - 8gr, 1273516
+J2  - Arch Sex Behav
 SN  - 1573-2800,0004-0002
 L1  - https://link.springer.com/content/pdf/10.1007%252Fs10508-020-01685-z.pdf
-KW  - A lire
-ER  - 
-
-TY  - JOUR
-TI  - House Ball Community Leaders' Perceptions of HIV and HIV Vaccine Research.
-AU  - Alio, Amina P
-AU  - Sibley, Candace
-AU  - Ouedraogo, Halimah S
-AU  - Wallace, Stephaun E
-AU  - Wakefield, Steven
-AU  - Humes, Damon L
-AU  - Fields, Sheldon D
-AU  - Keefer, Michael C
-T2  - International journal of MCH and AIDS
-AB  - Background or Objectives: Worldwide, men who have sex with men (MSM) and Transgender persons are vulnerable to psychosocial factors associated with high risk for HIV, and suffer disproportionately high rates of HIV/AIDS. In the United States (US), the House Ball Community (HBC) is a social network comprised predominantly of Black and Hispanic MSM and Transgender persons who reside in communal settings. This study explores Western New York HBC leaders' perceptions of HIV in their communities and their knowledge of HIV prevention strategies, including HIV vaccine trials., Methods: The project was conducted using an exploratory approach based on the principles of Community-Based Participatory Research (CBPR) methods. An HIV behavioral risk assessment provided descriptive data, while qualitative measures explored psychosocial and behavioral factors., Results: Behavioral assessments indicated high levels of risky sexual behaviors and experiences of violence. Interviews with 14 HBC leaders revealed that knowledge of HIV and local HIV vaccines trials was limited. Barriers to HIV knowledge included fear of peer judgment, having inaccurate information, and lack of formal education. Experiencing violence was identified as barrier to positive health behavior. Nevertheless, the HBC was described as a safe and creative space for marginalized MSM and Transgender youth., Conclusion and Global Health Implications: Findings suggest that the interrelation between health problems and social context amplify HIV risk in the HBC. The organizational structure and resources of the HBC, and MSM/Transgender communities worldwide can be instrumental in informing interventions to address HIV-related risk behaviors and create appropriate recruitment tools to ensure their representation in HIV research. Copyright © 2020 Alio et al.
-DO  - 10.21106/ijma.331
-IS  - 1
-SP  - 136
-SN  - 2161-8674,2161-864X
-L1  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7031880/pdf/IJMA-9-136.pdf
-KW  - A lire
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Substance use
+KW  - Sexual violence
+KW  - IPV
+KW  - Violence
+KW  - Adolescents
+KW  - Bullying
 ER  - 
 
 TY  - JOUR
@@ -2000,13 +2474,24 @@ AU  - Mattera, Brian
 AU  - Martinez-Donate, Ana
 AU  - Chavez-Baray, Silvia
 AU  - Moya, Eva M
-T2  - EHQUIDAD
+T2  - EHQUIDAD. Revista Internacional De Políticas De Bienestar Y Trabajo Social
 AB  - Latinx men who have sex with men (MSM) continue to be disproportionately impacted by HIV/AIDS. Identifying the role of multiple syndemic factors associated with sexual risk behaviors is imperative in order to develop effective prevention and treatment strategies. Cross-sectional data for this study were derived from three cycles of the Philadelphia portion of the National HIV Behavioral Surveillance System. This study explored the impact of syndemic factors - heavy drinking, exchange sex, and homophobic discrimination - on sexual HIV risk behaviors, operationalized as number of male partners, and condomless anal intercourse (CAI) with main and casual partners among Latinx MSM (n=464). Analyses took two forms: a syndemic approach, using the cumulative number of conditions as an independent variable; and a non-syndemic approach, incorporating each condition as a unique factor. In multivariable syndemic analyses, participants with two or more factors reported more male partners and more CAI casual male partners than those with none. In non-syndemic models, homophobic discrimination and exchange sex were significantly positively associated with total number of male partners, while heavy drinking was associated with more casual CAI partners. Quantitative results indicate that syndemic and non-syndemic approaches vary in their relative capacity to account for sexual risk among Latinx MSM.
+DA  - 2020///
+PY  - 2020
 DO  - 10.15257/ehquidad.2020.0009
+VL  - 13
 IS  - 101643738
 SP  - 217
+EP  - 236
+J2  - EHQUIDAD
 L1  - https://revistas.proeditio.com/ehquidad/article/download/3280/4054
-KW  - A lire
+KW  - MSM
+KW  - Homophobia
+KW  - Syndemic
+KW  - Binge drinking
+KW  - Sex work
+KW  - Discrimination
+KW  - Latino MSM
 ER  - 
 
 TY  - JOUR
@@ -2018,13 +2503,23 @@ AU  - Apers, Hanne
 AU  - Laga, Marie
 AU  - Wouters, Kristien
 AU  - Vuylsteke, Bea
-T2  - AIDS care
+T2  - AIDS Care
 AB  - Little is known about how interacting psychosocial problems may influence sexual behaviour among men having sex with men taking Pre-exposure prophylaxis (PrEP). This study assessed (1) the prevalence of depression, recreational drug-use and sexual risk behaviour; (2) changes in these psychosocial conditions over time; and (3) the interaction of drug use and depression with sexual risk behaviour. We analysed data of the Belgian Be-PrEP-ared cohort study (N = 200). We assessed depression using the PHQ-9, recreational drug use and receptive condomless anal intercourse (rCAI) with anonymous partners. Frequencies of psychosocial problems were compared at baseline, 9 and 18 months follow-up (FU). Bivariate associations between depression and drug-use behaviour, and their interaction with rCAI with anonymous sexual partners using was examined using linear regression. Receptive CAI increased from 41% at baseline to 53% at M18 (p = 0.038). At baseline, we found an interaction effect of poly-drug use and depression, potentiating rCAI with anonymous partners. Participants reporting poly-drug use associated with depression were significant more likely to report this type of sexual risk behaviour than those who did not report this association (p = 0.030). The high level of intertwined psychosocial problems call for multi-level interventions for those PrEP users experiencing a syndemic burden.
+DA  - 2020///
+PY  - 2020
 DO  - 10.1080/09540121.2020.1739218
+VL  - 32
 IS  - sup2
 SP  - 57
+EP  - 64
 SN  - 1360-0451,0954-0121
-KW  - A lire
+ST  - AIDS Care
+KW  - PrEP
+KW  - Chemsex
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Substance use
 ER  - 
 
 TY  - JOUR
@@ -2037,14 +2532,24 @@ AU  - Marquez, Samantha M
 AU  - Grasso, Chris
 AU  - Safren, Steven A
 AU  - Mayer, Kenneth H
-T2  - Journal of behavioral medicine
+T2  - Journal of Behavioral Medicine
 AB  - Sexual orientation related health disparities are well documented. Sexual minority men appear to be at risk for mental health problems due to the stress they experience in establishing and maintaining a minority sexual identity. These mental health issues may combine synergistically and lead to higher medical costs to society. We examine whether sexual minority specific syndemic indicators were associated with higher health care costs, health care utilization, or the risk of being HIV-infected. Health care consumers at a community health center (N = 1211) completed a brief screening questionnaire collected over 12 months. Self-reported data were linked with participants' clinical billing records. Adjusted logistic regression models identified that four syndemic indicators (suicidality, substance use, childhood sexual abuse, and intimate partner violence) were each significantly related to each other. Multiple syndemics significantly predicted higher medical care utilization and cost, and were associated with 2.5 times the risk of being HIV-infected (OR 2.49, 95% CI 1.45-4.25). Syndemic indicators did not significantly predict the number of mental health visits or costs per patient. These results confirm and extend earlier findings by relating syndemics to health services use and costs for sexual minority men.
+DA  - 2018///
+PY  - 2018
 DO  - 10.1007/s10865-018-9913-z
-IS  - 4
+VL  - 41
 SP  - 450
+EP  - 457
+J2  - J Behav Med
 SN  - 1573-3521,0160-7715
 L1  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6031459/pdf/nihms956492.pdf
-KW  - A lire
+KW  - Suicide
+KW  - MSM
+KW  - Syndemic
+KW  - Healthcare access
+KW  - Substance use
+KW  - IPV
+KW  - Childhood sexual abuse
 ER  - 
 
 TY  - JOUR
@@ -2055,25 +2560,43 @@ AU  - Jones, Deborah L
 AU  - Kumar, Mahendra
 T2  - Human psychopharmacology
 AB  - OBJECTIVE: This study examined if methamphetamine use alone (METH + HIV-) and methamphetamine use in combination with HIV (METH + HIV+) were associated with hypothalamic-pituitary-adrenal (HPA) axis dysregulation as well as insulin resistance relative to a nonmethamphetamine-using, HIV-negative comparison group (METH-HIV-)., METHODS: Using an intact groups design, serum levels of HPA axis hormones in 46 METH + HIV- and 127 METH + HIV+ men who have sex with men (MSM) were compared to 136 METH-HIV- men., RESULTS: There were no group differences in prevailing adrenocorticotropic hormone (ACTH) or cortisol levels, but the association between ACTH and cortisol was moderated by METH + HIV+ group (beta = -0.19, p < .05). Compared to METH-HIV- men, METH + HIV+ MSM displayed 10% higher log10 cortisol levels per standard deviation lower ACTH. Both groups of methamphetamine-using MSM had lower insulin resistance and greater syndemic burden (i.e., sleep disturbance, severe depression, childhood trauma, and polysubstance use disorder) compared to METH-HIV- men. However, the disaggregated functional relationship between ACTH and cortisol in METH + HIV+ MSM was independent of these factors., CONCLUSIONS: Further research is needed to characterize the bio-behavioral pathways that explain dysregulated HPA axis functioning in HIV-positive, methamphetamine-using MSM. Copyright © 2017 John Wiley & Sons, Ltd.
+DA  - 2018///
+PY  - 2018
 DO  - 10.1002/hup.2645
+VL  - 33
 IS  - 1
 SN  - 1099-1077,0885-6222
+ST  - Hum Psychopharmacol
 L1  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5786481/pdf/nihms930029.pdf
-KW  - A lire
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Sleep
+KW  - Childhood sexual abuse
+KW  - Substance Use Disorder
 ER  - 
 
 TY  - JOUR
 TI  - HIV risk behaviours among immigrant and ethnic minority gay and bisexual men in North America and Europe: A systematic review.
 AU  - Lewis, Nathaniel M
 AU  - Wilson, Kathi
-T2  - Social science & medicine (1982)
+T2  - Social Science & Medicine
 AB  - HIV surveillance systems show that gay, bisexual, and other men who have sex with men (MSM) bear a disproportionate burden of HIV in North American and European countries. Within the MSM category, HIV prevalence is often elevated among ethnic minority (i.e., Latino, Asian, and Black) MSM, many of whom are also foreign-born immigrants. Little research has focused specifically on foreign-born populations, though studies that provide data on the nativity of their samples offer an opportunity to investigate the potential role of transnational migration in informing HIV risk among ethnic minority MSM. This systematic review of ethnic minority MSM studies where the nativity of the sample is known provides a robust alternative to single studies measuring individual-level predictors of HIV risk behaviour. In this review, HIV prevalence, unprotected sex, drug use, and HIV testing are analysed in relation to the ethnicity, nativity, and location of the samples included. The results, which include high rates of HIV, unprotected sex, and stimulant use in foreign-born Latino samples and high rates of alcohol and club drug use in majority foreign-born Asian Pacific Islander (API) samples, provide baseline evidence for the theory of migration and HIV risk as syndemics within ethnic minority populations in North American and European countries. The findings also suggest that further research on the contextual factors influencing HIV risk among ethnic minority MSM groups and especially immigrants within these groups is needed. These factors include ethnic networks, individual post-migration transitions, and the gay communities and substance use cultures in specific destination cities. Further comparative work may also reveal how risk pathways differ across ethnic groups. Copyright © 2017 Elsevier Ltd. All rights reserved.
+DA  - 2017///
+PY  - 2017
 DO  - 10.1016/j.socscimed.2017.02.033
-IS  - ut9, 8303205
+VL  - 179
 SP  - 115
+EP  - 128
+J2  - Soc Sci Med
 SN  - 1873-5347,0277-9536
-L1  - https://eprints.soton.ac.uk/406204/1/SSM_manuscript.pdf
-KW  - A lire
+KW  - MSM
+KW  - Syndemic
+KW  - Systematic review
+KW  - Substance use
+KW  - Black MSM
+KW  - Latino MSM
+KW  - Migration
 ER  - 
 
 TY  - JOUR
@@ -2088,12 +2611,22 @@ AU  - Surkan, Pamela J
 AU  - Plankey, Michael W
 T2  - AIDS care
 AB  - Though functional social support has been shown to serve as a protective factor for HIV viral load suppression in other populations, scant research has examined this relationship among men who have sex with men (MSM) in the United States. We assessed characteristics of social support, effects of social support on HIV viral load, and moderation by social support of the relationship between psychosocial indicators of a synergistic epidemic (syndemic) and HIV viral load. We analyzed longitudinal data from HIV-positive MSM using antiretroviral therapy who were enrolled in the Multicenter AIDS Cohort Study between 2002 and 2009 (n = 712). First, we conducted reliability assessments of a one-item social support measure. Then, we conducted a series of generalized longitudinal mixed models to assess our research questions. Moderation was assessed using an interaction term. A three-level (low/medium/high) social support variable demonstrated high reliability (intraclass correlation coefficients = 0.72; 95% CI: 0.70, 0.75). Black and Hispanic MSM reported lower social support than their White counterparts (p < .0001). Recent sero-conversion was associated with higher social support (p < .05). Higher numbers of concomitant syndemic indicators (depression, polysubstance use, and condomless anal sex) were associated with lower social support (p < .0001). Medium and high social support levels were associated with greater viral load suppression and lower viral load means (p < .0001). Social support moderated the relationships between syndemic and HIV viral load (p < .05). HIV-positive MSM, particularly those of color, may benefit greatly from interventions that can successfully boost functional social support. Creating strengths-based interventions may also have particularly high impact among HIV-positive MSM with the highest psychosocial burdens.
+DA  - 2016///
+PY  - 2016
 DO  - 10.1080/09540121.2016.1211614
+VL  - 29
 IS  - 4
 SP  - 469
+EP  - 480
+J2  - AIDS Care
 SN  - 1360-0451,0954-0121
 L1  - https://europepmc.org/articles/pmc5571899?pdf=render
-KW  - A lire
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Polysubstance use
+KW  - HIV/AIDS
+KW  - Viral load
 ER  - 
 
 TY  - JOUR
@@ -2107,14 +2640,26 @@ AU  - Chavarin, Claudia V
 AU  - Rangel, Gudelia
 AU  - Torres, Karla
 AU  - Patterson, Thomas L
-T2  - Archives of sexual behavior
+T2  - Archives of Sexual Behavior
 AB  - Sexual violence among men who have sex with men (MSM) is prevalent in developing countries and is associated with increased HIV/STI risk. Despite high HIV prevalence (20 %) among MSM in Tijuana, Mexico, little attention has been paid to the occurrence of sexual violence in this high-risk group. The present study used a syndemic conditions framework to examine correlates of sexual violence victimization in a sample of 201 MSM surveyed in Tijuana, Mexico during 2012 and 2013. Participants were recruited through respondent-driven sampling and underwent a 2-h baseline interview and testing for HIV and syphilis. Sexual violence was defined as any incident during the past year in which the participant had been raped, sexually molested, or sexually harassed. The majority of participants self-identified as gay or bisexual, had never married, were employed, and had a high school education or greater. The average age was 29.7 years. Thirty-nine percent reported sexual violence in the past year. A hierarchical multiple linear regression model predicting more experiences of sexual violence was tested. In a final model, a higher number of experiences of sexual violence was associated with a history of childhood sexual abuse, more adult experiences of homophobia, more depression and hostility symptoms, and not living with a spouse or steady partner. The findings from this study support a model of co-occurring psychosocial factors that increase the likelihood of sexual violence experiences among MSM. Multi-level approaches to the prevention of childhood and adult experiences of sexual violence and homophobia are needed to avert the development of adverse mental and physical health outcomes associated with sexual violence victimization.
+DA  - 2017///
+PY  - 2017
 DO  - 10.1007/s10508-016-0747-x
-IS  - 4
+VL  - 46
 SP  - 1011
+EP  - 1023
+J2  - Arch Sex Behav
 SN  - 1573-2800,0004-0002
 L1  - https://europepmc.org/articles/pmc5107348?pdf=render
-KW  - A lire
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Substance use
+KW  - PTSD
+KW  - Discrimination
+KW  - Sexual compulsivity
+KW  - Childhood sexual abuse
+KW  - Alcohol Use Disorder
 ER  - 
 
 TY  - JOUR
@@ -2126,14 +2671,23 @@ AU  - Kapadia, Farzana
 AU  - Ompad, Danielle C
 AU  - Bourque, Linda
 AU  - Bolan, Robert K
-T2  - Journal of acquired immune deficiency syndromes (1999)
+T2  - Journal of Acquired Immune Deficiency Syndromes
 AB  - BACKGROUND: Latino gay, bisexual, and other men who have sex with men (MSM) in the United States have a 50% greater incidence of HIV when compared with White MSM. Previous studies have analyzed factors contributing to condomless anal intercourse among Latino MSM, but few studies have followed cohorts of HIV-negative Latino MSM to determine circumstances for HIV infection. Informed by Syndemics theory, we examine behavioral, biological, and contextual factors associated with HIV infection for Latino MSM., METHODS: Risk assessment and HIV testing data were analyzed for all initially HIV negative, Latino MSM (n = 3111) visiting a community-based clinic in Los Angeles, CA from January 2009 to June 2014. Survival analyses were used to determine characteristics of Latino MSM who became HIV positive during the study time frame., RESULTS: Similar to previous studies of MSM, self-reported history of chlamydia, gonorrhea, and/or syphilis (adjusted hazard ratio (aHR): 1.97; CI: 1.28 to 3.04), receptive condomless anal intercourse (aHR: 1.7; CI: 1.16 to 2.49), and methamphetamine use (aHR: 1.99; CI: 1.15 to 3.43) predicted HIV infection. In addition, originating from Central America (aHR: 2.31; CI: 1.41 to 3.79), Latino ethnicity of the last sex partner (aHR: 1.67; CI: 1.16 to 2.39) and experiencing intimate partner violence (IPV) (aHR: 1.73; CI: 1.13 to 2.64) were also associated with HIV infection among Latino MSM., CONCLUSIONS: This is the first study to show independent associations between IPV and HIV infection among Latino MSM. This study shows that psychosocial conditions such as IPV fuel HIV incidence among Latino MSM, and psychosocial interventions should be considered to reduce HIV disparities among Latino MSM.
+DA  - 2016///
+PY  - 2016
 DO  - 10.1097/QAI.0000000000001072
+VL  - 73
 IS  - 2
 SP  - 237
+EP  - 244
+J2  - J Acquir Immune Defic Syndr
 SN  - 1944-7884,1525-4135
 L1  - https://escholarship.org/content/qt0fk9k7k8/qt0fk9k7k8.pdf?t=o7q948
-KW  - A lire
+KW  - MSM
+KW  - Syndemic
+KW  - Substance use
+KW  - IPV
+KW  - Latino MSM
 ER  - 
 
 TY  - JOUR
@@ -2144,14 +2698,25 @@ AU  - Buttram, Mance E
 AU  - Wei, Chongyi
 AU  - Silvestre, Anthony J
 AU  - Stall, Ron
-T2  - AIDS and behavior
+T2  - AIDS and Behavior
 AB  - Compared with men who have sex with men only (MSMO), men who have sex with men and women (MSMW) consistently report higher rates of two HIV risk behaviors: transactional sex (TS) and concurrent substance use and sex (CSS). Within MSMW, little is known about how synergistic epidemics ("syndemics") affect TS and CSS. Using a sample of substance-using MSM (n = 515) in South Florida, we compared TS and CSS among MSMO and MSMW; examined whether, within MSMW (n = 86), TS and CSS predict unprotected anal intercourse with partners of serodiscordant/unknown HIV status (SU-UAI); and tested whether syndemics predict TS and CSS. MSMW reported higher rates of engaging in both TS and CSS (AOR = 1.7; 95 % CI 1.0-3.0). Within MSMW, engagement in both TS and CSS predicted SU-UAI (AOR = 3.3; 95 % CI 1.2-9.6); and syndemics predicted TS and CSS involvement (p < 0.01). Substance-using MSMW may benefit from interventions targeting TS, CSS, and background syndemics.
+DA  - 2014///
+PY  - 2014
 DO  - 10.1007/s10461-013-0495-z
-IS  - 1
 SP  - 111
+EP  - 19
+J2  - AIDS Behav
 SN  - 1573-3254,1090-7165
 L1  - https://europepmc.org/articles/pmc4034527?pdf=render
-KW  - A lire
+KW  - Chemsex
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - MSMW
+KW  - Sex work
+KW  - Violence
+KW  - Sexual compulsivity
+KW  - Unstable housing
 ER  - 
 
 TY  - JOUR
@@ -2163,14 +2728,25 @@ AU  - Sikkema, Kathleen J
 AU  - Skinner, Donald
 AU  - Watt, Melissa H
 AU  - Pieterse, Desiree
-T2  - Archives of sexual behavior
+T2  - Archives of Sexual Behavior
 AB  - The HIV/AIDS epidemic in South Africa has largely focused on the needs of heterosexual men and women. However, little is known about the sexual risk histories of men who have sex with both men and women (MSMW). Furthermore, we know very little about the psychosocial health needs or of the possibility of a syndemic (numerous interrelated epidemics) among MSMW. We surveyed 1,203 men attending drinking establishments in a township located in Cape Town, South Africa. We compared the behaviors and experiences of MSMW to men reporting only having sex with women (MSW). Twelve percent of the sample reported having sex with both men and women in the past 4 months. MSMW were twice as likely as MSW to report being HIV positive (10.5 vs. 4.6 %). MSW were more likely to be married than MSMW but reported similar numbers of female sex partners. MSMW were more likely to report a history of childhood sexual abuse, recent experienced and perpetrated physical and sexual partner violence, both receiving and giving sex for money, drugs, or shelter, and a recent STI. These factors were found to be interrelated among MSW but not MSMW. Although MSMW demonstrate considerable risk taking and report higher rates of HIV infection than MSW, their needs are largely unmet and underemphasized. Findings suggest the need to better understand factors contributing to sexual risk taking among MSMW. HIV prevention interventions should consider psychosocial health problems unique to MSMW residing in South African townships.
+DA  - 2013///
+PY  - 2013
 DO  - 10.1007/s10508-013-0077-1
-IS  - 7
+VL  - 42
 SP  - 1299
+EP  - 1308
+J2  - Arch Sex Behav
 SN  - 1573-2800,0004-0002
 L1  - https://europepmc.org/articles/pmc3760968?pdf=render
-KW  - A lire
+KW  - Syndemic
+KW  - Substance use
+KW  - MSMW
+KW  - Sexual violence
+KW  - IPV
+KW  - Violence
+KW  - Childhood sexual abuse
+KW  - Alcohol use
 ER  - 
 
 TY  - JOUR
@@ -2185,11 +2761,23 @@ T2  - Journal of Gay & Lesbian Mental Health
 A2  - Andersen
 T3  - Journal of Gay & Lesbian Psychotherapy
 AB  - Background: The HIV epidemic among men who have sex with men (MSM) is reinforced by a psychosocial syndemic, but this has not been investigated in sub-Saharan Africa. This study investigated the psychosocial syndemic and its relationship with risky sexual behavior among Nigeria MSM. Methods: Eighty-one MSM and 81 heterosexual men were compared for risky sexual behavior and psychosocial adversity variables-childhood adversity, intimate partner violence, depressive symptoms, suicidal ideation, substance use, and a derived psychosocial syndemic score. The association between syndemic scores and risky sexual behavior was examined among MSM. Results: MSM had significantly higher rates of individual psychosocial adversities except substance use. There were significant interrelationships between the variables, and syndemic scores were associated with higher-risk sexual behavior. Conclusion: This is the first study to investigate the psychosocial syndemic and its relationship with HIV risk among African MSM. The findings highlight the role of psychosocial adversities in exacerbating the HIV epidemic among MSM in developing countries. (PsycINFO Database Record (c) 2019 APA, all rights reserved)
+DA  - 2019///
+PY  - 2019
 DO  - 10.1080/19359705.2018.1552640
-SP  - No
+VL  - 23
+IS  - 2
+SP  - 168
+EP  - 185
+J2  - J Gay Lesbian Ment Health
 SN  - 1935-9705
 L1  - https://www.tandfonline.com/doi/pdf/10.1080/19359705.2018.1552640
-KW  - A lire
+KW  - Suicide
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Substance use
+KW  - IPV
+KW  - Childhood neglect/abuse
 ER  - 
 
 TY  - JOUR
@@ -2200,11 +2788,20 @@ AU  - Li, Alan Tai-Wai
 T2  - Journal of HIV/AIDS & Social Services
 A2  - Biello
 AB  - We tested the applicability of syndemic theory to men who have sex with men (MSM) in Taiwan. Of 200 MSM (mean age = 27.1 years) surveyed, the majority (54%) experienced at least one syndemic burden due to problem drug use, intimate partner violence, or HIV stigma. In multivariable analysis, MSM with one or more syndemic burdens had greater than threefold higher odds of being HIV-positive. The impact of co-occurring psychosocial health conditions on HIV infection among MSM in Taiwan indicates the importance of identifying and engaging HIV-positive MSM in effective treatment, and implementing interventions more broadly to decrease syndemic burden. (PsycINFO Database Record (c) 2019 APA, all rights reserved)
+DA  - 2018///
+PY  - 2018
 DO  - 10.1080/15381501.2018.1454866
+VL  - 17
 IS  - 4
 SP  - 337
+EP  - 352
+J2  - J HIV AIDS Soc Serv
 SN  - 1538-1501
-KW  - A lire
+KW  - MSM
+KW  - Syndemic
+KW  - IPV
+KW  - Discrimination
+KW  - Substance Use Disorder
 ER  - 
 
 TY  - JOUR
@@ -2217,11 +2814,23 @@ AU  - Gilbert, Mark
 T2  - Critical Public Health
 A2  - Bauer
 AB  - Syndemics (socially produced intertwined epidemics) of psychosocial issues have been shown empirically to increase the risk of HIV infection among gay, bisexual and other men who have sex with men (GBM). However, to intervene effectively identifying those who are most vulnerable is critically important. Using an intersectionality framework, this study analyzed data drawn from 8490 Canadian GBM respondents to an online survey to evaluate demographic factors associated with experiencing a syndemic. A multivariable regression model was used to identify demographic characteristics among those experiencing a syndemic of two or more issues. Then, applying an intersectionality framework, the sample was stratified by gay and bisexual men, and by men partnered with woman (whether they were gay, bisexual or other), and the multivariate analyses for demographic variables were repeated for each strata. Multivariate regression models found that men were more at risk of syndemics if they identified as gay, were single, young (< 30-years-old), did not have a university degree and were low-income earners (< $60,000 per year). On stratified analysis, variations were found between gay, bisexual and female-partnered men where gay men were at greater odds of reporting a syndemic. These results provide further evidence that syndemics of psychosocial issues increase the risk of HIV infection among GBM. More so, the occurrence of syndemics was dependent on every single variable investigated including ethnicity and income. As such, interventions to reduce the effects of syndemics should be targeted to those most at risk and address social and structural inequities. (PsycINFO Database Record (c) 2019 APA, all rights reserved)
+DA  - 2018///
+PY  - 2018
 DO  - 10.1080/09581596.2017.1380298
+VL  - 28
 IS  - 5
 SP  - 509
+EP  - 521
+J2  - Crit Public Health
 SN  - 0958-1596
-KW  - A lire
+KW  - Suicide
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Substance use
+KW  - Binge drinking
+KW  - Anxiety
+KW  - MSMW
 ER  - 
 
 TY  - JOUR
@@ -2233,13 +2842,22 @@ AU  - Moses, Erin
 AU  - Carvalhal, Adriana
 T2  - Journal of Gay & Lesbian Mental Health
 A2  - Babor, Berman, Chan, Comstock, Mustanski, Parsons, Pearson, Pines, Radloff, Reinert, Stall, Tan, Weissman
-T3  - Journal of Gay & Lesbian Psychotherapy
+T3  - Journal of Gay & Lesbian Mental Health
 AB  - Although literature has repeatedly shown that populations of men who have sex with men have (MSM) higher rates of mental health issues, including depression and addiction, routine screening is not part of standard care. This case series explores the value of implementing routine screening in a population of MSM before initiating HIV pre-exposure prophylaxis. We found the use of self-administered questionnaires for depression and substance use proved to be an acceptable and feasible method of assessment. Routine screening for syndemics in MSM populations is an important aspect of care that can have a significant impact on adherence and overall health outcomes. (PsycINFO Database Record (c) 2016 APA, all rights reserved)
+DA  - 2016///
+PY  - 2016
 DO  - 10.1080/19359705.2015.1105765
+VL  - 20
 IS  - 1
 SP  - 13
+EP  - 20
+J2  - J Gay Lesbian Ment Health
 SN  - 1935-9705
-KW  - A lire
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Alcohol Use Disorder
+KW  - Substance Use Disorder
 ER  - 
 
 TY  - JOUR
@@ -2247,15 +2865,22 @@ TI  - The interplay of syndemic production and serosorting in drug-using gay and
 AU  - Moeller, Robert W
 AU  - Halkitis, Perry N
 AU  - Surrence, Katie
-T2  - Journal of Gay & Lesbian Social Services: The Quarterly Journal of Community & Clinical Practice
+T2  - Journal of Gay & Lesbian Social Services
 A2  - Ahern
-T3  - Journal of Gay & Lesbian Social Services: Issues in Practice, Policy & Research
 AB  - The relationships between mental health, substance use, and sexual behaviors among gay and bisexual men in a sample of 450 club drug-using men from New York City were examined using syndemics theory. Risk scores for each participant were based on variables measuring substance use and mental health burden. Participants with higher risk scores were significantly more likely to engage in risk behaviors. Risk taking was also explained by serosorting, suggesting that syndemics theory in and of itself, while significant in explaining risk, is not sufficient. These findings suggest we need to understand the interplay between social, emotional, and cognitive factors to understand sexual risk taking. (PsycINFO Database Record (c) 2016 APA, all rights reserved)
 DO  - 10.1080/10538720.2010.538007
+VL  - 23
 IS  - 1
 SP  - 89
+EP  - 106
+J2  - J. Gay Lesbian Soc. Serv
 SN  - 1053-8720
-KW  - A lire
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Substance use
+KW  - Anxiety
+KW  - Hostility
 ER  - 
 
 TY  - JOUR
@@ -2265,16 +2890,26 @@ AU  - Guadamuz, T.E.
 AU  - Akbar, M.
 AU  - Kamarulzaman, A.
 AU  - Lim, S.H.
-T2  - International Journal of STD and AIDS
+T2  - International Journal of STD & AIDS
 AB  - In Malaysia, the HIV epidemic is concentrated in a highly stigmatized population, men who have sex with men (MSM). The relationship of multiple psychosocial health conditions and HIV risks have not been investigated. This study aims to assess the association of multiple psychosocial factors with risky sexual behaviour and HIV infection among MSM. Data on demographic characteristics, psychosocial health conditions, condomless anal intercourse (CAI), HIV testing and HIV status were collected via an anonymous online survey. Multivariable logistic regression model was used to determine whether psychosocial health conditions among MSM have a syndemic association with HIV status. Between July 2017 and February 2018, 622 MSM completed the online survey. Overall, 54.3% of participants reported engaging in CAI in the past three months and 46.0% were found to have two or more psychosocial health conditions. Increasing numbers of psychosocial health conditions (1, 2, 3, 4 or more) were significantly associated with HIV infection compared to those without psychosocial health condition (odds ratio [OR] 3.39, 95% confidence interval [CI]: 1.41–8.14; OR 3.51, 95% CI: 1.43–8.61; OR 4.22, 95% CI: 1.68–10.96, and OR 7.58, 95% CI: 2.44–23.55, respectively). Comprehensive HIV prevention programs addressing mental health and substance use are needed for MSM in Malaysia. © The Author(s) 2020.
+DA  - 2020///
+PY  - 2020
 DO  - 10.1177/0956462420913444
+VL  - 31
 IS  - 6
 SP  - 568
+EP  - 578
 J2  - Int. J. STD AIDS
 LA  - English
 SN  - 09564624 (ISSN)
 DB  - Scopus
-KW  - A lire
+KW  - Suicide
+KW  - Chemsex
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - IPV
+KW  - Childhood sexual abuse
 ER  - 
 
 TY  - JOUR
@@ -2286,36 +2921,264 @@ AU  - Coleman, T.
 AU  - Vernon, J.
 T2  - Sexualities
 AB  - Investigation of the social and psychological antecedents of the HIV epidemic has identified a syndemic of conditions associated with risk behavior and seroconversion. This study inquires into the resilient practices and developmental processes of gay and bisexual men at the nexus of syndemic conditions to understand the pathways that lead to health problems or well-being. Interviews with 40 men identified branching pathways from home environments into schools that either offer refuge or a regime of gender discipline and bullying. Some found escape routes from hostile environments in worlds of books, pop culture, or internet chat. In adolescence, one set of men identified the development of sexual relationships with older men as a lifeline that brought a measure of emotional growth. This study points to resilience pathways and social resources that could make a difference in the lives of those deemed to be “high risk.”. © The Author(s) 2018.
+DA  - 2018///
+PY  - 2018
 DO  - 10.1177/1363460718758663
+VL  - 22
 IS  - 4
-SP  - 622
+SP  - 642
 J2  - Sexualities
 LA  - English
 SN  - 13634607 (ISSN)
 DB  - Scopus
-KW  - A lire
+KW  - MSM
+KW  - Syndemic
 ER  - 
 
 TY  - JOUR
-TI  - An index of multiple psychosocial, syndemic conditions is associated with antiretroviral medication adherence among HIV-positive youth
-AU  - Kuhns, L.M.
-AU  - Hotton, A.L.
-AU  - Garofalo, R.
-AU  - Muldoon, A.L.
-AU  - Jaffe, K.
-AU  - Bouris, A.
-AU  - Voisin, D.
-AU  - Schneider, J.
-T2  - AIDS Patient Care and STDs
-AB  - Medication adherence among HIV-infected individuals is critical to limit disease progression and onward transmission. Evidence indicates that among youth living with HIV (YLH), adherence is suboptimal and related to co-morbid psychosocial conditions. Cross-sectional data from 212 YLH, ages 16-29, collected between 2011-2014 in Chicago were analyzed to assess the relationship of multiple psychosocial conditions (e.g., depressive symptoms, anxiety symptoms, moderate/heavy marijuana use, moderate/heavy alcohol use, HIV-related stigma) to ART adherence (i.e., a "syndemic.") Adherence was regressed on an index of increasing numbers of psychosocial conditions, controlling for demographic and treatment factors as well as enrollment site. The mean age of participants was 24, 89% were male, 87% black, and 91% behaviorally infected. Psychosocial conditions were prevalent, including 38% and 34% with high depressive and anxiety symptoms, respectively, 54% and 25% with a moderate/high level of marijuana and alcohol use, respectively, and 46% reporting high HIV-related stigma. In regression analysis, the likelihood of ART adherence decreased with the number of syndemic conditions (linear dose response, p = 0.02) as did the odds of viral load suppression (p = 0.008). Interventions to address these conditions in concert with biomedical treatment as prevention for YLH are needed. © Mary Ann Liebert, Inc. 2016.
-DO  - 10.1089/apc.2015.0328
-IS  - 4
-SP  - 185
-J2  - AIDS Patient Care STDs
-LA  - English
-SN  - 10872914 (ISSN)
-DB  - Scopus
-L1  - https://europepmc.org/articles/pmc4827312?pdf=render
-KW  - A lire
+TI  - Sexual behaviour patterns and STI risk: results of a cluster analysis among men who have sex with men in Portugal.
+AU  - Blondeel, Karel
+AU  - Dias, Sonia
+AU  - Furegato, Martina
+AU  - Seuc, Armando
+AU  - Gama, Ana
+AU  - Fuertes, Ricardo
+AU  - Mendao, Luis
+AU  - Temmerman, Marleen
+AU  - Toskin, Igor
+T2  - BMJ open
+AB  - OBJECTIVES: Portugal has the highest HIV incidence rate in Western Europe. The proportion assigned to sexual contact between men recently increased to more than 30% of all HIV infections. Men who have sex with men (MSM) are vulnerable to the acquisition of other sexually transmitted infections (STIs), increasing the per-contact risk of HIV infection. Building on syndemic theory, the aim of this analysis was to identify patterns of current sexual behaviour in MSM, and explore their relationship with self-reported current, past STI diagnoses and HIV positive serostatus., DESIGN: A cross-sectional behavioural survey was conducted in Portugal among MSM, using a community-based participatory research approach. Hierarchical cluster analysis was used to identify patterns including behavioural and demographic factors., RESULTS: The analysis resulted in six clusters. Three clusters showed higher rates of current STI diagnosis (ranging from 11.7% to 17.1%), past STI diagnosis (ranging from 25.5% to 41.5%) and HIV positive serostatus (ranging from 13.0% to 16.7%). From the three clusters scoring lower on current and past STI and HIV diagnoses, one was characterised by a high number of sexual partners (62% had more than 12 partners in the last year), a high proportion (94.6%) of frequent visits to gay venues to meet sexual partners and high alcohol use (46.1%). The other two clusters scored lower on high risk sexual behaviour., CONCLUSION: Factors other than sexual behaviour appear to reinforce the vulnerability to STIs and HIV of some MSM in this study, suggesting a syndemic of STIs, HIV and other adverse conditions. More research is needed to better understand the drivers of the STI/HIV epidemic in Portuguese MSM, using a concept that goes beyond risk behaviour, to develop effective combination prevention interventions. Copyright © Author(s) (or their employer(s)) 2021. Re-use permitted under CC BY-NC. No commercial re-use. See rights and permissions. Published by BMJ.
+DA  - 2021///
+PY  - 2021
+DO  - 10.1136/bmjopen-2019-033290
+VL  - 11
+SP  - e033290
+J2  - BMJ Open
+SN  - 2044-6055,2044-6055
+L2  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=prem&NEWS=N&AN=33483434
+KW  - MSM
+KW  - Syndemic
+ER  - 
+
+TY  - JOUR
+TI  - Enhancing help-seeking behaviour among men who have sex with men at risk for sexually transmitted infections: the syn.bas.in randomised controlled trial.
+AU  - Achterbergh, Roeland Christiaan Alfons
+AU  - van Rooijen, Martijn S
+AU  - van den Brink, Wim
+AU  - Boyd, Anders
+AU  - e Vries, Henry John Christiaan
+T2  - Sexually transmitted infections
+AB  - OBJECTIVES: Men who have sex with men (MSM) are at increased risk for STIs and mental disorders. Syndemic theory holds that psychosocial issues co-occur and interact, and thus increase sexual risk behaviour. Psychosocial issue identification, referral and management might reduce risk behaviour., METHODS: In the syndemic-based intervention study, an open-label randomised controlled trial, MSM were enrolled at the STI outpatient clinic of the Public Health Service of Amsterdam. We screened participants using validated questionnaires on the following problem domains: alcohol and substance use, sexual compulsivity, anxiety, depression, attention deficit hyperactivity disorder, alexithymia, intimate partner violence and childhood sexual abuse. Individuals were randomly assigned (1:1) to receive either tailored, face-to-face feedback and help-seeking advice on mental health screening, or no feedback and no help-seeking advice. Participants were followed trimonthly for a year. The primary outcomes were self-reported and confirmed help-seeking behaviour., RESULTS: We included 155 MSM: 76 in the intervention group and 79 in the control group. At inclusion, 128 participants (83.1%) scored positive in at least one problem domain. We found no significant differences in self-reported or confirmed help-seeking behaviour between the intervention and the control group: 41% vs 29% (p=0.14) and 28% vs 22% (p=0.44), respectively. There were also no differences in STI incidence and condomless anal sex acts between the two groups., CONCLUSION: Screening showed high prevalence of problems related to mental health and substance use, while tailored feedback, advice and referral did not significantly increase help-seeking behaviour. Other interventions are needed to tackle the high burden of mental disorders among MSM., TRIAL REGISTRATION NUMBER: NCT02859935. Copyright © Author(s) (or their employer(s)) 2021. Re-use permitted under CC BY. Published by BMJ.
+DA  - 2021///
+PY  - 2021
+DO  - 10.1136/sextrans-2020-054438
+VL  - 97
+SP  - 11
+EP  - 17
+J2  - Sex Transm Infect
+SN  - 1472-3263,1368-4973
+L2  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=prem&NEWS=N&AN=32737210
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Anxiety
+KW  - IPV
+KW  - Discrimination
+KW  - Sexual compulsivity
+KW  - Alcohol Use Disorder
+KW  - Substance Use Disorder
+KW  - ADHD
+KW  - Alexithymia
+ER  - 
+
+TY  - JOUR
+TI  - Geographic Mobility, Place Attachment, and the Changing Geography of Sex among African American and Latinx MSM Who Use Substances in Los Angeles.
+AU  - Cassels, Susan
+AU  - Meltzer, Dan
+AU  - Loustalot, Colin
+AU  - Ragsdale, Amy
+AU  - Shoptaw, Steve
+AU  - Gorbach, Pamina M
+T2  - Journal of urban health : bulletin of the New York Academy of Medicine
+AB  - The places that people go and interact with others, along with the characteristics of those places, determine degrees of sexual health risk and concomitant prevention opportunities for gay, bisexual, and other men who have sex with men (MSM). The objective of this paper is to use syndemic theory to guide analyses of 20 in-depth interviews with African American and Hispanic/Latinx MSM living in Los Angeles. We describe the places in which African American and Latinx MSM interviewees live and socialize, and how these places influence sexual behavior, drug use, and access to health care. We find common spatial patterns in mobility, incongruence in residential and sexual places, and differing geographic patterns of sex by men who use geo-social hook-up apps. Significant instability in home life and varying forms of mobility and risk-taking were a response to cumulative disadvantage and intersecting structural forces including poverty, racism, and homophobia. Our results strongly suggest that geographic mobility is a syndemic factor for HIV risk among MSM in Los Angeles, as mobility amplified negative impacts of other syndemic factors. Innovative place-interventions to reduce HIV incidence and disparities in HIV need to acknowledge the synergistic factors that drive higher HIV incidence among AA and Latinx MSM.
+DA  - 2020///
+PY  - 2020
+DO  - 10.1007/s11524-020-00481-3
+VL  - 97
+SP  - 609
+EP  - 622
+J2  - J Urban Health
+SN  - 1468-2869,1099-3460
+L2  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=prem&NEWS=N&AN=32996024
+KW  - MSM
+KW  - Syndemic
+ER  - 
+
+TY  - JOUR
+TI  - Syndemic latent transition analysis in the HPTN 061 cohort: Prospective interactions between trauma, mental health, social support, and substance use.
+AU  - Turpin, Rodman E
+AU  - Dyer, Typhanye V
+AU  - Dangerfield, Derek T 2nd
+AU  - Liu, Hongjie
+AU  - Mayer, Kenneth H
+T2  - Drug and alcohol dependence
+AB  - BACKGROUND: Substance use among Black sexual minority men (BSMM) is a significant public health focus of prevention interventions due to its association with sexual risk behaviors and transmission of HIV. Traumatic experiences and mental health challenges may interact to create a syndemic associated with substance use in this population; this may be moderated by social support however., METHODS: Using a multicenter prospective cohort of 1068 BSMM, we conducted a longitudinal syndemic latent transition analysis testing whether baseline and 6-month race and sexuality-targeted violence, intimate partner violence, other traumatic experiences, depression, and internalized homophobia was associated with 12-month substance use. We also tested if social support modified this and was associated with transitions between statuses., RESULTS: Our analysis identified four statuses: A "low-risk" status characterized by the lowest proportions of syndemic factors, and 3 "high-risk" statuses, characterized by higher proportions of syndemic factors. All three high-risk statuses were associated with higher substance use than the low-risk status, with the greatest association observed with "high-risk status C" (aRR = 4.54, 95 % CI 1.98, 10.40). Social support attenuated this association (Interaction aRR = 0.21, 95 % CI 0.05, 0.85) and was associated with lower transition rates from low to high-risk status 6 months later (Transition ratio = 0.45, 95 % CI 0.29, 0.69)., CONCLUSIONS: Our findings identified a syndemic of trauma, depression, and homophobia among BSMM associated with substance use, but attenuated by social support. Future research into the role of social support and resiliency in substance use prevention and recovery is recommended. Copyright © 2020 Elsevier B.V. All rights reserved.
+DA  - 2020///
+PY  - 2020
+DO  - 10.1016/j.drugalcdep.2020.108106
+VL  - 214
+J2  - Drug Alcohol Depend
+SN  - 1879-0046,0376-8716
+L2  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=prem&NEWS=N&AN=32652374
+KW  - MSM
+KW  - Depression
+KW  - Homophobia
+KW  - Syndemic
+KW  - Substance use
+KW  - Discrimination
+KW  - Violence
+KW  - Racism
+KW  - Social support
+KW  - Trauma
+ER  - 
+
+TY  - JOUR
+TI  - Alcohol consumption, substance use, and depression in relation to HIV Pre-Exposure Prophylaxis (PrEP) nonadherence among gay, bisexual, and other men-who-have-sex-with-men.
+AU  - Shuper, Paul A
+AU  - Joharchi, Narges
+AU  - Bogoch, Isaac I
+AU  - Loutfy, Mona
+AU  - Crouzat, Frederic
+AU  - El-Helou, Philippe
+AU  - Knox, David C
+AU  - Woodward, Kevin
+AU  - Rehm, Jurgen
+T2  - BMC public health
+AB  - BACKGROUND: Although HIV pre-exposure prophylaxis (PrEP) substantially diminishes the likelihood of HIV acquisition, poor adherence can decrease the HIV-protective benefits of PrEP. The present investigation sought to identify the extent to which alcohol consumption, substance use, and depression were linked to PrEP nonadherence among gay, bisexual, and other men-who-have-sex-with-men (gbMSM)., METHODS: gbMSM (age >= 18, prescribed PrEP for >=3 months) were recruited from two clinics in Toronto, Canada for an e-survey assessing demographics; PrEP nonadherence (4-day PrEP-focused ACTG assessment); hazardous and harmful alcohol use (AUDIT scores of 8-15 and 16+, respectively); moderate/high risk substance use (NIDA M-ASSIST scores > 4); depression (CESD-10 scores >=10); and other PrEP-relevant factors. The primary outcome, PrEP nonadherence, entailed missing one or more PrEP doses over the past 4 days. A linear-by-linear test of association assessed whether increasing severity of alcohol use (i.e., based on AUDIT categories) was linked to a greater occurrence of PrEP nonadherence. Univariate logistic regression was employed to determine factors associated with PrEP nonadherence, and factors demonstrating univariate associations at the p < .10 significance level were included in a multivariate logistic regression model. Additive and interactive effects involving key significant factors were assessed through logistic regression to evaluate potential syndemic-focused associations., RESULTS: A total of 141 gbMSM (Mean age = 37.9, white = 63.1%) completed the e-survey. Hazardous/harmful drinking (31.9%), moderate/high risk substance use (43.3%), and depression (23.7%) were common; and one in five participants (19.9%) reported PrEP nonadherence. Increasing alcohol use level was significantly associated with a greater likelihood of nonadherence (i.e., 15.6, 25.0, and 44.4% of low-risk, hazardous, and harmful drinkers reported nonadherence, respectively (chi2(1) = 4.79, p = .029)). Multivariate logistic regression demonstrated that harmful alcohol use (AOR = 6.72, 95%CI = 1.49-30.33, p = .013) and moderate/high risk cocaine use (AOR = 3.11, 95%CI = 1.01-9.59, p = .049) independently predicted nonadherence. Furthermore, an additive association emerged, wherein the likelihood of PrEP nonadherence was highest among those who were hazardous/harmful drinkers and moderate/high risk cocaine users (OR = 2.25, 95%CI = 1.19-4.25, p = .013). Depression was not associated with nonadherence., CONCLUSIONS: Findings highlight the need to integrate alcohol- and substance-focused initiatives into PrEP care for gbMSM. Such initiatives, in turn, may help improve PrEP adherence and reduce the potential for HIV acquisition among this group.
+DA  - 2020///
+PY  - 2020
+DO  - 10.1186/s12889-020-09883-z
+VL  - 20
+SP  - 1782
+J2  - BMC Public Health
+SN  - 1471-2458,1471-2458
+L2  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=prem&NEWS=N&AN=33256651
+KW  - PrEP
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Substance use
+KW  - Alcohol Use Disorder
+ER  - 
+
+TY  - JOUR
+TI  - Latent Profile Analysis of a Syndemic of Vulnerability Factors on Incident Sexually Transmitted Infection in a Cohort of Black Men Who Have Sex With Men Only and Black Men Who Have Sex With Men and Women in the HIV Prevention Trials Network 061 Study.
+AU  - Dyer, Typhanye V
+AU  - Turpin, Rodman E
+AU  - Stall, Ron
+AU  - Khan, Maria R
+AU  - Nelson, LaRon E
+AU  - Brewer, Russell
+AU  - Friedman, M Reuel
+AU  - Mimiaga, Matther J
+AU  - Cook, Robert L
+AU  - O'Cleirigh, Conall
+AU  - Mayer, Kenneth H
+T2  - Sexually transmitted diseases
+AB  - BACKGROUND: Sexually transmitted infections (STIs) are important public health concerns among black men who have sex with men only (BMSMO), as well as those who have sex with both men and women (BMSMW). Sexually transmitted infections also increase risk of acquiring and HIV, which is also a critical concern. Compared with BMSMO, research shows that BMSMW experience elevated levels of HIV/STI vulnerability factors occurring at the intrapersonal, interpersonal, and social/structural levels. These factors may work independently, increasing one's risk of engaging in high-risk sexual behaviors, but often work in a synergistic and reinforcing manner. The synergism and reinforcement of any combination of these factors are known as a syndemic, which increases HIV/STI risk., METHODS: Data from the HIV Prevention Trials Network (HPTN) 061 study (n = 799) was used to conduct a latent profile analysis to identify unique combinations of risk factors that may form a syndemic and that may vary between BMSMO and BMSMW. We hypothesized that the convergence of syndemic factors would differ between groups and predict sexual risk and subsequent incident STI., RESULTS: For BMSMO who had a high sexual risk profile, the syndemic factors characterizing this group included perceived racism, incarceration, intimate partner violence, depression, and binge drinking. For BMSMW with a high sexual risk profile, the syndemic factors that characterized this group were incarceration, depression, and binge drinking., CONCLUSIONS: The current analysis highlights syndemic profiles that differentiated BMSMO and BMSMW from one another and supports the need for tailored interventions that address specific syndemic factors for both subpopulations of black men who have sex with men.
+DA  - 2020///
+PY  - 2020
+DO  - 10.1097/OLQ.0000000000001208
+VL  - 47
+IS  - 9
+SP  - 571
+EP  - 579
+J2  - Sex Transm Dis
+SN  - 1537-4521,0148-5717
+L2  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=prem6&NEWS=N&AN=32496390
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Substance use
+KW  - Incarceration
+KW  - Binge drinking
+KW  - IPV
+KW  - Black MSM
+KW  - Racism
+KW  - Trauma
+ER  - 
+
+TY  - JOUR
+TI  - Syndemic profiles and sexual minority men's hiv-risk behavior: A latent class analysis.
+AU  - Scheer, Jillian R
+AU  - Clark, Kirsty A
+AU  - Maiolatesi, Anthony J
+AU  - Pachankis, John E
+T2  - Archives of Sexual Behavior
+A2  - Baams, Bakk, Benjamini, Blosnich, Boeri, Bohn, Bond, Boone, Branstrom, Brennan, Burton, Carrico, Chakrapani, Cloete, Cochran, Collins, Conigrave, Corliss, Corp, Cramer, Cuevas, Dangerfield, Daskalopoulou, De Graaf, Derogatis, Dias, Dowshen, Earnshaw, Ferlatte, F
+AB  - Syndemic theory posits that "syndemic conditions" (e.g., alcohol misuse, polydrug use, suicidality) co-occur among sexual minority men and influence HIV-risk behavior, namely HIV acquisition and transmission risk. To examine how four syndemic conditions cluster among sexual minority men and contribute to HIV-risk behavior, we conducted latent class analysis (LCA) to: (1) classify sexual minority men (n = 937) into subgroups based on their probability of experiencing each syndemic condition; (2) examine the demographic (e.g., race/ethnicity) and social status (e.g., level of socioeconomic distress) characteristics of the most optimally fitting four syndemic classes; (3) examine between-group differences in HIV-risk behavior across classes; and (4) use syndemic class membership to predict HIV-risk behavior with sexual minority men reporting no syndemic conditions as the reference group. The four classes were: (1) no syndemic, (2) alcohol misuse and polydrug use syndemic, (3) polydrug use and HIV syndemic, and (4) alcohol misuse. HIV-risk behavior differed across these latent classes. Demographic and social status characteristics predicted class membership, suggesting that syndemic conditions disproportionately co-occur in vulnerable subpopulations of sexual minority men, such as those experiencing high socioeconomic distress. When predicting HIV-risk behavior, men in the polydrug use and HIV syndemic class were more likely (Adjusted Risk Ratio [ARR] = 2.93, 95% CI: 1.05, 8.21) and men in the alcohol misuse class were less likely (ARR = 0.17, 95% CI: 0.07, 0.44) to report HIV-risk behavior than were men in the no syndemic class. LCA represents a promising methodology to inform the development and delivery of tailored interventions targeting distinct combinations of syndemic conditions to reduce sexual minority men's HIV-risk behavior. (PsycInfo Database Record (c) 2021 APA, all rights reserved)
+DA  - 2021///
+PY  - 2021
+DO  - 10.1007/s10508-020-01850-4
+J2  - Arch Sex Behav
+SN  - 0004-0002
+L2  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=psyc17&NEWS=N&AN=2021-11484-001
+KW  - Suicide
+KW  - MSM
+KW  - Syndemic
+KW  - HIV
+KW  - Polysubstance use
+KW  - Alcohol Use Disorder
+ER  - 
+
+TY  - JOUR
+TI  - Syndemic health disparities and sexually transmitted infection burden among black men who have sex with men engaged in sex work in the u.S.
+AU  - Chandler, Cristian J
+AU  - Meunier, Etienne
+AU  - Eaton, Lisa A
+AU  - Andrade, Eli
+AU  - Bukowski, Leigh A
+AU  - Matthews, Derrick D
+AU  - Raymond, Henry F
+AU  - Stall, Ronald D
+AU  - Friedman, M. Reuel
+T2  - Archives of Sexual Behavior
+A2  - Andresen, Balaji, Baral, Bauermeister, Bauermeister, Biello, Biello, Bobashev, Bukowski, Crosby, Dilley, dos Ramos Farias, Dyer, Dyer, Eaton, Edeza, Farmer, Friedman, Friedman, Guadamuz, Halkitis, Hammer, Hernandez-Romieu, Jenness, Kelley, Kelley, Koken, Lanier, Ma
+AB  - Black men who have sex with men (MSM) engaged in sex work (BMSM-SW) experience elevated HIV and sexually transmitted infection (STI) prevalence. Further, BMSM-SW have been shown to have higher rates of syndemic psychosocial health conditions which contribute to HIV risk behavior and incidence, and poorer care outcomes than other groups of men who have sex with men. However, syndemic perspectives have not been applied to understanding past-year STI burden among BMSM-SW in the U.S. Sexually active Black MSM >= 18 years old were recruited from Black Pride events in six U.S. cities (n = 4421) between 2014 and 2017. Multivariable logistic regressions assessed correlates of past-year sex work engagement; whether BMSM-SW had higher odds of syndemic conditions; and whether BMSM-SW had higher odds of self-reported, past-year STI diagnoses. Structural equation models assessed relationships between sex work engagement, syndemic conditions, and STI controlled for sociodemographics and number of sexual partners. A total of 254 (5.7%) Black MSM reported past-year sex work, of whom 45.3% were HIV positive. BMSM-SW were significantly more likely to be Hispanic, to report past-year bisexual behavior, and to report annual income < $10,000. In multivariable models, BMSM-SW were significantly more likely to report intimate partner violence, assault victimization, polydrug use, and depression symptoms; they were also more likely to report past-year gonorrhea, chlamydia, and syphilis. Syndemic conditions mediated the relationship between past-year sex work and past-year STI burden, constituting a significant indirect effect. BMSM-SW in the U.S. face severe biopsychosocial health disparities. Interventions developed for BMSM engaged in sex work are lacking. Our results suggest that interventions containing safer sex work education and sex-positive biobehavioral HIV/STI prevention alongside substance use, mental health, employment, and education components will be most effective. (PsycInfo Database Record (c) 2020 APA, all rights reserved)
+DA  - 2020///
+PY  - 2020
+DO  - 10.1007/s10508-020-01828-2
+J2  - Arch Sex Behav
+SN  - 0004-0002
+L2  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=psyc17&NEWS=N&AN=2020-84751-001
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - IPV
+KW  - Polysubstance use
+KW  - Violence
+KW  - Black MSM
+ER  - 
+
+TY  - JOUR
+TI  - Intersecting barriers to prep awareness and uptake in black men who have sex with men in atlanta, ga: A syndemic perspective.
+AU  - Sullivan, Matthew C
+AU  - Eaton, Lisa A
+T2  - International Journal of Behavioral Medicine
+A2  - Badal, Behrens, Beymer, Bjorgvinsson, Blashill, Burch, Bush, Cahill, Calabrese, Calabrese, Chandler, Cohen, Corp, Delacre, Derrick, Desrosiers, DeVost, Eaton, Eaton, Eaton, Eaton, Eaton, Eaton, Elopre, Friedman, Grant, Gribble, Halkitis, Hambrick, Hightow-Weidma
+AB  - AbstractBackgroundPre-exposure prophylaxis (PrEP) can sharply reduce HIV transmission risk, yet has not been widely adopted among those at highest risk for HIV, including Black men who have sex with men (BMSM). To better understand the evolving landscape of PrEP uptake in this at-risk population, we sought to examine psychosocial factors associated with PrEP uptake in a sample of BMSM residing in the Atlanta, GA, area.MethodBMSM were recruited through online social media, LGBT venues, and participant referral, and self-reported demographic and psychosocial information via computer-assisted self-interview. Multivariate logistic regression was used to examine psychosocial factors associated with PrEP uptake.ResultsIn 293 BMSM, most (N = 260; 88.7%) reported awareness of PrEP yet few (N = 30; 10.1%) reported ever having taken PrEP. BMSM reporting more syndemic conditions were less likely to be current PrEP users (OR = 0.59; 95% CI: 0.36, 0.96). BMSM reporting recent condomless anal sex (CAS) with a partner met online (adjusted odds ratio (aOR) = 2.53; 95% CI: 1.07, 5.93), or who reported having chlamydia (aOR = 8.21; 95% CI: 1.42, 47.67) or STI-related symptoms (aOR = 4.35; 95% CI: 1.32, 14.37) in the past 3 months, or genital warts in their lifetime (aOR = 7.74; 95% CI: 2.47, 24.21) were more likely to have ever used PrEP. Sexual orientation stigma from health care providers was negatively associated with PrEP uptake (OR = 0.81, 95% CI: 0.68, 0.95) among BMSM reporting recent CAS and multiple partners.ConclusionSyndemic and stigma theories may inform strategies for improving PrEP uptake in BMSM. (PsycInfo Database Record (c) 2020 APA, all rights reserved)
+DA  - 2020///
+PY  - 2020
+DO  - 10.1007/s12529-020-09925-1
+J2  - Int J Behav Med
+SN  - 1070-5503
+L2  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=psyc17&NEWS=N&AN=2020-63107-001
+KW  - MSM
+KW  - Depression
+KW  - Syndemic
+KW  - Substance use
+KW  - Sex work
+KW  - Black MSM
+KW  - Alcohol Use Disorder
 ER  - 
 
