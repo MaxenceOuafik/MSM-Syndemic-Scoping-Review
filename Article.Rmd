@@ -9,12 +9,16 @@ author:
 output: 
   bookdown::word_document2:
     reference_docx: "article_template.docx"
-bibliography: library.bib
 csl: bmj.csl
-
+bibliography: references.bib
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+# Results
+
+## Literature search
+
+![](Files/images/PRISMA.png)
