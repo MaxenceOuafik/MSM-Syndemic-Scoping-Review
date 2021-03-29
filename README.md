@@ -32,7 +32,7 @@ the “Datarama” feature of DistillerSR, we generated 4 .csv files
 corresponding to our 4 forms. Complete description of every variable in
 each .csv files can be found in the README of the directory.
 
-## Files
+### Files
 
 This directory contains the files used to generate the paper. This
 includes the .ris files obtained after the electronic database search,
@@ -40,12 +40,12 @@ the .ris files of the studies included at various stages of the study
 and images used. Complete description of the files and subdirectories
 can be found in the README of the directory.
 
-## Output
+### Output
 
 This directory contains the article in .docx format, after kniting
 Article.Rmd in the main directory as well as individual figures.
 
-## Scripts
+### Scripts
 
 This directory contains the scripts sourced in Article.Rmd in order to
 produce our final paper. Every step of data manipulation of the .csv
