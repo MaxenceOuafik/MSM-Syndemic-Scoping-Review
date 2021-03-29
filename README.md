@@ -59,8 +59,7 @@ and each script contains description of the script.
 This paper can be reproduced by downloading the repository and kniting
 Article.Rmd through RStudio. This RMarkdown file contains the text of
 the paper and its code chunks sources the various scripts in the Scripts
-directory. If a package is missing on your computer, you’ll be prompted
-to install it.
+directory.
 
 Kniting this paper as it was intended by its authors necessitates the
 bmj.csl file to format the references, the article\_template.docx file
