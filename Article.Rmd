@@ -46,7 +46,14 @@ knitr::knit_exit()
 ### General characteristics of included studies
 
 ```{r General_characteristics_data_preparation, message=FALSE, warning=FALSE, include=FALSE, paged.print=FALSE}
+#Load required packages :
+library(tidyverse)
+library(readr)
+
+#Load the data from the .csv files
 source("./scripts/read_overview.R", local = knitr::knit_global())
+
+#Source the scripts used to manipulate the data from the .csv files
 source("./scripts/create_year_data.R", local = knitr::knit_global())
 source("./scripts/create_design_data.R", local = knitr::knit_global())
 source("./scripts/create_location_data.R", local = knitr::knit_global())

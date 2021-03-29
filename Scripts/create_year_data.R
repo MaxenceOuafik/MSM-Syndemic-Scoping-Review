@@ -1,4 +1,3 @@
-library(tidyverse)
 year_data <- overview_of_studies %>%
   select(year) %>%
   group_by(year) %>%
