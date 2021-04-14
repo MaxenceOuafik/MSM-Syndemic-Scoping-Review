@@ -64,16 +64,19 @@ source("./scripts/create_plot_year.R", local = knitr::knit_global())
 
 ```
 
-The publication date of the studies range from `r min(year_design$year)` to `r max(year_design$year)` with a marked increase in the number papers published yearly from 2013 onward as illustrated in \@ref(fig:PlotYear).
+The publication date of the studies range from `r min(year_design$year)` to `r max(year_design$year)` with a marked increase in the number papers published yearly from 2013 onward as illustrated in \@ref(fig:PlotYear). Apart from the quantitative increase in the number of studies, there's also a qualitative increase in the diversity of the studies, both in the type of design used and the countries where the studies are conducted.
 
 ```{r PlotYear, fig.cap = "Plot of the cumulative number of studies published yearly, grouped by continent (A) and design (B)"}
-
 
 knitr::include_graphics("./Output/Plots/Plot_Year.png")
 
 ```
 
-Out of the 104 quantitative and qualitative studies included, most were conducted in North America (N = `r North_America_studies`), with a large predominance of studies in the United States of America (N= `r max(year_country$cumulative_location[year_country$location == "USA"])`). The majority of the remaining studies were then located in Asia (N = `r Asia_studies`) or in Europe (N = `r Europe_studies`). South America and Africa were the least represented continents, with only `r South_America_studies` and `r Africa_studies` studies respectively.
+However, despite this growing diversity, the vast majority of studies are conducted in North America (N = `r North_America_studies`), with a large predominance of studies in the United States of America (N= `r max(year_country$cumulative_location[year_country$location == "USA"])`). The majority of the remaining studies were then located in Asia (N = `r Asia_studies`) or in Europe (N = `r Europe_studies`). South America and Africa were the least represented continents, with only `r South_America_studies` and `r Africa_studies` studies respectively.
+
+In terms of design, a similar pattern appears, with most of the studies employing a cross-sectional design (N = `r N_cross_sec`). The number of longitudinal studies steadily grew since 2014 but only represents `r percent(N_long/109)` of the papers to this day. Qualitative studies are also under-represented, with only `r N_qual` papers. Of note, we only identified 1 mixed design @buttram2015 ; this study employed a cross-sectional design for the quantitative part and in-depth interviews analyzed through grounded theory for the qualitative part. The first systematic reviews and meta-analyses were published recently, in `r min(year_design$year[year_design$design == "Systematic reviews, meta-analyses"])` while the first interventional studies were published in `r min(year_design$year[year_design$design == "Interventional"])`.
+
+Finally, the median sample size of the studies was `r median(sample$sample_size)` (range : `r min(sample$sample_size)` - `r number(max(sample$sample_size))`) and the mean age of the participants, when reported ranged from `r min(sample$age, na.rm = T)` to `r max(sample$age, na.rm = T)`.
 
 ### Subpopulations studied
 
