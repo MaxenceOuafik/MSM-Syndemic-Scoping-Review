@@ -10,11 +10,13 @@ plot_year_design <- year_design %>%
                      breaks = seq(0, 75, by = 10), 
                      minor_breaks = seq(0, 75, by = 5)) +
   ggtitle("B. Studies, by design and year of publication") +
+  labs (color = "Study design") +
   theme(
     axis.text.x = element_text(size=8),
     plot.title = element_text(size = 10, face = "bold"),
     axis.title.x = element_text(size = 9, face = "italic"),
-    axis.title.y = element_text(size = 9, face = "italic")
+    axis.title.y = element_text(size = 9, face = "italic"),
+    legend.title = element_text(size = 7, face = "bold")
   )
 
 plot_year_continent <- year_continent %>%
@@ -29,11 +31,13 @@ plot_year_continent <- year_continent %>%
                      breaks = seq(0, 75, by = 10), 
                      minor_breaks = seq(0, 75, by = 5)) +
   ggtitle("A. Studies, by continent and year of publication") +
+  labs (color = "Continent") +
   theme(
     axis.text.x = element_text(size=8),
     plot.title = element_text(size = 10, face = "bold"),
     axis.title.x = element_text(size = 9, face = "italic"),
-    axis.title.y = element_text(size = 9, face = "italic")
+    axis.title.y = element_text(size = 9, face = "italic"),
+    legend.title = element_text(size = 7, face = "bold")
   )
 
 
