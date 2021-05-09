@@ -21,8 +21,8 @@ year_design <- year_design %>%
 # cross-sectional  because we only had one case-series in our review (Tan et al. 2016)
 # and because this study also had a cross-sectional part. 
 
-N_cross_sec <- max(year_design$cumulative[year_design$design == "Cross-sectional"])
-N_long <- max(year_design$cumulative[year_design$design == "Longitudinal"])
-N_qual <- max(year_design$cumulative[year_design$design == "Qualitative"])
-N_int <- max(year_design$cumulative[year_design$design == "Interventional"])
-N_SR <- max(year_design$cumulative[year_design$design == "Systematic reviews, meta-analyses"])
+.N_cross_sec <- max(year_design$cumulative[year_design$design == "Cross-sectional"])
+.N_long <- max(year_design$cumulative[year_design$design == "Longitudinal"])
+.N_qual <- max(year_design$cumulative[year_design$design == "Qualitative"])
+.N_int <- max(year_design$cumulative[year_design$design == "Interventional"])
+.N_SR <- max(year_design$cumulative[year_design$design == "Systematic reviews, meta-analyses"])
