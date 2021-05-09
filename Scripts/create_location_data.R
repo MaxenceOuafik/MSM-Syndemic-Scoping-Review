@@ -26,12 +26,13 @@ year_continent <- year_continent%>%
 
 
 
-North_America_studies <- max(year_continent$cumulative_continent[year_continent$continent == "North America"])
+.North_America_studies <- max(year_continent$cumulative_continent[year_continent$continent == "North America"])
+.USA_studies <- max(year_country$cumulative_location[year_country$location == "USA"])
 
-Asia_studies <- max(year_continent$cumulative_continent[year_continent$continent == "Asia"])
+.Asia_studies <- max(year_continent$cumulative_continent[year_continent$continent == "Asia"])
 
-Europe_studies <- max(year_continent$cumulative_continent[year_continent$continent == "Europe"])
+.Europe_studies <- max(year_continent$cumulative_continent[year_continent$continent == "Europe"])
 
-South_America_studies <- max(year_continent$cumulative_continent[year_continent$continent == "South America"])
+.South_America_studies <- max(year_continent$cumulative_continent[year_continent$continent == "South America"])
 
-Africa_studies <- max(year_continent$cumulative_continent[year_continent$continent == "Africa"])
+.Africa_studies <- max(year_continent$cumulative_continent[year_continent$continent == "Africa"])
