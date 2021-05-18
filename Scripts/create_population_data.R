@@ -11,16 +11,16 @@ population <- bind_rows(.population_quantitative, .population_qualitative) %>%
 population$age <- ifelse(grepl("AMSM", population$subpopulation), "Adolescent",
                          
                          ifelse(grepl("YMSM|HIV+YMSM|YBMSM", population$subpopulation), "Young adult", 
-                                ifelse(grepl("HIVOMSM", population$subpopulation), "Older men", "Various age"
+                                ifelse(grepl("HIVOMSM", population$subpopulation), "Older men", "No specific age group"
                                 )))
 
 population$race_ethnicity <- ifelse(grepl("BMSM", population$subpopulation), "Black",
                                     ifelse(grepl("LMSM", population$subpopulation), "Latino",
-                                           ifelse(grepl("LB_MSM", population$subpopulation), "Latino & Black", "Various race/ethnicity"
+                                           ifelse(grepl("LB_MSM", population$subpopulation), "Latino & Black", "No specific race/ethnicity"
                                            )))
-population$serologic_status <- ifelse(grepl("HIV", population$subpopulation), "HIV-positive", "Mostly HIV-negative")
-population$sex_work <- ifelse(grepl("SW", population$subpopulation), "Sex workers", "Mostly no sex-work engagement")
-population$sex_behav <- ifelse(grepl("MSMW", population$subpopulation), "MSMW", "Mostly MSM")
+population$serologic_status <- ifelse(grepl("HIV", population$subpopulation), "HIV-positive", "Majority HIV-negative")
+population$sex_work <- ifelse(grepl("SW", population$subpopulation), "Sex workers", "Majority no sex-work engagement")
+population$sex_behav <- ifelse(grepl("MSMW", population$subpopulation), "MSMW", "Majority MSM")
 population$gender_identity <- ifelse(grepl("TMSM", population$subpopulation), "Transgender", "Cisgender")
 
 disaggregated <- summary_quantitative %>%
