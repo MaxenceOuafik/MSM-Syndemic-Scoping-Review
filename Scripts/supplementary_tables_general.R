@@ -12,3 +12,13 @@ measurement <- measurement %>%
 .outer.border <- fp_border(color = "#45ADA8", style = "solid", width = 2.5)
 
 
+.supp_autonum <- run_autonum(
+  seq_id = "table",
+  pre_label = "Table S",
+  post_label = ": ",
+  bkm = NULL,
+  bkm_all = FALSE,
+  prop = NULL
+)
+
+

@@ -2,7 +2,7 @@ source("./scripts/supplementary_tables_general.R")
 
 
 .IPV_measurement <- measurement %>%
-  select(c(1, 25:35)) %>%
+  select(c(1, 24:34)) %>%
   filter(!is.na(IPV_type)) %>%
   add_count(IPV_type, name = "type_n") %>%
   unite(col = IPV_scale_criteria, 3:11, sep = ", ", na.rm = T) %>%
@@ -14,11 +14,11 @@ source("./scripts/supplementary_tables_general.R")
 
 
 .IPV_prevalence <- list()
-for (i in 26:30) {
-  .IPV_prevalence$sum[[i-25]] <- sum(!is.na(measurement[i]))
-  .IPV_prevalence$perc[[i-25]] <-  percent(sum((!is.na(measurement[i]))/sum(!is.na(measurement$IPV_type))))
-  names(.IPV_prevalence[["sum"]])[[i-25]] <- names(measurement[i])
-  names(.IPV_prevalence[["perc"]])[[i-25]] <- names(measurement[i])
+for (i in 25:29) {
+  .IPV_prevalence$sum[[i-24]] <- sum(!is.na(measurement[i]))
+  .IPV_prevalence$perc[[i-24]] <-  percent(sum((!is.na(measurement[i]))/sum(!is.na(measurement$IPV_type))))
+  names(.IPV_prevalence[["sum"]])[[i-24]] <- names(measurement[i])
+  names(.IPV_prevalence[["perc"]])[[i-24]] <- names(measurement[i])
 }
 .IPV_prevalence$footer <- c(paste0("Physical intimate partner violence: ", 
                                   .IPV_prevalence[["sum"]][["physical IPV"]],
@@ -56,12 +56,12 @@ for (i in 26:30) {
   domain = c(0, max(.IPV_measurement$criteria_n)+1)) 
 
 
-IPV_ft <- flextable(.IPV_measurement, cwidth = c(1, 1, 2, 1, 1, 2))
+.IPV_ft <- flextable(.IPV_measurement, cwidth = c(0.8, 0.8, 1.7, 1, 1, 2))
 
-IPV_ft <- bg(IPV_ft, bg = "#45ADA8", part = "header")
-IPV_ft <- bg(IPV_ft, bg = .pal_type_IPV, j = 2, part = "body")
-IPV_ft <- bg(IPV_ft, bg = .pal_scale_IPV, j = 4, part = "body")
-IPV_ft <- IPV_ft %>%
+.IPV_ft <- bg(.IPV_ft, bg = "#45ADA8", part = "header")
+.IPV_ft <- bg(.IPV_ft, bg = .pal_type_IPV, j = 2, part = "body")
+.IPV_ft <- bg(.IPV_ft, bg = .pal_scale_IPV, j = 4, part = "body")
+.IPV_ft <- .IPV_ft %>%
   bold(part = "header") %>%
   bold(j = 6, part = "body") %>%
   color(color = "white", part = "header") %>%
@@ -90,3 +90,7 @@ IPV_ft <- IPV_ft %>%
   hline_bottom(border = .outer.border, part = "body") %>%
   border_outer(border = .outer.border, part = "header") %>%
   fix_border_issues(part = "all")
+
+.IPV_ft <- set_caption(.IPV_ft, 
+                       "Summary of the studies including intimate partner violence as a syndemic condition and the criteria used to screen this condition",
+                       autonum = .supp_autonum)
