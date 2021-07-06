@@ -177,3 +177,18 @@ syndemic_network <- qgraph(edges,
                            filename = "./Output/Plots/syndemic_network",
                            filetype = "png")
 
+.syndemic_centrality <- centrality(syndemic_network)
+nodes$degree <- .syndemic_centrality$OutDegree
+nodes$closeness <- .syndemic_centrality$Closeness
+nodes$betweenness <- .syndemic_centrality$Betweenness
+.cor_degree <- cor.test(nodes$studies, nodes$degree)
+.cor_closeness <- cor.test(nodes$studies, nodes$closeness)
+.cor_betweenness <- cor.test(nodes$studies, nodes$betweenness)
+
+.edges_UH <- edges %>%
+  filter(edges$from == "16" | edges$to == "16")
+
+.edges_1 <- edges %>%
+  filter(edges$weight <= 1)
+
+
