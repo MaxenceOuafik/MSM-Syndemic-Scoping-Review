@@ -1,3 +1,5 @@
+detach("package:flextable", unload=TRUE)
+
 
 .age_pop_plot <- ggplot(data = population, aes(x = fct_infreq(age))) +
   geom_bar(fill = c("#FE9666", "#A66999", "#FD625E", "#F2C80F")) +
@@ -9,7 +11,7 @@
             cex = 3) + 
   xlab("Age group") +
   ylab("Number of studies") +
-  labs(title = "Age groups of study participants")+
+  labs(title = "Age groups of study participants") +
   font("title", size = 8, face = "bold") +
   font("xlab", size = 7) +
   font("ylab", size = 7) +
