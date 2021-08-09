@@ -1,0 +1,21 @@
+---
+title: "Mapping the current knowledge in syndemic research applied to Men who have Sex with Men : a Scoping Review"
+author: 
+- "Maxence R. Ouafik^1^, Laetitia Buret^2^, Jean-Luc Belche^3^, Beatrice Scholtes^4^"
+- "^1^ Corresponding author at : General Practice Department - Primary Care and Health Research Unit, MD - PhD student,  University of Liège, Liège, Belgium <maxence.ouafik@uliege.be> ; Quartier Hôpital B23 Avenue Hippocrate 13 4000 Liège ![OrcID](./Files/Images/OrcID.png) https://orcid.org/0000-0002-9795-5721"
+- "^2^ General Practice Department - Primary Care and Health Research Unit, MD - GP - PhD, research assistant, University of Liège, Liège, Belgium <laetitia.buret@uliege.be> ![OrcID](./Files/Images/OrcID.png) https://orcid.org/0000-0001-6039-9824"
+- "^3^ General Practice Department - Primary Care and Health Research Unit, MD - GP - PhD, lecturer, University of Liège, Liège, Belgium <jlbelche@uliege.be> ![OrcID](./Files/Images/OrcID.png) https://orcid.org/0000-0001-8807-0473"
+- "^4^ General Practice Department - Primary Care and Health Research Unit, Postdoctoral Researcher,  University of Liège, Liège, Belgium <beatrice.scholtes@uliege.be> ![OrcID](./Files/Images/OrcID.png) https://orcid.org/0000-0001-5274-822X"
+
+link-citations: true
+csl: ["./_bookdown_files/social-science-and-medicine.csl"]
+bibliography: ["./_bookdown_files/references.bib"]
+rmd_files: ("index.Rmd", "01-abstract.Rmd", "02-introduction.Rmd", "03-methodology.Rmd", "04-results.Rmd", "05-discussion.Rmd", "06-conclusion.Rmd", "07-references.Rmd", "08-appendix.Rmd")
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(bookdown)
+library(officedown)
+library(officer)
+```
