@@ -1,4 +1,4 @@
-source("./scripts/supplementary_tables_general.R")
+source("./scripts/supplementary_tables/general.R")
 
 .polysubstance_measurement <- measurement %>%
   select(c(1, 64:66)) %>%

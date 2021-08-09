@@ -1,4 +1,4 @@
-source("./scripts/supplementary_tables_general.R")
+source("./scripts/supplementary_tables/general.R")
 
 .anxiety_measurement <- measurement %>%
   filter(!is.na(anxiety_type)) %>%

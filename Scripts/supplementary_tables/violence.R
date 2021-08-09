@@ -1,4 +1,4 @@
-source("./scripts/supplementary_tables_general.R")
+source("./scripts/supplementary_tables/general.R")
 
 .violence_measurement <- measurement %>%
   select(c(1, 18:23)) %>%

@@ -1,4 +1,4 @@
-source("./scripts/supplementary_tables_general.R")
+source("./scripts/supplementary_tables/general.R")
 
 .CSA_measurement <- measurement %>%
   select(c(1, 61:63)) %>%

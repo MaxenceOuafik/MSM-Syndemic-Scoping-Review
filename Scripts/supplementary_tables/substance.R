@@ -1,4 +1,4 @@
-source("./scripts/supplementary_tables_general.R")
+source("./scripts/supplementary_tables/general.R")
 
 .substance_measurement <- measurement %>%
   select(c(1, 5:14)) %>%

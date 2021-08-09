@@ -1,5 +1,4 @@
-detach("package:flextable", unload=TRUE)
-
+library(cowplot)
 
 .age_pop_plot <- ggplot(data = population, aes(x = fct_infreq(age))) +
   geom_bar(fill = c("#FE9666", "#A66999", "#FD625E", "#F2C80F")) +
@@ -12,10 +11,13 @@ detach("package:flextable", unload=TRUE)
   xlab("Age group") +
   ylab("Number of studies") +
   labs(title = "Age groups of study participants") +
-  font("title", size = 8, face = "bold") +
-  font("xlab", size = 7) +
-  font("ylab", size = 7) +
-  font("xy.text", size = 6) +
+  theme(
+    axis.text.x = element_text(size=6),
+    axis.text.y = element_text(size = 6),
+    plot.title = element_text(size = 8, face = "bold"),
+    axis.title.x = element_text(size = 7),
+    axis.title.y = element_text(size = 7)
+    ) +
   scale_y_continuous(expand = expansion(mult = 0.1), 
                      breaks = c(0,25,50,75,100))
 
@@ -30,10 +32,13 @@ detach("package:flextable", unload=TRUE)
   xlab("Race/ethnicity") +
   ylab("Number of studies") +
   labs(title = "Races/ethnicities of study participants")+
-  font("title", size = 8, face = "bold") +
-  font("xlab", size = 7) +
-  font("ylab", size = 7) +
-  font("xy.text", size = 6) +
+  theme(
+    axis.text.x = element_text(size=6),
+    axis.text.y = element_text(size = 6),
+    plot.title = element_text(size = 8, face = "bold"),
+    axis.title.x = element_text(size = 7),
+    axis.title.y = element_text(size = 7)
+  ) +
   scale_y_continuous(expand = expansion(mult = 0.1), 
                      breaks = c(0,25,50,75,100))
 
@@ -48,10 +53,13 @@ detach("package:flextable", unload=TRUE)
   xlab("Serologic status") +
   ylab("Number of studies") +
   labs(title = "Serologic status of study participants")+
-  font("title", size = 8, face = "bold") +
-  font("xlab", size = 7) +
-  font("ylab", size = 7) +
-  font("xy.text", size = 6) +
+  theme(
+    axis.text.x = element_text(size=6),
+    axis.text.y = element_text(size = 6),
+    plot.title = element_text(size = 8, face = "bold"),
+    axis.title.x = element_text(size = 7),
+    axis.title.y = element_text(size = 7)
+  ) +
   scale_y_continuous(expand = expansion(mult = 0.1), 
                      breaks = c(0,25,50,75,100))
 
@@ -66,10 +74,13 @@ detach("package:flextable", unload=TRUE)
   xlab("Sex work engagement") +
   ylab("Number of studies") +
   labs(title = "Sex work engagement of study participants")+
-  font("title", size = 8, face = "bold") +
-  font("xlab", size = 7) +
-  font("ylab", size = 7) +
-  font("xy.text", size = 6) +
+  theme(
+    axis.text.x = element_text(size=6),
+    axis.text.y = element_text(size = 6),
+    plot.title = element_text(size = 8, face = "bold"),
+    axis.title.x = element_text(size = 7),
+    axis.title.y = element_text(size = 7)
+  ) +
   scale_y_continuous(expand = expansion(mult = 0.1), 
                      breaks = c(0,25,50,75,100))
 
@@ -84,10 +95,13 @@ detach("package:flextable", unload=TRUE)
   xlab("Sexual behavior") +
   ylab("Number of studies") +
   labs(title = "Sexual behavior of study participants")+
-  font("title", size = 8, face = "bold") +
-  font("xlab", size = 7) +
-  font("ylab", size = 7) +
-  font("xy.text", size = 6) +
+  theme(
+    axis.text.x = element_text(size=6),
+    axis.text.y = element_text(size = 6),
+    plot.title = element_text(size = 8, face = "bold"),
+    axis.title.x = element_text(size = 7),
+    axis.title.y = element_text(size = 7)
+  ) +
   scale_y_continuous(expand = expansion(mult = 0.1), 
                      breaks = c(0,25,50,75,100))
 
@@ -102,10 +116,13 @@ detach("package:flextable", unload=TRUE)
   xlab("Gender identity") +
   ylab("Number of studies") +
   labs(title = "Gender identity of study participants") +
-  font("title", size = 8, face = "bold") +
-  font("xlab", size = 7) +
-  font("ylab", size = 7) +
-  font("xy.text", size = 6) +
+  theme(
+    axis.text.x = element_text(size=6),
+    axis.text.y = element_text(size = 6),
+    plot.title = element_text(size = 8, face = "bold"),
+    axis.title.x = element_text(size = 7),
+    axis.title.y = element_text(size = 7)
+  ) +
   scale_y_continuous(expand = expansion(mult = 0.1), 
                      breaks = c(0,25,50,75,100))
 

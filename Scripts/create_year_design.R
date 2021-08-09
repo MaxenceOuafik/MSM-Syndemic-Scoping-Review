@@ -1,7 +1,7 @@
 year_design <- overview_of_studies %>%
   select(year, design) 
-year_design$design <- ifelse(grepl(c("Case series|Cross-sectional"), year_design$design), "Cross-sectional", 
-                           ifelse(grepl(c("Intact group design|Pretest-posttest nonequivalent groups design|Randomized controlled trials"), year_design$design), "Interventional",
+year_design$design <- ifelse(grepl(c("Intact group design|Case series|Cross-sectional"), year_design$design), "Cross-sectional", 
+                           ifelse(grepl(c("Pretest-posttest nonequivalent groups design|Randomized controlled trials"), year_design$design), "Interventional",
                                   ifelse(grepl(c("Meta-analysis|Systematic review"), year_design$design), "Systematic reviews, meta-analyses",
                                          ifelse(grepl("Mixed", year_design$design), "Mixed",
                                                 ifelse(grepl(c("Longitudinal|Population-based cohort study"), year_design$design), "Longitudinal", 
