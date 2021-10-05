@@ -26,3 +26,4 @@ year_design <- year_design %>%
 .N_qual <- max(year_design$cumulative[year_design$design == "Qualitative"])
 .N_int <- max(year_design$cumulative[year_design$design == "Interventional"])
 .N_SR <- max(year_design$cumulative[year_design$design == "Systematic reviews, meta-analyses"])
+.N_QualQuant <- nrow(summary_qualitative) + nrow(summary_quantitative)

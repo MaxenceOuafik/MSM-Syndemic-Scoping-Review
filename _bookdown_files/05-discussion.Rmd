@@ -1,1 +1,31 @@
+---
+bibliography: references.bib
+---
+
 # Discussion
+
+What stands out the most when we consider syndemic literature applied to MSM is that it is both too homogeneous in some aspects while being not focused enough in other parts. As we will discuss in more depth below, the location, design, subpopulation and outcomes should be more diverse that it currently is. On the other hand, the syndemic conditions and ways of measurement should be more focused to improve the robustness and reproducibility of the findings.
+
+More concerning, maybe, is the fact that a substantial part of the literature doesn't provide empirical data to support one of the core tenets of syndemic theory - namely disease interaction- as was already pointed out in a previous review [@tsai2015].
+
+## Design and location
+
+Design and location are two aspects of syndemic literature suffering from too much homogeneity. Indeed, `r percent(.N_cross_sec/.N_QualQuant)` of the syndemic literature employs a cross-sectional design while `r percent(.North_America_studies/.N_QualQuant)` of studies are conducted in North America. Taken together, all studies conducted in the Global South represents only `r percent(.GlobalSouth_studies/.N_QualQuant)` of our sample.
+
+Three issues arise from this. First, under-representation of the Global South is inherently an issue as it precludes us to better understand the health of MSM living in these countries. Furthermore, as aptly pointed out by @weaver2020, the screening tool used to assess the presence of a syndemic condition in the Western context may not be efficient in another sociocultural setting. As syndemics are driven by the sociocultural forces of a given place at a given time, these potential biases need to be addressed in order to conduct meaningful research outside Europe and North America.
+
+Moreover, even for studies conducted in Europe and North America, a large portion of the studies conflate data from different cities, counties, states or even countries in order to obtain a sample big enough to conduct statistical analyses. However, geographical variations in syndemic burden are likely to be missed. Migration of MSM to larger cities is a well-known phenomenon and thought to be an important part of syndemic production among MSM as well as a source of resilience [@stall2007; @Bruce2011].
+
+Grandes villes ==\> plus de stress mais aussi plus de résilience
+
+Parler de l'importance d'intégerer des notions d'épidémiologie spatiale.
+
+## Subpopulations
+
+## Syndemic conditions
+
+## Outcomes
+
+## Statistics and interaction
+
+## Additional framework

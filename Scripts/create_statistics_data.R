@@ -1,16 +1,18 @@
-.statistics_data <- summary_quantitative %>%
-  select(1:3, 259:274, 276:278) %>%
-  unite(col = "author_year", c(authors, year), sep = " ") %>%
-  unite(col = "reference", c(author_year, letter), sep = "", na.rm = TRUE) 
+.N_latent <- summary_quantitative %>%
+  filter(summary_quantitative$LCA_LPA == "LCA_LPA" |
+           summary_quantitative$EFA == "EFA"| 
+           summary_quantitative$CFA == "CFA" | 
+           summary_quantitative$LTA == "LTA") %>%
+  nrow()
 
-.N_latent <- sum(!is.na(.statistics_data$LCA_LPA)) +
-  sum(!is.na(.statistics_data$EFA)) +
-  sum(!is.na(.statistics_data$CFA)) + 
-  sum(!is.na(.statistics_data$LTA))
+.N_additivity <- summary_quantitative %>%
+  filter(summary_quantitative$RERI == "RERI" | 
+           summary_quantitative$product_term == "product_term") %>%
+  nrow()
+  
 
-.N_additivity <- sum(!is.na(.statistics_data$RERI)) +
-  sum(!is.na(.statistics_data$product_term))
-
-.score_data <- .statistics_data %>%
-  unite(col = "statistics", 2:20, sep = ", ", na.rm = TRUE) %>%
-  filter(statistics == "score")
+.score_data <- summary_quantitative %>%
+  select(259:274, 276:278) %>%
+  unite(col = "statistics", 1:19, sep = ", ", na.rm = TRUE) %>%
+  filter(statistics == "score") %>%
+  nrow()

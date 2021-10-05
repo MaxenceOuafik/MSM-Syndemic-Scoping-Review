@@ -36,3 +36,5 @@ year_continent <- year_continent%>%
 .South_America_studies <- max(year_continent$cumulative_continent[year_continent$continent == "South America"])
 
 .Africa_studies <- max(year_continent$cumulative_continent[year_continent$continent == "Africa"])
+
+.GlobalSouth_studies <- .Asia_studies + .South_America_studies + .Africa_studies
