@@ -33,3 +33,6 @@ statistics-and-interaction
 additional-framework
 strengths-and-limitations
 conclusion-and-future-directions
+location
+design
+conclusion-and-recommendations

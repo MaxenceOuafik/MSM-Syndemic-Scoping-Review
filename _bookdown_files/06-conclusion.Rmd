@@ -1,5 +1,13 @@
 # Strengths and limitations
 
+1.  On a pu rater de la littérature
+2.  Caractère arbitraire du classement "syndémie central à la publication"
+3.  Limitations d'un scoping review : pas d'analyse sur les risques de biais ou la force des preuves
+4.  Premier scoping review sur le sujet
+5.  Stratégie de recherche exhaustive et validée par Durieux
+6.  Transparence
+7.  Détails
+
 # Conclusion and recommendations
 
 Le fait qu'un effet reste marqué malgré à travers toutes les méthodologies, conditions étudiées, populations étudiées, lieux étudiés montre une robustesse importante. Néanmoins, il faut mieux faire à l'avenir
