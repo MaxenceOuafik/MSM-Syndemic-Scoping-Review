@@ -251,6 +251,11 @@ Finally, Pantalone et al. sought to have a better understanding of the state of 
 
 ### Additional framework used in the studies
 
+```{r framework_data, include=FALSE}
+source("./scripts/create_framework_data.R", local = knitr::knit_global())
+
+```
+
 `r nrow(.framework)` studies used an additional framework alongside syndemic theory. The most widely used was resilience theory (N = 10), followed by minority stress model (N = 5), intersectionality (N=2), social-cognitive theory (N=2) and salutogenesis (N=1).
 
 ## How is the concept of interaction explored in syndemic research applied to MSM?
