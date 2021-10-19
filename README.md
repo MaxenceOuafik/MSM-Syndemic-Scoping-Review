@@ -2,74 +2,45 @@
 
 ## Overview of the project
 
-This GitHub repository contains every data, files and code that allowed
-us to generate our research paper entitled “Mapping the current
-knowledge of the syndemic research applied to men who have sex with men:
-a scoping review”.
+This repository contains every data, files and code that allowed us to generate our research paper entitled "Mapping the current knowledge of the syndemic research applied to men who have sex with men: a scoping review".
 
-The protocol of this scoping review was previously published on the BMJ
-Open and can be found
-[here](https://bmjopen.bmj.com/content/10/11/e041238). Our Data
-Management Plan, published in the appendices of the protocol can be
-found on pages 3-4 of the [supplementary
-material](https://bmjopen.bmj.com/content/bmjopen/10/11/e041238.full.pdf?with-ds=yes).
+The protocol of this scoping review was previously published on the BMJ Open and can be found [here](https://bmjopen.bmj.com/content/10/11/e041238). Our Data Management Plan, published in the appendices of the protocol can be found on pages 3-4 of the [supplementary material](https://bmjopen.bmj.com/content/bmjopen/10/11/e041238.full.pdf?with-ds=yes).
 
-Briefly, the goal of this study was to conduct an thorough literature
-search on the topic of syndemic theory applied to men who have sex with
-men (MSM). Readers wanting more information on the topic, research
-questions and methodology can consult our protocol or the relevant
-sections of this paper.
+Briefly, the goal of this study was to conduct an thorough literature search on the topic of syndemic theory applied to men who have sex with men (MSM). Readers wanting more information on the topic, research questions and methodology can consult our protocol or the relevant sections of this paper.
 
 ## File organization
 
+### \_bookdown_files
+
+This directory contains the different parts of the article : the abstract (01-abstract.Rmd), the introduction (02-introduction.Rmd), the methodology (03-methodology.Rmd), the results (04-results.Rmd), the discussion (05-discussion.Rmd), the conclusion (06-conclusion.Rmd), the references (07-references.Rmd), the supplementary material (08-appendix.Rmd).
+
+It also contains our template for Word output (article_template.docx), the references.bib files and the citation style of the Social Science and Medicine journal (social-science-and-medicine.csl).
+
 ### Data
 
-This directory contains the data resulting from the stage 4 of this
-study : data charting. Forms were generated using
-[DistillerSR](https://www.evidencepartners.com/products/distillersr-systematic-review-software/)
-to extract data relevant to our research questions. Subsequently, using
-the “Datarama” feature of DistillerSR, we generated 4 .csv files
-corresponding to our 4 forms. Complete description of every variable in
-each .csv files can be found in the README of the directory.
+This directory contains the data resulting from the stage 4 of this study : data charting. Forms were generated using [DistillerSR](https://www.evidencepartners.com/products/distillersr-systematic-review-software/) to extract data relevant to our research questions. Subsequently, using the "Datarama" feature of DistillerSR, we generated 4 .csv files corresponding to our 4 forms. Complete description of every variable in each .csv files can be found in the README of the directory.
 
 ### Files
 
-This directory contains the files used to generate the paper. This
-includes the .ris files obtained after the electronic database search,
-the .ris files of the studies included at various stages of the study
-and images used. Complete description of the files and subdirectories
-can be found in the README of the directory.
+This directory contains the files used to generate the paper. This includes the .ris files obtained after the electronic database search, the .ris files of the studies included at various stages of the study and images used. Complete description of the files and subdirectories can be found in the README of the directory.
 
 ### Output
 
-This directory contains the article in .docx format, after kniting
-Article.Rmd in the main directory as well as individual figures.
+This directory contains the article in .docx format, after kniting Article.Rmd in the main directory as well as individual figures.
 
 ### Scripts
 
-This directory contains the scripts sourced in Article.Rmd in order to
-produce our final paper. Every step of data manipulation of the .csv
-files in the Data directory as well as data analysis will be done
-through scripts to ensure maximum reproducibility of our paper. Complete
-description of the scripts can be found in the README of the directory
-and each script contains description of the script.
+This directory contains the scripts sourced in Article.Rmd in order to produce our final paper. Every step of data manipulation of the .csv files in the Data directory as well as data analysis will be done through scripts to ensure maximum reproducibility of our paper. Complete description of the scripts can be found in the README of the directory and each script contains description of the script.
 
 ## Reproduce the paper
 
-This paper can be reproduced by downloading the repository and kniting
-Article.Rmd through RStudio. This RMarkdown file contains the text of
-the paper and its code chunks sources the various scripts in the Scripts
-directory.
+This paper can be reproduced by downloading the repository and kniting Article.Rmd through RStudio. This RMarkdown file contains the text of the paper and its code chunks sources the various scripts in the Scripts directory.
 
-Kniting this paper as it was intended by its authors necessitates the
-bmj.csl file to format the references, the article\_template.docx file
-for the layout and the references.bib files, containing every references
-cited in the study.
+Kniting this paper as it was intended by its authors necessitates the bmj.csl file to format the references, the article_template.docx file for the layout and the references.bib files, containing every references cited in the study.
 
 ## Session info
 
-The current version of this paper was compiled with RStudio version
-1.4.1106 with the following R session :
+The current version of this paper was compiled with RStudio version 1.4.1106 with the following R session :
 
     ## <environment: R_GlobalEnv>
 
@@ -117,18 +88,10 @@ The current version of this paper was compiled with RStudio version
 
 ## Contributors
 
-As mentioned in the Data Management Plan, Maxence Ouafik, the main
-investigator of the present paper is responsible for every aspect of
-data management and can be reached on his [academic email
-address](mailto:maxence.ouafik@uliege.be) for any query.
+As mentioned in the Data Management Plan, Maxence Ouafik, the main investigator of the present paper is responsible for every aspect of data management and can be reached on his [academic email address](mailto:maxence.ouafik@uliege.be) for any query.
 
-Laetitia Buret, Jean-Luc Belche and Beatrice Scholtes, co-authors of the
-present paper, provided guidance and reviews throughout the study and
-took part in selecting the studies and charting the data.
+Laetitia Buret, Jean-Luc Belche and Beatrice Scholtes, co-authors of the present paper, provided guidance and reviews throughout the study and took part in selecting the studies and charting the data.
 
 ## License
 
-Every file in this repository are on Creative Commons License CC BY-NC.
-Anyone can remix, adapt and build upon this work, non-commercially, as
-long as they acknowledge the published paper, this repository and its
-contributors.
+Every file in this repository are on Creative Commons License CC BY. Anyone can remix, adapt and build upon this work, as long as they acknowledge the published paper, this repository and its contributors.
