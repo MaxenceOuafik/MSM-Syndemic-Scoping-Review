@@ -1,1 +1,43 @@
+---
+bibliography: references.bib
+---
+
 # Introduction
+
+## Background
+
+Men who have sex with men (MSM) represent a vulnerable population disproportionately affected by numerous health conditions. First, they represent 70% of new HIV diagnoses @centerfordiseasecontrolandprevention2020 in the United States of America and more than half of new HIV diagnoses in European Union/European Economic area @europeancentrefordiseasepreventionandcontrol2019. They are also more prone to contract other sexually transmitted diseases and *Nesseria Gonorrhea* strains from MSM exhibit higher antimicrobial resistance @centersfordiseasecontrolandprevention2019. Furthermore, mental health conditions such as depression, anxiety, suicide attempts or self-harm are more prevalent among MSM [@ross2018; @Liu2019; @luo2017] and substance use is more common than for their straight counterpart @Medley2016. Moreover, those adverse and oftentimes preventable health outcomes are enmeshed with structural disadvantages such as violence, stigma, discrimination [@collier2013; @Lee2016; @Lea2014] as well as with poverty, unemployment, unstable housing and poor healthcare access [@closson2018; @ayhan2020]
+
+For more than twenty years, syndemic theory have provided a framework to examine these interrelations between social conditions, mental health and physical health @singer2017. Described for the first time in 1996 by Merrill Singer @singer1996, a syndemic consists in two more interacting epidemics producing an excess burden in a population because of harmful social conditions @singer2003. To speak of a syndemic, three conditions must be met @mendenhall2020 :
+
+1.  Two or more conditions cluster in a given population
+
+2.  This clustering is due to an adverse social context such as poverty or stigmatization
+
+3.  There is some form of biological, social and/or behavioral interaction between the conditions, significantly worsening the health of the affected population
+
+Syndemic is thus an holistic framework, describing interactions both between diseases themselves and between diseases and the social environment contributing to their emergence, clustering and spread @singer2017. As such its value for studying the health of marginalized population such as MSM is undeniable.
+
+## Rationale
+
+However, this theory is not without its flaws. A systematic review conducted in 2015 showed the inadequacy of most of the literature in supporting one of its core tenet @tsai2015. Indeed, this paper by Tsai and colleagues demonstrated that, although synergistic interaction between diseases lies in the core of the theory, most papers failed to use relevant statistics to demonstrate the existence of a synergy. More recently, a scoping review published in 2020 confirmed this finding as most recently-published citations failed to describe the interactions between diseases needed to account for a true syndemic @Singer2020. Scholars in the field have been calling for a greater clarity in the use of the concept and urged for researchers to describe more precisely the interactions they observe between health conditions [@singer2021 ; @mendenhall2020].
+
+However, to our knowledge none of the existing reviews or recommendations were focused on syndemic literature applied specifically on MSM. We thus sought to fill this gap by publishing the first scoping review dedicated to this important topic. Doing so, our goals were to map :
+
+1.  the study design used ;
+
+2.  the subpopulations of MSM studied ;
+
+3.  the psychosocial conditions considered as forming a syndemic and how they were measured;
+
+4.  the outcomes studied;
+
+5.  the statistics used to evaluate the concept of interaction;
+
+6.  the hypothesis for biological and sociobiological interactions proposed by the authors, when available;
+
+7.  relevant frameworks that may compliment syndemic theory to better understand the health of MSM and
+
+8.  the key findings of these studies
+
+With these data, we wanted to better comprehend the state of the art in the current literature, identify knowledge gaps and suggest recommendations to guide future research in the field.
