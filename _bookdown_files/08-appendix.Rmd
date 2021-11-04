@@ -1,8 +1,19 @@
-<!---BLOCK_LANDSCAPE_START--->
-
 # Supplementary Materials
 
-### A. Reference tables
+## A. PRISMA-ScR checklist
+
+```{r PRISMA, tab.id = "PRISMA-ScR", echo=FALSE, message= FALSE,warning=FALSE}
+source("./scripts/supplementary_tables/PRISMA-ScR.R", local = knitr::knit_global())
+
+.PRISMA_FT
+
+```
+
+\newpage
+
+<!---BLOCK_LANDSCAPE_START--->
+
+## B. Reference tables
 
 ```{r reference_table_quantitative, tab.id = "RefTabQuant", echo=FALSE, message=FALSE, warning=FALSE}
 
@@ -28,631 +39,229 @@ source("./scripts/supplementary_tables/reference_reviews.R", local = knitr::knit
 
 <!---BLOCK_LANDSCAPE_STOP--->
 
-#### List of references included in the review
-
-Achterbergh, R.C.A., van Rooijen, M.S.,
-van den Brink, W., Boyd, A., e Vries, H.J.C., 2021. Enhancing help-seeking
-behaviour among men who have sex with men at risk for sexually transmitted
-infections: the syn.bas.in randomised controlled trial. Sex Transm Infect 97,
-11--17. <https://doi.org/10.1136/sextrans-2020-054438>
-
-Adam, B.D., Hart, T.A., Mohr, J., Coleman,
-T., Vernon, J., 2018. Resilience pathways, childhood escape routes, and mentors
-reported by gay and bisexual men affected by syndemic conditions. Sexualities
-22, 642. <https://doi.org/10.1177/1363460718758663>
-
-Adam, B.D., Hart, T.A., Mohr, J., Coleman,
-T., Vernon, J., 2017. HIV-related syndemic pathways and risk subjectivities
-among gay and bisexual men: a qualitative investigation. Cult Health Sex 19,
-1254--1267. <https://doi.org/10.1080/13691058.2017.1309461>
-
-Batchelder, A.W., Choi, K., Dale, S.K.,
-Pierre-Louis, C., Sweek, E.W., Ironson, G., Safren, S.A., O'Cleirigh, C., 2019.
-Effects of syndemic psychiatric diagnoses on health indicators in men who have
-sex with men. Health Psychology 38, 509--517. <https://doi.org/10.1037/hea0000724>
-
-Beymer, M.R., Weiss, R.E., Halkitis, P.N.,
-Kapadia, F., Ompad, D.C., Bourque, L., Bolan, R.K., 2016. Disparities Within
-the Disparity-Determining HIV Risk Factors Among Latino Gay and Bisexual Men
-Attending a Community-Based Clinic in Los Angeles, CA. J Acquir Immune Defic
-Syndr 73, 237--244. <https://doi.org/10.1097/QAI.0000000000001072>
-
-Biello, K.B., Colby, D., Closson, E.,
-Mimiaga, M.J., 2014. The syndemic condition of psychosocial problems and HIV
-risk among male sex workers in Ho Chi Minh City, Vietnam. AIDS Behav 18, 1264--1271.
-<https://doi.org/10.1007/s10461-013-0632-8>
-
-Biello, K.B., Oldenburg, C.E., Safren,
-S.A., Rosenberger, J.G., Novak, D.S., Mayer, K.H., Mimiaga, M.J., 2016.
-Multiple syndemic psychosocial factors are associated with reduced engagement
-in HIV care among a multinational, online sample of HIV-infected MSM in Latin
-America. AIDS Care 28 Suppl 1, 84--91.
-<https://doi.org/10.1080/09540121.2016.1146205>
-
-Blashill, A.J., Brady, J.P., Rooney, B.M.,
-Rodriguez-Diaz, C.E., Horvath, K.J., Blumenthal, J., Morris, S., Moore, D.J.,
-Safren, S.A., 2020. Syndemics and the PrEP Cascade: Results from a Sample of
-Young Latino Men Who Have Sex with Men. Arch Sex Behav 49, 125--135.
-<https://doi.org/10.1007/s10508-019-01470-7>
-
-Blondeel, K., Dias, S., Furegato, M.,
-Seuc, A., Gama, A., Fuertes, R., Mendao, L., Temmerman, M., Toskin, I., 2021.
-Sexual behaviour patterns and STI risk: results of a cluster analysis among men
-who have sex with men in Portugal. BMJ Open 11, e033290.
-<https://doi.org/10.1136/bmjopen-2019-033290>
-
-Bränström, R., Pachankis, J.E., 2018.
-Validating the Syndemic Threat Surrounding Sexual Minority Men's Health in a
-Population-Based Study With National Registry Linkage and a Heterosexual
-Comparison. J. Acquir. Immune Defic. Syndr. 78, 376--382.
-<https://doi.org/10.1097/QAI.0000000000001697>
-
-Bruce, D., Harper, G.W., Interventions,
-A.M.T.N. for H., 2011. Operating without a safety net: gay male adolescents and
-emerging adults' experiences of marginalization and migration, and implications
-for theory of syndemic production of health disparities. Health Educ Behav 38,
-367--378. <https://doi.org/10.1177/1090198110375911>
-
-Buttram, M.E., Kurtz, S.P., 2015. A mixed
-methods study of health and social disparities among substance-using African
-American/Black men who have sex with men. J Racial Ethn Health Disparities 2, 1--10.
-<https://doi.org/10.1007/s40615-014-0042-2>
-
-Byg, B., Bazzi, A.R., Funk, D., James, B.,
-Potter, J., 2016. The Utility of a Syndemic Framework in Understanding Chronic
-Disease Management Among HIV-Infected and Type 2 Diabetic Men Who Have Sex with
-Men. J. Community Health 41, 1204--1211.
-<https://doi.org/10.1007/s10900-016-0202-x>
-
-Card, K.G., Lachowsky, N.J., Armstrong,
-H.L., Cui, Z., Wang, L., Sereda, P., Jollimore, J., Patterson, T.L., Corneil,
-T., Hogg, R.S., Roth, E.A., Moore, D.M., 2018. The additive effects of
-depressive symptoms and polysubstance use on HIV risk among gay, bisexual, and
-other men who have sex with men. Addict. Behav 82, 158--165.
-<https://doi.org/10.1016/j.addbeh.2018.03.005>
-
-Carrico, A.W., Rodriguez, V.J., Jones,
-D.L., Kumar, M., 2018. Short circuit: Disaggregation of adrenocorticotropic
-hormone and cortisol levels in HIV-positive, methamphetamine-using men who have
-sex with men. Human psychopharmacology 33. <https://doi.org/10.1002/hup.2645>
-
-Cassels, S., Meltzer, D., Loustalot, C.,
-Ragsdale, A., Shoptaw, S., Gorbach, P.M., 2020. Geographic Mobility, Place
-Attachment, and the Changing Geography of Sex among African American and Latinx
-MSM Who Use Substances in Los Angeles. J Urban Health 97, 609--622.
-<https://doi.org/10.1007/s11524-020-00481-3>
-
-Chakrapani, V., Kaur, M., Newman, P.A.,
-Mittal, S., Kumar, R., 2019a. Syndemics and HIV-related sexual risk among men
-who have sex with men in India: influences of stigma and resilience. Cult
-Health Sex 21, 416--431. <https://doi.org/10.1080/13691058.2018.1486458>
-
-Chakrapani, V., Kaur, M., Tsai, A.C.,
-Newman, P.A., Kumar, R., 2020. The impact of a syndemic theory-based
-intervention on HIV transmission risk behaviour among men who have sex with men
-in India: Findings from a pretest-posttest non-equivalent comparison group
-trial. Soc Sci Med. <https://doi.org/10.1016/j.socscimed.2020.112817>
-
-Chakrapani, V., Lakshmi, P.V.M., Tsai,
-A.C., Vijin, P.P., Kumar, P., Srinivas, V., 2019b. The syndemic of violence
-victimisation, drug use, frequent alcohol use, and HIV transmission risk
-behaviour among men who have sex with men: Cross-sectional, population-based
-study in India. SSM Popul Health 7, 100348.
-<https://doi.org/10.1016/j.ssmph.2018.100348>
-
-Chakrapani, V., Newman, P.A., Shunmugam,
-M., Logie, C.H., Samuel, M., 2017. Syndemics of depression, alcohol use, and
-victimisation, and their association with HIV-related sexual risk among men who
-have sex with men and transgender women in India. Glob. Public Health 12, 250--265.
-<https://doi.org/10.1080/17441692.2015.1091024>
-
-Chandler, Cristian J., Bukowski, L.A.,
-Matthews, D.D., Hawk, M.E., Markovic, N., Egan, J.E., Stall, R.D., 2020a.
-Examining the Impact of a Psychosocial Syndemic on Past Six-Month HIV Screening
-Behavior of Black Men who have Sex with Men in the United States: Results from
-the POWER Study. AIDS Behav 28, 428--436.
-<https://doi.org/10.1007/s10461-019-02458-z>
-
-Chandler, Cristian J., Bukowski, L.A.,
-Matthews, D.D., Hawk, M.E., Markovic, N., Stall, R.D., Egan, J.E., 2020b.
-Understanding the impact of a syndemic on the use of pre-exposure prophylaxis
-in a community-based sample of behaviorally PrEP-eligible BMSM in the United
-States. AIDS Care 32, 551--556. <https://doi.org/10.1080/09540121.2019.1659921>
-
-Chandler, Cristian J, Meunier, E., Eaton,
-L.A., Andrade, E., Bukowski, L.A., Matthews, D.D., Raymond, H.F., Stall, R.D.,
-Friedman, M.R., 2020. Syndemic health disparities and sexually transmitted
-infection burden among black men who have sex with men engaged in sex work in
-the u.S. Arch Sex Behav. <https://doi.org/10.1007/s10508-020-01828-2>
-
-Chuang, D.-M., Newman, P.A., Li, A.T.-W.,
-2018. Syndemic factors and HIV infection among men who have sex with men in
-Taiwan. J HIV AIDS Soc Serv 17, 337--352. <https://doi.org/10.1080/15381501.2018.1454866>
-
-Dyer, T.P., Shoptaw, S., Guadamuz, T.E.,
-Plankey, M., Kao, U., Ostrow, D., Chmiel, J.S., Herrick, A., Stall, R., 2012.
-Application of syndemic theory to black men who have sex with men in the
-Multicenter AIDS Cohort Study. J Urban Health 89, 697--708.
-<https://doi.org/10.1007/s11524-012-9674-x>
-
-Dyer, T.V., Turpin, R.E., Stall, R., Khan,
-M.R., Nelson, L.E., Brewer, R., Friedman, M.R., Mimiaga, M.J., Cook, R.L., O'Cleirigh,
-C., Mayer, K.H., 2020. Latent Profile Analysis of a Syndemic of Vulnerability
-Factors on Incident Sexually Transmitted Infection in a Cohort of Black Men Who
-Have Sex With Men Only and Black Men Who Have Sex With Men and Women in the HIV
-Prevention Trials Network 061 Study. Sex Transm Dis 47, 571--579.
-<https://doi.org/10.1097/OLQ.0000000000001208>
-
-Eaton, L.A., Pitpitan, E.V., Kalichman,
-S.C., Sikkema, K.J., Skinner, D., Watt, M.H., Pieterse, D., 2013. Men who
-report recent male and female sex partners in Cape Town, South Africa: an
-understudied and underserved population. Arch Sex Behav 42, 1299--1308.
-<https://doi.org/10.1007/s10508-013-0077-1>
-
-Ferlatte, O., Dulai, J., Hottes, T.S.,
-Trussler, T., Marchand, R., 2015. Suicide related ideation and behavior among
-Canadian gay and bisexual men: a syndemic analysis. BMC public health 15, 597.
-<https://doi.org/10.1186/s12889-015-1961-5>
-
-Ferlatte, O., Hottes, T.S., Trussler, T.,
-Marchand, R., 2014. Evidence of a syndemic among young Canadian gay and
-bisexual men: uncovering the associations between anti-gay experiences,
-psychosocial issues, and HIV risk. AIDS Behav 18, 1256--1263. <https://doi.org/10.1007/s10461-013-0639-1>
-
-Ferlatte, O., Salway, T., Samji, H., Dove,
-N., Gesink, D., Gilbert, M., Oliffe, J.L., Grennan, T., Wong, J., 2018a. An
-Application of Syndemic Theory to Identify Drivers of the Syphilis Epidemic
-among Gay, Bisexual, and Other Men Who Have Sex with Men. Sexually Transmitted
-Diseases 45, 163--168. <https://doi.org/10.1097/OLQ.0000000000000713>
-
-Ferlatte, O., Salway, T., Trussler, T.,
-Oliffe, J.L., Gilbert, M., 2018b. Combining intersectionality and syndemic
-theory to advance understandings of health inequities among Canadian gay,
-bisexual and other men who have sex with men. Crit Public Health 28, 509--521.
-<https://doi.org/10.1080/09581596.2017.1380298>
-
-Friedman, M.R., Coulter, R.W.S.,
-Silvestre, A.J., Stall, R., Teplin, L., Shoptaw, S., Surkan, P.J., Plankey,
-M.W., 2016. Someone to count on: social support as an effect modifier of viral
-load suppression in a prospective cohort study. AIDS Care 29, 469--480.
-<https://doi.org/10.1080/09540121.2016.1211614>
-
-Friedman, M.R., Kurtz, S.P., Buttram,
-M.E., Wei, C., Silvestre, A.J., Stall, R., 2014. HIV risk among substance-using
-men who have sex with men and women (MSMW): findings from South Florida. AIDS
-Behav 111--19. <https://doi.org/10.1007/s10461-013-0495-z>
-
-Friedman, M.R., Stall, R., Silvestre,
-A.J., Wei, C., Shoptaw, S., Herrick, A., Surkan, P.J., Teplin, L., Plankey,
-M.W., 2015. Effects of syndemics on HIV viral load and medication adherence in
-the multicentre AIDS cohort study. AIDS 29, 1087--1096.
-<https://doi.org/10.1097/QAD.0000000000000657>
-
-Guadamuz, T.E., McCarthy, K., Wimonsate,
-W., Thienkrua, W., Varangrat, A., Chaikummao, S., Sangiamkittikul, A., Stall,
-R.D., van Griensven, F., 2014. Psychosocial Health Conditions and HIV
-Prevalence and Incidence in a Cohort of Men Who have Sex with Men in Bangkok,
-Thailand: Evidence of a Syndemic Effect. AIDS Behav 18, 2089--2096.
-<https://doi.org/10.1007/s10461-014-0826-8>
-
-Halkitis, P.N., Kapadia, F., Bub, K.L.,
-Barton, S., Moreira, A.D., Stults, C.B., 2015. A Longitudinal Investigation of
-Syndemic Conditions Among Young Gay, Bisexual, and Other MSM: The P18 Cohort
-Study. AIDS Behav 19, 970--980. <https://doi.org/10.1007/s10461-014-0892-y>
-
-Halkitis, P.N., Kupprat, S.A., Hampton,
-M.B., Perez-Figueroa, R., Kingdon, M., Eddy, J.A., Ompad, D.C., 2012. Evidence
-for a Syndemic in Aging HIV-positive Gay, Bisexual, and Other MSM: Implications
-for a Holistic Approach to Prevention and Healthcare. Ann Anthropol Pract 36,
-365--386. <https://doi.org/10.1111/napa.12009>
-
-Halkitis, P.N., Moeller, R.W., Siconolfi,
-D.E., Storholm, E.D., Solomon, T.M., Bub, K.L., 2013. Measurement model
-exploring a syndemic in emerging adult gay and bisexual men. AIDS Behav 17, 662--673.
-<https://doi.org/10.1007/s10461-012-0273-3>
-
-Harkness, A., Bainter, S.A., O'Cleirigh,
-C., Albright, C., Mayer, K.H., Safren, S.A., 2019. Longitudinal Effects of
-Syndemics on HIV-Positive Sexual Minority Men's Sexual Health Behaviors. Arch
-Sex Behav 48, 1159--1170. <https://doi.org/10.1007/s10508-018-1329-x>
-
-Harkness, A., Bainter, S.A., O'Cleirigh,
-C., Mendez, N.A., Mayer, K.H., Safren, S.A., 2018. Longitudinal Effects of
-Syndemics on ART Non-adherence Among Sexual Minority Men. AIDS Behav 22, 2564--2574.
-<https://doi.org/10.1007/s10461-018-2180-8>
-
-Hart, T.A., Noor, S.W., Adam, B.D.,
-Vernon, J.R.G., Brennan, D.J., Gardner, S., Husbands, W., Myers, T., 2017.
-Number of Psychosocial Strengths Predicts Reduced HIV Sexual Risk Behaviors
-Above and Beyond Syndemic Problems Among Gay and Bisexual Men. AIDS Behav 21,
-3035--3046. <https://doi.org/10.1007/s10461-016-1669-2>
-
-Herrick, A., Stall, R., Egan, J.,
-Schrager, S., Kipke, M., 2014. Pathways towards risk: syndemic conditions
-mediate the effect of adversity on HIV risk behaviors among young men who have
-sex with men (YMSM). J Urban Health 91, 969--982.
-<https://doi.org/10.1007/s11524-014-9896-1>
-
-Herrick, A.L., Lim, S.H., Plankey, M.W.,
-Chmiel, J.S., Guadamuz, T.E., Kao, U., Shoptaw, S., Carrico, A., Ostrow, D.,
-Stall, R., 2013. Adversity and syndemic production among men participating in
-the multicenter AIDS cohort study: a life-course approach. Am J Public Health
-103, 79--85. <https://doi.org/10.2105/AJPH.2012.300810>
-
-Hirshfield, S., Schrimshaw, E.W., Stall,
-R.D., Margolis, A.D., Downing  Jr, M.J.,
-Chiasson, M.A., 2015. Drug Use, Sexual Risk, and Syndemic Production Among Men
-Who Have Sex With Men Who Engage in Group Sexual Encounters. Am J Public Health
-105, 1849--1858. <https://doi.org/10.2105/AJPH.2014.302346>
-
-Jiang, H., Li, J., Tan, Z., Chen, X.,
-Cheng, W., Gong, X., Yang, Y., 2020. Syndemic Factors and HIV Risk Among Men
-Who Have Sex with Men in Guangzhou, China: Evidence from Synergy and Moderated
-Analyses. Arch Sex Behav 49, 311--320.
-<https://doi.org/10.1007/s10508-019-01488-x>
-
-Jie, W., Ciyong, L., Xueqing, D., Hui, W.,
-Lingyao, H., 2012. A syndemic of psychosocial problems places the MSM (men who
-have sex with men) population at greater risk of HIV infection. PLoS ONE 7,
-e32312. <https://doi.org/10.1371/journal.pone.0032312>
-
-Klein, H., 2011. Using a syndemics theory
-approach to study HIV risk taking in a population of men who use the internet
-to find partners for unprotected sex. Am J Men's Health 5, 466--476.
-<https://doi.org/10.1177/1557988311398472>
-
-Kurtz, S.P., Buttram, M.E., Surratt, H.L.,
-Stall, R.D., 2012. Resilience, syndemic factors, and serosorting behaviors
-among HIV-positive and HIV-negative substance-using MSM. AIDS Educ Prev 24, 193--205.
-<https://doi.org/10.1521/aeap.2012.24.3.193>
-
-Lassiter, J.M., Parsons, J.T., 2016.
-Religion and Spirituality's Influences on HIV Syndemics Among MSM: A Systematic
-Review and Conceptual Model. AIDS Behav 20, 461--472.
-<https://doi.org/10.1007/s10461-015-1173-0>
-
-Lee, J S, Bainter, S.A., Carrico, A.W.,
-Glynn, T.R., Rogers, B.G., Albright, C., O'Cleirigh, C., Mayer, K.H., Safren,
-S.A., 2020. Connecting the dots: a comparison of network analysis and
-exploratory factor analysis to examine psychosocial syndemic indicators among
-HIV-negative sexual minority men. J Behav Med.
-<https://doi.org/10.1007/s10865-020-00148-z>
-
-Lee, Jasper S., Safren, S.A., Bainter,
-S.A., Rodríguez-Díaz, C.E., Horvath, K.J., Blashill, A.J., 2020. Examining a
-Syndemics Network Among Young Latino Men Who Have Sex with Men. Int J Behav Med
-27, 39--51. <https://doi.org/10.1007/s12529-019-09831-1>
-
-Lewis, N.M., Wilson, K., 2017. HIV risk
-behaviours among immigrant and ethnic minority gay and bisexual men in North
-America and Europe: A systematic review. Soc Sci Med 179, 115--128.
-<https://doi.org/10.1016/j.socscimed.2017.02.033>
-
-Li, R., Cai, Y., Wang, Y., Sun, Z., Zhu,
-C., Tian, Y., Jiang, X., Gan, F., 2016. Psychosocial syndemic associated with
-increased suicidal ideation among men who have sex with men in Shanghai, China.
-Health Psychol 35, 148--156. <https://doi.org/10.1037/hea0000265>
-
-Lyons, T., Johnson, A.K., Garofalo, R.,
-2013. "What Could Have Been Different": A Qualitative Study of Syndemic Theory
-and HIV Prevention among Young Men Who Have Sex with Men. J HIV AIDS Soc Serv
-12, 368--383. <https://doi.org/10.1080/15381501.2013.816211>
-
-Maiorana, A., Kegeles, S.M., Brown, S.,
-Williams, R., Arnold, E.A., 2020. Substance use, intimate partner violence,
-history of incarceration and vulnerability to HIV among young Black men who
-have sex with men in a Southern US city. Cult Health Sex.
-<https://doi.org/10.1080/13691058.2019.1688395>
-
-Martinez, O., Arreola, S., Wu, E., Muñoz-Laboy,
-M., Levine, E.C., Rutledge, S.E., Hausmann-Stabile, C., Icard, L., Rhodes,
-S.D., Carballo-Diéguez, A., Rodríguez-Díaz, C.E., Fernandez, M.I., Sandfort,
-T., 2016. Syndemic factors associated with adult sexual HIV risk behaviors in a
-sample of Latino men who have sex with men in New York City. Drug Alcohol
-Depend 166, 258--262. <https://doi.org/10.1016/j.drugalcdep.2016.06.033>
-
-Martinez, O., Brady, K.A., Levine, E.,
-Page, K.R., Zea, M.C., Yamanis, T.J., Grieb, S., Shinefeld, J., Ortiz, K.,
-Davis, W.W., Mattera, B., Martinez-Donate, A., Chavez-Baray, S., Moya, E.M.,
-2020. Using Syndemics Theory to Examine HIV Sexual Risk Among Latinx Men Who
-Have Sex with Men in Philadelphia, PA: Findings from the National HIV
-Behavioral Surveillance. EHQUIDAD 13, 217--236.
-<https://doi.org/10.15257/ehquidad.2020.0009>
-
-McDaid, L.M., Flowers, P., Ferlatte, O.,
-McAloney-Kocaman, K., Gilbert, M., Frankis, J., 2019. Informing theoretical
-development of salutogenic, asset-based health improvement to reduce syndemics
-among gay, bisexual and other men who have sex with men: Empirical evidence
-from secondary analysis of multi-national, online cross-sectional surveys. SSM
-Popul Health 10, 100519. <https://doi.org/10.1016/j.ssmph.2019.100519>
-
-Mimiaga, Matthew J, Biello, K.B.,
-Robertson, A.M., Oldenburg, C.E., Rosenberger, J.G., O'Cleirigh, C., Novak,
-D.S., Mayer, K.H., Safren, S.A., 2015. High prevalence of multiple syndemic
-conditions associated with sexual risk behavior and HIV infection among a large
-sample of Spanish- and Portuguese-speaking men who have sex with men in Latin
-America. Archives of Sexual Behavior 44, 1869--1878.
-<https://doi.org/10.1007/s10508-015-0488-2>
-
-Mimiaga, Matthew J., OʼCleirigh, C.,
-Biello, K.B., Robertson, A.M., Safren, S.A., Coates, T.J., Koblin, B.A.,
-Chesney, M.A., Donnell, D.J., Stall, R.D., Mayer, K.H., 2015. The Effect of
-Psychosocial Syndemic Production on 4-Year HIV Incidence and Risk Behavior in a
-Large Cohort of Sexually Active Men Who Have Sex With Men. J Acquir Immune
-Defic Syndr 68, 329--336. <https://doi.org/10.1097/QAI.0000000000000475>
-
-Moeller, R.W., Halkitis, P.N., Surrence,
-K., n.d. The interplay of syndemic production and serosorting in drug-using gay
-and bisexual men. J. Gay Lesbian Soc. Serv 23, 89--106.
-<https://doi.org/10.1080/10538720.2010.538007>
-
-Morrison, S.A., Yoong, D., Hart, T.A.,
-MacPherson, P., Bogoch, I., Sivarajah, V., Gough, K., Naccarato, M., Tan,
-D.H.S., 2018. High prevalence of syndemic health problems in patients seeking
-post-exposure prophylaxis for sexual exposures to HIV. PLoS ONE 13, e0197998.
-<https://doi.org/10.1371/journal.pone.0197998>
-
-Muñoz-Laboy, M., Martinez, O., Levine,
-E.C., Mattera, B.T., Isabel Fernandez, M., 2018. Syndemic Conditions
-Reinforcing Disparities in HIV and Other STIs in an Urban Sample of
-Behaviorally Bisexual Latino Men. J Immigr Minor Health 20, 497--501.
-<https://doi.org/10.1007/s10903-017-0568-6>
-
-Mustanski, B., Andrews, R., Herrick, A.,
-Stall, R., Schnarrs, P.W., 2014. A Syndemic of Psychosocial Health Disparities
-and Associations With Risk for Attempting Suicide Among Young Sexual Minority
-Men. Am J Public Health 104, 287--294. <https://doi.org/10.2105/AJPH.2013.301744>
-
-Mustanski, B., Garofalo, R., Herrick, A.,
-Donenberg, G., 2007. Psychosocial health problems increase risk for HIV among
-urban young men who have sex with men: preliminary evidence of a syndemic in
-need of attention. Ann Behav Med 34, 37--45. <https://doi.org/10.1007/bf02879919>
-
-Mustanski, B., Phillips, G., Ryan, D.T.,
-Swann, G., Kuhns, L., Garofalo, R., 2017. Prospective Effects of a Syndemic on
-HIV and STI Incidence and Risk Behaviors in a Cohort of Young Men Who Have Sex
-with Men. AIDS Behav 21, 845--857. <https://doi.org/10.1007/s10461-016-1607-3>
-
-Ng, R.X., Guadamuz, T.E., Akbar, M.,
-Kamarulzaman, A., Lim, S.H., 2020. Association of co-occurring psychosocial
-health conditions and HIV infection among MSM in Malaysia: Implication of a
-syndemic effect. Int. J. STD AIDS 31, 568--578.
-<https://doi.org/10.1177/0956462420913444>
-
-Nostlinger, C., Reyniers, T., Smekens, T.,
-Apers, H., Laga, M., Wouters, K., Vuylsteke, B., 2020. Drug use, depression and
-sexual risk behaviour: a syndemic among early pre-exposure prophylaxis (PrEP)
-adopters in Belgium?. AIDS Care 32, 57--64.
-<https://doi.org/10.1080/09540121.2020.1739218>
-
-O'Cleirigh, C., Pantalone, D.W.,
-Batchelder, A.W., Hatzenbuehler, M.L., Marquez, S.M., Grasso, C., Safren, S.A.,
-Mayer, K.H., 2018. Co-occurring psychosocial problems predict HIV status and
-increased health care costs and utilization among sexual minority men. J Behav
-Med 41, 450--457. <https://doi.org/10.1007/s10865-018-9913-z>
-
-Oginni, O.A., Mapayi, B.M., Afolabi, O.T.,
-Ebuenyi, I.D., Akinsulore, A., Mosaku, K.S., 2019. Association between risky
-sexual behavior and a psychosocial syndemic among nigerian men who have sex
-with men. J Gay Lesbian Ment Health, Journal of Gay & Lesbian Psychotherapy
-23, 168--185. <https://doi.org/10.1080/19359705.2018.1552640>
-
-Ogunbajo, A., Oke, T., Jin, H., Rashidi,
-W., Iwuagwu, S., Harper, G.W., Biello, K.B., Mimiaga, M.J., 2019. A syndemic of
-psychosocial health problems is associated with increased HIV sexual risk among
-Nigerian gay, bisexual, and other men who have sex with men (GBMSM). AIDS Care
-32, 337--342. <https://doi.org/10.1080/09540121.2019.1678722>
-
-O'Leary, A., Jemmott  3rd, J.B., Stevens, R., Rutledge, S.E.,
-Icard, L.D., 2014. Optimism and education buffer the effects of syndemic
-conditions on HIV status among African American men who have sex with men. AIDS
-Behav 18, 2080--2088. <https://doi.org/10.1007/s10461-014-0708-0>
-
-Pantalone, D.W., Nelson, K.M., Batchelder,
-A.W., Chiu, C., Gunn, H.A., Horvath, K.J., 2020. A Systematic Review and
-Meta-Analysis of Combination Behavioral Interventions Co-Targeting Psychosocial
-Syndemics and HIV-Related Health Behaviors for Sexual Minority Men. J Sex Res
-57, 681--708. <https://doi.org/10.1080/00224499.2020.1728514>
-
-Pantalone, D.W., Valentine, S.E.,
-Woodward, E.N., O'Cleirigh, C., 2018. Syndemic Indicators Predict Poor
-Medication Adherence and Increased Health Care Utilization for Urban
-HIV-Positive Men Who Have Sex with Men. J Gay Lesbian Ment Health 22, 71--87.
-<https://doi.org/10.1080/19359705.2017.1389794>
-
-Parsons, J.T., Grov, C., Golub, S.A.,
-2012. Sexual compulsivity, co-occurring psychosocial health problems, and HIV
-risk among gay and bisexual men: further evidence of a syndemic. Am J Public Health
-102, 156--162. <https://doi.org/10.2105/AJPH.2011.300284>
-
-Parsons, J.T., Millar, B.M., Moody, R.L.,
-Starks, T.J., Rendina, H.J., Grov, C., 2017. Syndemic conditions and HIV
-transmission risk behavior among HIV-negative gay and bisexual men in a U.S. national
-sample. Health Psychol 36, 695--703. <https://doi.org/10.1037/hea0000509>
-
-Parsons, J.T., Rendina, H.J., Moody, R.L.,
-Ventuneac, A., Grov, C., 2015. Syndemic production and sexual
-compulsivity/hypersexuality in highly sexually active gay and bisexual men:
-further evidence for a three group conceptualization. Arch Sex Behav 44, 1903--1913.
-<https://doi.org/10.1007/s10508-015-0574-5>
-
-Perry, N.S., Nelson, K.M., Carey, M.P.,
-2019. Diversity of Psychosocial Syndemic Indicators and Associations with
-Sexual Behavior with Male and Female Partners Among Early Adolescent Sexual
-Minority Males. LGBT Health 6, 386--392. <https://doi.org/10.1089/lgbt.2019.0113>
-
-Pitpitan, E.V., Smith, L.R., Goodman-Meza,
-D., Torres, K., Semple, S.J., Strathdee, S.A., Patterson, T.L., 2016. "Outness"
-as a Moderator of the Association Between Syndemic Conditions and HIV
-Risk-Taking Behavior Among Men Who Have Sex with Men in Tijuana, Mexico. AIDS
-Behav 20, 431--438. <https://doi.org/10.1007/s10461-015-1172-1>
-
-Pollard, A., Nadarzynski, T., Llewellyn,
-C., 2018. Syndemics of stigma, minority-stress, maladaptive coping, risk
-environments and littoral spaces among men who have sex with men using chemsex.
-Cult Health Sex 20, 411--427. <https://doi.org/10.1080/13691058.2017.1350751>
-
-Quinn, B., Gorbach, P.M., Okafor, C.N.,
-Heinzerling, K.G., Shoptaw, S., 2020. Investigating possible syndemic
-relationships between structural and drug use factors, sexual HIV transmission
-and viral load among men of colour who have sex with men in Los Angeles County.
-Drug Alcohol Rev. 39, 116--127. <https://doi.org/10.1111/dar.13026>
-
-Quinn, K.G., 2019. Applying an
-intersectional framework to understand syndemic conditions among young Black
-gay, bisexual, and other men who have sex with men. Soc Sci Med.
-<https://doi.org/10.1016/j.socscimed.2019.112779>
-
-Reed, S.J., Miller, R.L., 2016. Thriving
-and Adapting: Resilience, Sense of Community, and Syndemics among Young Black
-Gay and Bisexual Men. Am J Community Psychol 57, 129--143.
-<https://doi.org/10.1002/ajcp.12028>
-
-Reisner, S.L., White Hughto, J.M., Pardee,
-D., Sevelius, J., 2016. Syndemics and gender affirmation: HIV sexual risk in
-female-to-male trans masculine adults reporting sexual contact with cisgender
-males. Int J STD AIDS 27, 955--966. <https://doi.org/10.1177/0956462415602418>
-
-Rooney, B.M., Tulloch, T.G., Blashill,
-A.J., 2018. Psychosocial Syndemic Correlates of Sexual Compulsivity Among Men
-Who Have Sex with Men: A Meta-Analysis. Arch Sex Behav 47, 75--93.
-<https://doi.org/10.1007/s10508-017-1032-3>
-
-Safren, S.A., Blashill, A.J., Lee, J.S., O'Cleirigh,
-C., Tomassili, J., Biello, K.B., Mimiaga, M.J., Mayer, K.H., 2018. Condom-use
-self-efficacy as a mediator between syndemics and condomless sex in men who
-have sex with men (MSM). Health Psychol 37, 820--827.
-<https://doi.org/10.1037/hea0000617>
-
-Santos, G.-M., Do, T., Beck, J., Makofane,
-K., Arreola, S., Pyun, T., Hebert, P., Wilson, P.A., Ayala, G., 2014. Syndemic
-conditions associated with increased HIV risk in a global sample of men who
-have sex with men. Sex Transm Infect 90, 250--253. <https://doi.org/10.1136/sextrans-2013-051318>
-
-Scheer, J.R., Clark, K.A., Maiolatesi,
-A.J., Pachankis, J.E., 2021. Syndemic profiles and sexual minority men's
-hiv-risk behavior: A latent class analysis. Arch Sex Behav.
-<https://doi.org/10.1007/s10508-020-01850-4>
-
-Semple, S.J., Stockman, J.K.,
-Goodman-Meza, D., Pitpitan, E.V., Strathdee, S.A., Chavarin, C.V., Rangel, G.,
-Torres, K., Patterson, T.L., 2017. Correlates of Sexual Violence Among Men Who
-Have Sex With Men in Tijuana, Mexico. Arch Sex Behav 46, 1011--1023.
-<https://doi.org/10.1007/s10508-016-0747-x>
-
-Shuper, P.A., Joharchi, N., Bogoch, I.I.,
-Loutfy, M., Crouzat, F., El-Helou, P., Knox, D.C., Woodward, K., Rehm, J.,
-2020. Alcohol consumption, substance use, and depression in relation to HIV
-Pre-Exposure Prophylaxis (PrEP) nonadherence among gay, bisexual, and other
-men-who-have-sex-with-men. BMC Public Health 20, 1782.
-<https://doi.org/10.1186/s12889-020-09883-z>
-
-Stall, R., Mills, T.C., Williamson, J.,
-Hart, T., Greenwood, G., Paul, J., Pollack, L., Binson, D., Osmond, D.,
-Catania, J.A., 2003. Association of Co-Occurring Psychosocial Health Problems
-and Increased Vulnerability to HIV/AIDS among Urban Men Who Have Sex with Men.
-Am J Public Health 93, 939--942. <https://doi.org/10.2105/AJPH.93.6.939>
-
-Starks, T.J., Millar, B.M., Eggleston, J.J.,
-Parsons, J.T., 2014. Syndemic factors associated with HIV risk for gay and
-bisexual men: comparing latent class and latent factor modeling. AIDS Behav 18,
-2075--2079. <https://doi.org/10.1007/s10461-014-0841-9>
-
-Starks, T.J., Tuck, A.N., Millar, B.M.,
-Parsons, J.T., 2016. Linking Syndemic Stress and Behavioral Indicators of Main
-Partner HIV Transmission Risk in Gay Male Couples. AIDS Behav 20, 439--448.
-<https://doi.org/10.1007/s10461-015-1248-y>
-
-Storholm, E.D., Halkitis, P.N., Siconolfi,
-D.E., Moeller, R.W., 2011. Cigarette smoking as part of a syndemic among young
-men who have sex with men ages 13-29 in New York City. J Urban Health 88, 663--676.
-<https://doi.org/10.1007/s11524-011-9563-8>
-
-Sullivan, M.C., Eaton, L.A., 2020.
-Intersecting barriers to prep awareness and uptake in black men who have sex
-with men in atlanta, ga: A syndemic perspective. Int J Behav Med.
-<https://doi.org/10.1007/s12529-020-09925-1>
-
-Tan, D.H.S., Leon-Carlyle, M., Mills, R.,
-Moses, E., Carvalhal, A., 2016. Self-administered screening for syndemic mental
-health problems should be routinely implemented among MSM PrEP users. J Gay
-Lesbian Ment Health, Journal of Gay & Lesbian Mental Health 20, 13--20.
-<https://doi.org/10.1080/19359705.2015.1105765>
-
-Tomori, C., McFall, A.M., Solomon, S.S.,
-Srikrishnan, A.K., Anand, S., Balakrishnan, P., Mehta, S.H., Celentano, D.D.,
-2018. Is there synergy in syndemics? Psychosocial conditions and sexual risk
-among men who have sex with men in India. Soc Sci Med 206, 110--116.
-<https://doi.org/10.1016/j.socscimed.2018.03.032>
-
-Tulloch, T.G., Rotondi, N.K., Ing, S.,
-Myers, T., Calzavara, L.M., Loutfy, M.R., Hart, T.A., 2015. Retrospective
-reports of developmental stressors, syndemics, and their association with
-sexual risk outcomes among gay men. Arch Sex Behav 44, 1879--1889.
-<https://doi.org/10.1007/s10508-015-0479-3>
-
-Turpin, R.E., Dyer, T.V., Dangerfield,
-D.T. 2nd, Liu, H., Mayer, K.H., 2020a. Syndemic latent transition analysis in
-the HPTN 061 cohort: Prospective interactions between trauma, mental health,
-social support, and substance use. Drug Alcohol Depend 214.
-<https://doi.org/10.1016/j.drugalcdep.2020.108106>
-
-Turpin, R.E., Salerno, J.P., Rosario,
-A.D., Boekeloo, B., 2020b. Victimization, Substance Use, Depression, and Sexual
-Risk in Adolescent Males Who Have Sex with Males: A Syndemic Latent Profile
-Analysis. Arch Sex Behav. <https://doi.org/10.1007/s10508-020-01685-z>
-
-Van den Berghe, W., Nöstlinger, C., Laga,
-M., 2014. Syndemic and other risk factors for unprotected anal intercourse
-among an online sample of belgian HIV negative men who have sex with men. AIDS
-Behav 18, 50--58. <https://doi.org/10.1007/s10461-013-0516-y>
-
-Walters, S.M., Braksmajer, A., Coston, B.,
-Yoon, I., Grov, C., Downing, M.J., Teran, R., Hirshfield, S., 2020. A Syndemic
-Model of Exchange Sex Among HIV-Positive Men Who Have Sex With Men. Arch Sex
-Behav 49, 1965--1978. <https://doi.org/10.1007/s10508-020-01628-8>
-
-Wang, Ying, Wang, Z., Jia, M., Liang, A.,
-Yuan, D., Sun, Z., Gan, F., Wang, Yichen, Cai, Y., Zhang, Z., 2017. Association
-between a syndemic of psychosocial problems and unprotected anal intercourse
-among men who have sex with men in Shanghai, China. BMC Infect Dis 17, 46.
-<https://doi.org/10.1186/s12879-016-2132-8>
-
-Wang, Z., Zhao, X., Zhang, Z., Luo, M.,
-Shen, Q., Dong, Y., Wang, Y., Cai, Y., 2018. Co-Occurring Psychosocial Problems
-and Multiple Sexual Partners among Men Who Have Sex with Men in Shanghai,
-China: A Syndemic Approach. J Sex Res 55, 892--901.
-<https://doi.org/10.1080/00224499.2017.1399333>
-
-Woodward, E.N., Banks, R.J., Marks, A.K.,
-Pantalone, D.W., 2017. Identifying Resilience Resources for HIV Prevention
-Among Sexual Minority Men: A Systematic Review. AIDS Behav 2860--2873.
-<https://doi.org/10.1007/s10461-016-1608-2>
-
-Wu, E., 2018. Childhood sexual abuse among
-Black men who have sex with men: A cornerstone of a syndemic? PLoS ONE 13,
-e0206746--e0206746. <https://doi.org/10.1371/journal.pone.0206746>
-
-Yu, F., Nehl, E.J., Zheng, T., He, N.,
-Berg, C.J., Lemieux, A.F., Lin, L., Tran, A., Sullivan, P.S., Wong, F.Y., 2013.
-A syndemic including cigarette smoking and sexual risk behaviors among a sample
-of MSM in Shanghai, China. Drug Alcohol Depend 132, 265--270.
-<https://doi.org/10.1016/j.drugalcdep.2013.02.016>
-
-Zepf, R., Greene, M., Hessol, N.A.,
-Johnson, M.O., Santos, G.M., John, M.D., Dawson-Rose, C., 2020. Syndemic
-conditions and medication adherence in older men living with HIV who have sex
-with men. AIDS Care 32, 1610--1616.
-<https://doi.org/10.1080/09540121.2020.1772954>
-
-Zhang, J., O'Leary, A., Jemmott  3rd, J.B., Icard, L.D., Rutledge, S.E., 2019.
-Syndemic conditions predict lower levels of physical activity among African
-American men who have sex with men: A prospective survey study. PLOS One 14,
-e0213439--e0213439. <https://doi.org/10.1371/journal.pone.0213439>
+### List of references included in the review
+
+Achterbergh, R.C.A., van Rooijen, M.S., van den Brink, W., Boyd, A., e Vries, H.J.C., 2021. Enhancing help-seeking behaviour among men who have sex with men at risk for sexually transmitted infections: the syn.bas.in randomised controlled trial. Sex Transm Infect 97, 11--17. <https://doi.org/10.1136/sextrans-2020-054438>
+
+Adam, B.D., Hart, T.A., Mohr, J., Coleman, T., Vernon, J., 2018. Resilience pathways, childhood escape routes, and mentors reported by gay and bisexual men affected by syndemic conditions. Sexualities 22, 642. <https://doi.org/10.1177/1363460718758663>
+
+Adam, B.D., Hart, T.A., Mohr, J., Coleman, T., Vernon, J., 2017. HIV-related syndemic pathways and risk subjectivities among gay and bisexual men: a qualitative investigation. Cult Health Sex 19, 1254--1267. <https://doi.org/10.1080/13691058.2017.1309461>
+
+Batchelder, A.W., Choi, K., Dale, S.K., Pierre-Louis, C., Sweek, E.W., Ironson, G., Safren, S.A., O'Cleirigh, C., 2019. Effects of syndemic psychiatric diagnoses on health indicators in men who have sex with men. Health Psychology 38, 509--517. <https://doi.org/10.1037/hea0000724>
+
+Beymer, M.R., Weiss, R.E., Halkitis, P.N., Kapadia, F., Ompad, D.C., Bourque, L., Bolan, R.K., 2016. Disparities Within the Disparity-Determining HIV Risk Factors Among Latino Gay and Bisexual Men Attending a Community-Based Clinic in Los Angeles, CA. J Acquir Immune Defic Syndr 73, 237--244. <https://doi.org/10.1097/QAI.0000000000001072>
+
+Biello, K.B., Colby, D., Closson, E., Mimiaga, M.J., 2014. The syndemic condition of psychosocial problems and HIV risk among male sex workers in Ho Chi Minh City, Vietnam. AIDS Behav 18, 1264--1271. <https://doi.org/10.1007/s10461-013-0632-8>
+
+Biello, K.B., Oldenburg, C.E., Safren, S.A., Rosenberger, J.G., Novak, D.S., Mayer, K.H., Mimiaga, M.J., 2016. Multiple syndemic psychosocial factors are associated with reduced engagement in HIV care among a multinational, online sample of HIV-infected MSM in Latin America. AIDS Care 28 Suppl 1, 84--91. <https://doi.org/10.1080/09540121.2016.1146205>
+
+Blashill, A.J., Brady, J.P., Rooney, B.M., Rodriguez-Diaz, C.E., Horvath, K.J., Blumenthal, J., Morris, S., Moore, D.J., Safren, S.A., 2020. Syndemics and the PrEP Cascade: Results from a Sample of Young Latino Men Who Have Sex with Men. Arch Sex Behav 49, 125--135. <https://doi.org/10.1007/s10508-019-01470-7>
+
+Blondeel, K., Dias, S., Furegato, M., Seuc, A., Gama, A., Fuertes, R., Mendao, L., Temmerman, M., Toskin, I., 2021. Sexual behaviour patterns and STI risk: results of a cluster analysis among men who have sex with men in Portugal. BMJ Open 11, e033290. <https://doi.org/10.1136/bmjopen-2019-033290>
+
+Bränström, R., Pachankis, J.E., 2018. Validating the Syndemic Threat Surrounding Sexual Minority Men's Health in a Population-Based Study With National Registry Linkage and a Heterosexual Comparison. J. Acquir. Immune Defic. Syndr. 78, 376--382. <https://doi.org/10.1097/QAI.0000000000001697>
+
+Bruce, D., Harper, G.W., Interventions, A.M.T.N. for H., 2011. Operating without a safety net: gay male adolescents and emerging adults' experiences of marginalization and migration, and implications for theory of syndemic production of health disparities. Health Educ Behav 38, 367--378. <https://doi.org/10.1177/1090198110375911>
+
+Buttram, M.E., Kurtz, S.P., 2015. A mixed methods study of health and social disparities among substance-using African American/Black men who have sex with men. J Racial Ethn Health Disparities 2, 1--10. <https://doi.org/10.1007/s40615-014-0042-2>
+
+Byg, B., Bazzi, A.R., Funk, D., James, B., Potter, J., 2016. The Utility of a Syndemic Framework in Understanding Chronic Disease Management Among HIV-Infected and Type 2 Diabetic Men Who Have Sex with Men. J. Community Health 41, 1204--1211. <https://doi.org/10.1007/s10900-016-0202-x>
+
+Card, K.G., Lachowsky, N.J., Armstrong, H.L., Cui, Z., Wang, L., Sereda, P., Jollimore, J., Patterson, T.L., Corneil, T., Hogg, R.S., Roth, E.A., Moore, D.M., 2018. The additive effects of depressive symptoms and polysubstance use on HIV risk among gay, bisexual, and other men who have sex with men. Addict. Behav 82, 158--165. <https://doi.org/10.1016/j.addbeh.2018.03.005>
+
+Carrico, A.W., Rodriguez, V.J., Jones, D.L., Kumar, M., 2018. Short circuit: Disaggregation of adrenocorticotropic hormone and cortisol levels in HIV-positive, methamphetamine-using men who have sex with men. Human psychopharmacology 33. <https://doi.org/10.1002/hup.2645>
+
+Cassels, S., Meltzer, D., Loustalot, C., Ragsdale, A., Shoptaw, S., Gorbach, P.M., 2020. Geographic Mobility, Place Attachment, and the Changing Geography of Sex among African American and Latinx MSM Who Use Substances in Los Angeles. J Urban Health 97, 609--622. <https://doi.org/10.1007/s11524-020-00481-3>
+
+Chakrapani, V., Kaur, M., Newman, P.A., Mittal, S., Kumar, R., 2019a. Syndemics and HIV-related sexual risk among men who have sex with men in India: influences of stigma and resilience. Cult Health Sex 21, 416--431. <https://doi.org/10.1080/13691058.2018.1486458>
+
+Chakrapani, V., Kaur, M., Tsai, A.C., Newman, P.A., Kumar, R., 2020. The impact of a syndemic theory-based intervention on HIV transmission risk behaviour among men who have sex with men in India: Findings from a pretest-posttest non-equivalent comparison group trial. Soc Sci Med. <https://doi.org/10.1016/j.socscimed.2020.112817>
+
+Chakrapani, V., Lakshmi, P.V.M., Tsai, A.C., Vijin, P.P., Kumar, P., Srinivas, V., 2019b. The syndemic of violence victimisation, drug use, frequent alcohol use, and HIV transmission risk behaviour among men who have sex with men: Cross-sectional, population-based study in India. SSM Popul Health 7, 100348. <https://doi.org/10.1016/j.ssmph.2018.100348>
+
+Chakrapani, V., Newman, P.A., Shunmugam, M., Logie, C.H., Samuel, M., 2017. Syndemics of depression, alcohol use, and victimisation, and their association with HIV-related sexual risk among men who have sex with men and transgender women in India. Glob. Public Health 12, 250--265. <https://doi.org/10.1080/17441692.2015.1091024>
+
+Chandler, Cristian J., Bukowski, L.A., Matthews, D.D., Hawk, M.E., Markovic, N., Egan, J.E., Stall, R.D., 2020a. Examining the Impact of a Psychosocial Syndemic on Past Six-Month HIV Screening Behavior of Black Men who have Sex with Men in the United States: Results from the POWER Study. AIDS Behav 28, 428--436. <https://doi.org/10.1007/s10461-019-02458-z>
+
+Chandler, Cristian J., Bukowski, L.A., Matthews, D.D., Hawk, M.E., Markovic, N., Stall, R.D., Egan, J.E., 2020b. Understanding the impact of a syndemic on the use of pre-exposure prophylaxis in a community-based sample of behaviorally PrEP-eligible BMSM in the United States. AIDS Care 32, 551--556. <https://doi.org/10.1080/09540121.2019.1659921>
+
+Chandler, Cristian J, Meunier, E., Eaton, L.A., Andrade, E., Bukowski, L.A., Matthews, D.D., Raymond, H.F., Stall, R.D., Friedman, M.R., 2020. Syndemic health disparities and sexually transmitted infection burden among black men who have sex with men engaged in sex work in the u.S. Arch Sex Behav. <https://doi.org/10.1007/s10508-020-01828-2>
+
+Chuang, D.-M., Newman, P.A., Li, A.T.-W., 2018. Syndemic factors and HIV infection among men who have sex with men in Taiwan. J HIV AIDS Soc Serv 17, 337--352. <https://doi.org/10.1080/15381501.2018.1454866>
+
+Dyer, T.P., Shoptaw, S., Guadamuz, T.E., Plankey, M., Kao, U., Ostrow, D., Chmiel, J.S., Herrick, A., Stall, R., 2012. Application of syndemic theory to black men who have sex with men in the Multicenter AIDS Cohort Study. J Urban Health 89, 697--708. <https://doi.org/10.1007/s11524-012-9674-x>
+
+Dyer, T.V., Turpin, R.E., Stall, R., Khan, M.R., Nelson, L.E., Brewer, R., Friedman, M.R., Mimiaga, M.J., Cook, R.L., O'Cleirigh, C., Mayer, K.H., 2020. Latent Profile Analysis of a Syndemic of Vulnerability Factors on Incident Sexually Transmitted Infection in a Cohort of Black Men Who Have Sex With Men Only and Black Men Who Have Sex With Men and Women in the HIV Prevention Trials Network 061 Study. Sex Transm Dis 47, 571--579. <https://doi.org/10.1097/OLQ.0000000000001208>
+
+Eaton, L.A., Pitpitan, E.V., Kalichman, S.C., Sikkema, K.J., Skinner, D., Watt, M.H., Pieterse, D., 2013. Men who report recent male and female sex partners in Cape Town, South Africa: an understudied and underserved population. Arch Sex Behav 42, 1299--1308. <https://doi.org/10.1007/s10508-013-0077-1>
+
+Ferlatte, O., Dulai, J., Hottes, T.S., Trussler, T., Marchand, R., 2015. Suicide related ideation and behavior among Canadian gay and bisexual men: a syndemic analysis. BMC public health 15, 597. <https://doi.org/10.1186/s12889-015-1961-5>
+
+Ferlatte, O., Hottes, T.S., Trussler, T., Marchand, R., 2014. Evidence of a syndemic among young Canadian gay and bisexual men: uncovering the associations between anti-gay experiences, psychosocial issues, and HIV risk. AIDS Behav 18, 1256--1263. <https://doi.org/10.1007/s10461-013-0639-1>
+
+Ferlatte, O., Salway, T., Samji, H., Dove, N., Gesink, D., Gilbert, M., Oliffe, J.L., Grennan, T., Wong, J., 2018a. An Application of Syndemic Theory to Identify Drivers of the Syphilis Epidemic among Gay, Bisexual, and Other Men Who Have Sex with Men. Sexually Transmitted Diseases 45, 163--168. <https://doi.org/10.1097/OLQ.0000000000000713>
+
+Ferlatte, O., Salway, T., Trussler, T., Oliffe, J.L., Gilbert, M., 2018b. Combining intersectionality and syndemic theory to advance understandings of health inequities among Canadian gay, bisexual and other men who have sex with men. Crit Public Health 28, 509--521. <https://doi.org/10.1080/09581596.2017.1380298>
+
+Friedman, M.R., Coulter, R.W.S., Silvestre, A.J., Stall, R., Teplin, L., Shoptaw, S., Surkan, P.J., Plankey, M.W., 2016. Someone to count on: social support as an effect modifier of viral load suppression in a prospective cohort study. AIDS Care 29, 469--480. <https://doi.org/10.1080/09540121.2016.1211614>
+
+Friedman, M.R., Kurtz, S.P., Buttram, M.E., Wei, C., Silvestre, A.J., Stall, R., 2014. HIV risk among substance-using men who have sex with men and women (MSMW): findings from South Florida. AIDS Behav 111--19. <https://doi.org/10.1007/s10461-013-0495-z>
+
+Friedman, M.R., Stall, R., Silvestre, A.J., Wei, C., Shoptaw, S., Herrick, A., Surkan, P.J., Teplin, L., Plankey, M.W., 2015. Effects of syndemics on HIV viral load and medication adherence in the multicentre AIDS cohort study. AIDS 29, 1087--1096. <https://doi.org/10.1097/QAD.0000000000000657>
+
+Guadamuz, T.E., McCarthy, K., Wimonsate, W., Thienkrua, W., Varangrat, A., Chaikummao, S., Sangiamkittikul, A., Stall, R.D., van Griensven, F., 2014. Psychosocial Health Conditions and HIV Prevalence and Incidence in a Cohort of Men Who have Sex with Men in Bangkok, Thailand: Evidence of a Syndemic Effect. AIDS Behav 18, 2089--2096. <https://doi.org/10.1007/s10461-014-0826-8>
+
+Halkitis, P.N., Kapadia, F., Bub, K.L., Barton, S., Moreira, A.D., Stults, C.B., 2015. A Longitudinal Investigation of Syndemic Conditions Among Young Gay, Bisexual, and Other MSM: The P18 Cohort Study. AIDS Behav 19, 970--980. <https://doi.org/10.1007/s10461-014-0892-y>
+
+Halkitis, P.N., Kupprat, S.A., Hampton, M.B., Perez-Figueroa, R., Kingdon, M., Eddy, J.A., Ompad, D.C., 2012. Evidence for a Syndemic in Aging HIV-positive Gay, Bisexual, and Other MSM: Implications for a Holistic Approach to Prevention and Healthcare. Ann Anthropol Pract 36, 365--386. <https://doi.org/10.1111/napa.12009>
+
+Halkitis, P.N., Moeller, R.W., Siconolfi, D.E., Storholm, E.D., Solomon, T.M., Bub, K.L., 2013. Measurement model exploring a syndemic in emerging adult gay and bisexual men. AIDS Behav 17, 662--673. <https://doi.org/10.1007/s10461-012-0273-3>
+
+Harkness, A., Bainter, S.A., O'Cleirigh, C., Albright, C., Mayer, K.H., Safren, S.A., 2019. Longitudinal Effects of Syndemics on HIV-Positive Sexual Minority Men's Sexual Health Behaviors. Arch Sex Behav 48, 1159--1170. <https://doi.org/10.1007/s10508-018-1329-x>
+
+Harkness, A., Bainter, S.A., O'Cleirigh, C., Mendez, N.A., Mayer, K.H., Safren, S.A., 2018. Longitudinal Effects of Syndemics on ART Non-adherence Among Sexual Minority Men. AIDS Behav 22, 2564--2574. <https://doi.org/10.1007/s10461-018-2180-8>
+
+Hart, T.A., Noor, S.W., Adam, B.D., Vernon, J.R.G., Brennan, D.J., Gardner, S., Husbands, W., Myers, T., 2017. Number of Psychosocial Strengths Predicts Reduced HIV Sexual Risk Behaviors Above and Beyond Syndemic Problems Among Gay and Bisexual Men. AIDS Behav 21, 3035--3046. <https://doi.org/10.1007/s10461-016-1669-2>
+
+Herrick, A., Stall, R., Egan, J., Schrager, S., Kipke, M., 2014. Pathways towards risk: syndemic conditions mediate the effect of adversity on HIV risk behaviors among young men who have sex with men (YMSM). J Urban Health 91, 969--982. <https://doi.org/10.1007/s11524-014-9896-1>
+
+Herrick, A.L., Lim, S.H., Plankey, M.W., Chmiel, J.S., Guadamuz, T.E., Kao, U., Shoptaw, S., Carrico, A., Ostrow, D., Stall, R., 2013. Adversity and syndemic production among men participating in the multicenter AIDS cohort study: a life-course approach. Am J Public Health 103, 79--85. <https://doi.org/10.2105/AJPH.2012.300810>
+
+Hirshfield, S., Schrimshaw, E.W., Stall, R.D., Margolis, A.D., Downing  Jr, M.J., Chiasson, M.A., 2015. Drug Use, Sexual Risk, and Syndemic Production Among Men Who Have Sex With Men Who Engage in Group Sexual Encounters. Am J Public Health 105, 1849--1858. <https://doi.org/10.2105/AJPH.2014.302346>
+
+Jiang, H., Li, J., Tan, Z., Chen, X., Cheng, W., Gong, X., Yang, Y., 2020. Syndemic Factors and HIV Risk Among Men Who Have Sex with Men in Guangzhou, China: Evidence from Synergy and Moderated Analyses. Arch Sex Behav 49, 311--320. <https://doi.org/10.1007/s10508-019-01488-x>
+
+Jie, W., Ciyong, L., Xueqing, D., Hui, W., Lingyao, H., 2012. A syndemic of psychosocial problems places the MSM (men who have sex with men) population at greater risk of HIV infection. PLoS ONE 7, e32312. <https://doi.org/10.1371/journal.pone.0032312>
+
+Klein, H., 2011. Using a syndemics theory approach to study HIV risk taking in a population of men who use the internet to find partners for unprotected sex. Am J Men's Health 5, 466--476. <https://doi.org/10.1177/1557988311398472>
+
+Kurtz, S.P., Buttram, M.E., Surratt, H.L., Stall, R.D., 2012. Resilience, syndemic factors, and serosorting behaviors among HIV-positive and HIV-negative substance-using MSM. AIDS Educ Prev 24, 193--205. <https://doi.org/10.1521/aeap.2012.24.3.193>
+
+Lassiter, J.M., Parsons, J.T., 2016. Religion and Spirituality's Influences on HIV Syndemics Among MSM: A Systematic Review and Conceptual Model. AIDS Behav 20, 461--472. <https://doi.org/10.1007/s10461-015-1173-0>
+
+Lee, J S, Bainter, S.A., Carrico, A.W., Glynn, T.R., Rogers, B.G., Albright, C., O'Cleirigh, C., Mayer, K.H., Safren, S.A., 2020. Connecting the dots: a comparison of network analysis and exploratory factor analysis to examine psychosocial syndemic indicators among HIV-negative sexual minority men. J Behav Med. <https://doi.org/10.1007/s10865-020-00148-z>
+
+Lee, Jasper S., Safren, S.A., Bainter, S.A., Rodríguez-Díaz, C.E., Horvath, K.J., Blashill, A.J., 2020. Examining a Syndemics Network Among Young Latino Men Who Have Sex with Men. Int J Behav Med 27, 39--51. <https://doi.org/10.1007/s12529-019-09831-1>
+
+Lewis, N.M., Wilson, K., 2017. HIV risk behaviours among immigrant and ethnic minority gay and bisexual men in North America and Europe: A systematic review. Soc Sci Med 179, 115--128. <https://doi.org/10.1016/j.socscimed.2017.02.033>
+
+Li, R., Cai, Y., Wang, Y., Sun, Z., Zhu, C., Tian, Y., Jiang, X., Gan, F., 2016. Psychosocial syndemic associated with increased suicidal ideation among men who have sex with men in Shanghai, China. Health Psychol 35, 148--156. <https://doi.org/10.1037/hea0000265>
+
+Lyons, T., Johnson, A.K., Garofalo, R., 2013. "What Could Have Been Different": A Qualitative Study of Syndemic Theory and HIV Prevention among Young Men Who Have Sex with Men. J HIV AIDS Soc Serv 12, 368--383. <https://doi.org/10.1080/15381501.2013.816211>
+
+Maiorana, A., Kegeles, S.M., Brown, S., Williams, R., Arnold, E.A., 2020. Substance use, intimate partner violence, history of incarceration and vulnerability to HIV among young Black men who have sex with men in a Southern US city. Cult Health Sex. <https://doi.org/10.1080/13691058.2019.1688395>
+
+Martinez, O., Arreola, S., Wu, E., Muñoz-Laboy, M., Levine, E.C., Rutledge, S.E., Hausmann-Stabile, C., Icard, L., Rhodes, S.D., Carballo-Diéguez, A., Rodríguez-Díaz, C.E., Fernandez, M.I., Sandfort, T., 2016. Syndemic factors associated with adult sexual HIV risk behaviors in a sample of Latino men who have sex with men in New York City. Drug Alcohol Depend 166, 258--262. <https://doi.org/10.1016/j.drugalcdep.2016.06.033>
+
+Martinez, O., Brady, K.A., Levine, E., Page, K.R., Zea, M.C., Yamanis, T.J., Grieb, S., Shinefeld, J., Ortiz, K., Davis, W.W., Mattera, B., Martinez-Donate, A., Chavez-Baray, S., Moya, E.M., 2020. Using Syndemics Theory to Examine HIV Sexual Risk Among Latinx Men Who Have Sex with Men in Philadelphia, PA: Findings from the National HIV Behavioral Surveillance. EHQUIDAD 13, 217--236. <https://doi.org/10.15257/ehquidad.2020.0009>
+
+McDaid, L.M., Flowers, P., Ferlatte, O., McAloney-Kocaman, K., Gilbert, M., Frankis, J., 2019. Informing theoretical development of salutogenic, asset-based health improvement to reduce syndemics among gay, bisexual and other men who have sex with men: Empirical evidence from secondary analysis of multi-national, online cross-sectional surveys. SSM Popul Health 10, 100519. <https://doi.org/10.1016/j.ssmph.2019.100519>
+
+Mimiaga, Matthew J, Biello, K.B., Robertson, A.M., Oldenburg, C.E., Rosenberger, J.G., O'Cleirigh, C., Novak, D.S., Mayer, K.H., Safren, S.A., 2015. High prevalence of multiple syndemic conditions associated with sexual risk behavior and HIV infection among a large sample of Spanish- and Portuguese-speaking men who have sex with men in Latin America. Archives of Sexual Behavior 44, 1869--1878. <https://doi.org/10.1007/s10508-015-0488-2>
+
+Mimiaga, Matthew J., OʼCleirigh, C., Biello, K.B., Robertson, A.M., Safren, S.A., Coates, T.J., Koblin, B.A., Chesney, M.A., Donnell, D.J., Stall, R.D., Mayer, K.H., 2015. The Effect of Psychosocial Syndemic Production on 4-Year HIV Incidence and Risk Behavior in a Large Cohort of Sexually Active Men Who Have Sex With Men. J Acquir Immune Defic Syndr 68, 329--336. <https://doi.org/10.1097/QAI.0000000000000475>
+
+Moeller, R.W., Halkitis, P.N., Surrence, K., n.d. The interplay of syndemic production and serosorting in drug-using gay and bisexual men. J. Gay Lesbian Soc. Serv 23, 89--106. <https://doi.org/10.1080/10538720.2010.538007>
+
+Morrison, S.A., Yoong, D., Hart, T.A., MacPherson, P., Bogoch, I., Sivarajah, V., Gough, K., Naccarato, M., Tan, D.H.S., 2018. High prevalence of syndemic health problems in patients seeking post-exposure prophylaxis for sexual exposures to HIV. PLoS ONE 13, e0197998. <https://doi.org/10.1371/journal.pone.0197998>
+
+Muñoz-Laboy, M., Martinez, O., Levine, E.C., Mattera, B.T., Isabel Fernandez, M., 2018. Syndemic Conditions Reinforcing Disparities in HIV and Other STIs in an Urban Sample of Behaviorally Bisexual Latino Men. J Immigr Minor Health 20, 497--501. <https://doi.org/10.1007/s10903-017-0568-6>
+
+Mustanski, B., Andrews, R., Herrick, A., Stall, R., Schnarrs, P.W., 2014. A Syndemic of Psychosocial Health Disparities and Associations With Risk for Attempting Suicide Among Young Sexual Minority Men. Am J Public Health 104, 287--294. <https://doi.org/10.2105/AJPH.2013.301744>
+
+Mustanski, B., Garofalo, R., Herrick, A., Donenberg, G., 2007. Psychosocial health problems increase risk for HIV among urban young men who have sex with men: preliminary evidence of a syndemic in need of attention. Ann Behav Med 34, 37--45. <https://doi.org/10.1007/bf02879919>
+
+Mustanski, B., Phillips, G., Ryan, D.T., Swann, G., Kuhns, L., Garofalo, R., 2017. Prospective Effects of a Syndemic on HIV and STI Incidence and Risk Behaviors in a Cohort of Young Men Who Have Sex with Men. AIDS Behav 21, 845--857. <https://doi.org/10.1007/s10461-016-1607-3>
+
+Ng, R.X., Guadamuz, T.E., Akbar, M., Kamarulzaman, A., Lim, S.H., 2020. Association of co-occurring psychosocial health conditions and HIV infection among MSM in Malaysia: Implication of a syndemic effect. Int. J. STD AIDS 31, 568--578. <https://doi.org/10.1177/0956462420913444>
+
+Nostlinger, C., Reyniers, T., Smekens, T., Apers, H., Laga, M., Wouters, K., Vuylsteke, B., 2020. Drug use, depression and sexual risk behaviour: a syndemic among early pre-exposure prophylaxis (PrEP) adopters in Belgium?. AIDS Care 32, 57--64. <https://doi.org/10.1080/09540121.2020.1739218>
+
+O'Cleirigh, C., Pantalone, D.W., Batchelder, A.W., Hatzenbuehler, M.L., Marquez, S.M., Grasso, C., Safren, S.A., Mayer, K.H., 2018. Co-occurring psychosocial problems predict HIV status and increased health care costs and utilization among sexual minority men. J Behav Med 41, 450--457. <https://doi.org/10.1007/s10865-018-9913-z>
+
+Oginni, O.A., Mapayi, B.M., Afolabi, O.T., Ebuenyi, I.D., Akinsulore, A., Mosaku, K.S., 2019. Association between risky sexual behavior and a psychosocial syndemic among nigerian men who have sex with men. J Gay Lesbian Ment Health, Journal of Gay & Lesbian Psychotherapy 23, 168--185. <https://doi.org/10.1080/19359705.2018.1552640>
+
+Ogunbajo, A., Oke, T., Jin, H., Rashidi, W., Iwuagwu, S., Harper, G.W., Biello, K.B., Mimiaga, M.J., 2019. A syndemic of psychosocial health problems is associated with increased HIV sexual risk among Nigerian gay, bisexual, and other men who have sex with men (GBMSM). AIDS Care 32, 337--342. <https://doi.org/10.1080/09540121.2019.1678722>
+
+O'Leary, A., Jemmott  3rd, J.B., Stevens, R., Rutledge, S.E., Icard, L.D., 2014. Optimism and education buffer the effects of syndemic conditions on HIV status among African American men who have sex with men. AIDS Behav 18, 2080--2088. <https://doi.org/10.1007/s10461-014-0708-0>
+
+Pantalone, D.W., Nelson, K.M., Batchelder, A.W., Chiu, C., Gunn, H.A., Horvath, K.J., 2020. A Systematic Review and Meta-Analysis of Combination Behavioral Interventions Co-Targeting Psychosocial Syndemics and HIV-Related Health Behaviors for Sexual Minority Men. J Sex Res 57, 681--708. <https://doi.org/10.1080/00224499.2020.1728514>
+
+Pantalone, D.W., Valentine, S.E., Woodward, E.N., O'Cleirigh, C., 2018. Syndemic Indicators Predict Poor Medication Adherence and Increased Health Care Utilization for Urban HIV-Positive Men Who Have Sex with Men. J Gay Lesbian Ment Health 22, 71--87. <https://doi.org/10.1080/19359705.2017.1389794>
+
+Parsons, J.T., Grov, C., Golub, S.A., 2012. Sexual compulsivity, co-occurring psychosocial health problems, and HIV risk among gay and bisexual men: further evidence of a syndemic. Am J Public Health 102, 156--162. <https://doi.org/10.2105/AJPH.2011.300284>
+
+Parsons, J.T., Millar, B.M., Moody, R.L., Starks, T.J., Rendina, H.J., Grov, C., 2017. Syndemic conditions and HIV transmission risk behavior among HIV-negative gay and bisexual men in a U.S. national sample. Health Psychol 36, 695--703. <https://doi.org/10.1037/hea0000509>
+
+Parsons, J.T., Rendina, H.J., Moody, R.L., Ventuneac, A., Grov, C., 2015. Syndemic production and sexual compulsivity/hypersexuality in highly sexually active gay and bisexual men: further evidence for a three group conceptualization. Arch Sex Behav 44, 1903--1913. <https://doi.org/10.1007/s10508-015-0574-5>
+
+Perry, N.S., Nelson, K.M., Carey, M.P., 2019. Diversity of Psychosocial Syndemic Indicators and Associations with Sexual Behavior with Male and Female Partners Among Early Adolescent Sexual Minority Males. LGBT Health 6, 386--392. <https://doi.org/10.1089/lgbt.2019.0113>
+
+Pitpitan, E.V., Smith, L.R., Goodman-Meza, D., Torres, K., Semple, S.J., Strathdee, S.A., Patterson, T.L., 2016. "Outness" as a Moderator of the Association Between Syndemic Conditions and HIV Risk-Taking Behavior Among Men Who Have Sex with Men in Tijuana, Mexico. AIDS Behav 20, 431--438. <https://doi.org/10.1007/s10461-015-1172-1>
+
+Pollard, A., Nadarzynski, T., Llewellyn, C., 2018. Syndemics of stigma, minority-stress, maladaptive coping, risk environments and littoral spaces among men who have sex with men using chemsex. Cult Health Sex 20, 411--427. <https://doi.org/10.1080/13691058.2017.1350751>
+
+Quinn, B., Gorbach, P.M., Okafor, C.N., Heinzerling, K.G., Shoptaw, S., 2020. Investigating possible syndemic relationships between structural and drug use factors, sexual HIV transmission and viral load among men of colour who have sex with men in Los Angeles County. Drug Alcohol Rev. 39, 116--127. <https://doi.org/10.1111/dar.13026>
+
+Quinn, K.G., 2019. Applying an intersectional framework to understand syndemic conditions among young Black gay, bisexual, and other men who have sex with men. Soc Sci Med. <https://doi.org/10.1016/j.socscimed.2019.112779>
+
+Reed, S.J., Miller, R.L., 2016. Thriving and Adapting: Resilience, Sense of Community, and Syndemics among Young Black Gay and Bisexual Men. Am J Community Psychol 57, 129--143. <https://doi.org/10.1002/ajcp.12028>
+
+Reisner, S.L., White Hughto, J.M., Pardee, D., Sevelius, J., 2016. Syndemics and gender affirmation: HIV sexual risk in female-to-male trans masculine adults reporting sexual contact with cisgender males. Int J STD AIDS 27, 955--966. <https://doi.org/10.1177/0956462415602418>
+
+Rooney, B.M., Tulloch, T.G., Blashill, A.J., 2018. Psychosocial Syndemic Correlates of Sexual Compulsivity Among Men Who Have Sex with Men: A Meta-Analysis. Arch Sex Behav 47, 75--93. <https://doi.org/10.1007/s10508-017-1032-3>
+
+Safren, S.A., Blashill, A.J., Lee, J.S., O'Cleirigh, C., Tomassili, J., Biello, K.B., Mimiaga, M.J., Mayer, K.H., 2018. Condom-use self-efficacy as a mediator between syndemics and condomless sex in men who have sex with men (MSM). Health Psychol 37, 820--827. <https://doi.org/10.1037/hea0000617>
+
+Santos, G.-M., Do, T., Beck, J., Makofane, K., Arreola, S., Pyun, T., Hebert, P., Wilson, P.A., Ayala, G., 2014. Syndemic conditions associated with increased HIV risk in a global sample of men who have sex with men. Sex Transm Infect 90, 250--253. <https://doi.org/10.1136/sextrans-2013-051318>
+
+Scheer, J.R., Clark, K.A., Maiolatesi, A.J., Pachankis, J.E., 2021. Syndemic profiles and sexual minority men's hiv-risk behavior: A latent class analysis. Arch Sex Behav. <https://doi.org/10.1007/s10508-020-01850-4>
+
+Semple, S.J., Stockman, J.K., Goodman-Meza, D., Pitpitan, E.V., Strathdee, S.A., Chavarin, C.V., Rangel, G., Torres, K., Patterson, T.L., 2017. Correlates of Sexual Violence Among Men Who Have Sex With Men in Tijuana, Mexico. Arch Sex Behav 46, 1011--1023. <https://doi.org/10.1007/s10508-016-0747-x>
+
+Shuper, P.A., Joharchi, N., Bogoch, I.I., Loutfy, M., Crouzat, F., El-Helou, P., Knox, D.C., Woodward, K., Rehm, J., 2020. Alcohol consumption, substance use, and depression in relation to HIV Pre-Exposure Prophylaxis (PrEP) nonadherence among gay, bisexual, and other men-who-have-sex-with-men. BMC Public Health 20, 1782. <https://doi.org/10.1186/s12889-020-09883-z>
+
+Stall, R., Mills, T.C., Williamson, J., Hart, T., Greenwood, G., Paul, J., Pollack, L., Binson, D., Osmond, D., Catania, J.A., 2003. Association of Co-Occurring Psychosocial Health Problems and Increased Vulnerability to HIV/AIDS among Urban Men Who Have Sex with Men. Am J Public Health 93, 939--942. <https://doi.org/10.2105/AJPH.93.6.939>
+
+Starks, T.J., Millar, B.M., Eggleston, J.J., Parsons, J.T., 2014. Syndemic factors associated with HIV risk for gay and bisexual men: comparing latent class and latent factor modeling. AIDS Behav 18, 2075--2079. <https://doi.org/10.1007/s10461-014-0841-9>
+
+Starks, T.J., Tuck, A.N., Millar, B.M., Parsons, J.T., 2016. Linking Syndemic Stress and Behavioral Indicators of Main Partner HIV Transmission Risk in Gay Male Couples. AIDS Behav 20, 439--448. <https://doi.org/10.1007/s10461-015-1248-y>
+
+Storholm, E.D., Halkitis, P.N., Siconolfi, D.E., Moeller, R.W., 2011. Cigarette smoking as part of a syndemic among young men who have sex with men ages 13-29 in New York City. J Urban Health 88, 663--676. <https://doi.org/10.1007/s11524-011-9563-8>
+
+Sullivan, M.C., Eaton, L.A., 2020. Intersecting barriers to prep awareness and uptake in black men who have sex with men in atlanta, ga: A syndemic perspective. Int J Behav Med. <https://doi.org/10.1007/s12529-020-09925-1>
+
+Tan, D.H.S., Leon-Carlyle, M., Mills, R., Moses, E., Carvalhal, A., 2016. Self-administered screening for syndemic mental health problems should be routinely implemented among MSM PrEP users. J Gay Lesbian Ment Health, Journal of Gay & Lesbian Mental Health 20, 13--20. <https://doi.org/10.1080/19359705.2015.1105765>
+
+Tomori, C., McFall, A.M., Solomon, S.S., Srikrishnan, A.K., Anand, S., Balakrishnan, P., Mehta, S.H., Celentano, D.D., 2018. Is there synergy in syndemics? Psychosocial conditions and sexual risk among men who have sex with men in India. Soc Sci Med 206, 110--116. <https://doi.org/10.1016/j.socscimed.2018.03.032>
+
+Tulloch, T.G., Rotondi, N.K., Ing, S., Myers, T., Calzavara, L.M., Loutfy, M.R., Hart, T.A., 2015. Retrospective reports of developmental stressors, syndemics, and their association with sexual risk outcomes among gay men. Arch Sex Behav 44, 1879--1889. <https://doi.org/10.1007/s10508-015-0479-3>
+
+Turpin, R.E., Dyer, T.V., Dangerfield, D.T. 2nd, Liu, H., Mayer, K.H., 2020a. Syndemic latent transition analysis in the HPTN 061 cohort: Prospective interactions between trauma, mental health, social support, and substance use. Drug Alcohol Depend 214. <https://doi.org/10.1016/j.drugalcdep.2020.108106>
+
+Turpin, R.E., Salerno, J.P., Rosario, A.D., Boekeloo, B., 2020b. Victimization, Substance Use, Depression, and Sexual Risk in Adolescent Males Who Have Sex with Males: A Syndemic Latent Profile Analysis. Arch Sex Behav. <https://doi.org/10.1007/s10508-020-01685-z>
+
+Van den Berghe, W., Nöstlinger, C., Laga, M., 2014. Syndemic and other risk factors for unprotected anal intercourse among an online sample of belgian HIV negative men who have sex with men. AIDS Behav 18, 50--58. <https://doi.org/10.1007/s10461-013-0516-y>
+
+Walters, S.M., Braksmajer, A., Coston, B., Yoon, I., Grov, C., Downing, M.J., Teran, R., Hirshfield, S., 2020. A Syndemic Model of Exchange Sex Among HIV-Positive Men Who Have Sex With Men. Arch Sex Behav 49, 1965--1978. <https://doi.org/10.1007/s10508-020-01628-8>
+
+Wang, Ying, Wang, Z., Jia, M., Liang, A., Yuan, D., Sun, Z., Gan, F., Wang, Yichen, Cai, Y., Zhang, Z., 2017. Association between a syndemic of psychosocial problems and unprotected anal intercourse among men who have sex with men in Shanghai, China. BMC Infect Dis 17, 46. <https://doi.org/10.1186/s12879-016-2132-8>
+
+Wang, Z., Zhao, X., Zhang, Z., Luo, M., Shen, Q., Dong, Y., Wang, Y., Cai, Y., 2018. Co-Occurring Psychosocial Problems and Multiple Sexual Partners among Men Who Have Sex with Men in Shanghai, China: A Syndemic Approach. J Sex Res 55, 892--901. <https://doi.org/10.1080/00224499.2017.1399333>
+
+Woodward, E.N., Banks, R.J., Marks, A.K., Pantalone, D.W., 2017. Identifying Resilience Resources for HIV Prevention Among Sexual Minority Men: A Systematic Review. AIDS Behav 2860--2873. <https://doi.org/10.1007/s10461-016-1608-2>
+
+Wu, E., 2018. Childhood sexual abuse among Black men who have sex with men: A cornerstone of a syndemic? PLoS ONE 13, e0206746--e0206746. <https://doi.org/10.1371/journal.pone.0206746>
+
+Yu, F., Nehl, E.J., Zheng, T., He, N., Berg, C.J., Lemieux, A.F., Lin, L., Tran, A., Sullivan, P.S., Wong, F.Y., 2013. A syndemic including cigarette smoking and sexual risk behaviors among a sample of MSM in Shanghai, China. Drug Alcohol Depend 132, 265--270. <https://doi.org/10.1016/j.drugalcdep.2013.02.016>
+
+Zepf, R., Greene, M., Hessol, N.A., Johnson, M.O., Santos, G.M., John, M.D., Dawson-Rose, C., 2020. Syndemic conditions and medication adherence in older men living with HIV who have sex with men. AIDS Care 32, 1610--1616. <https://doi.org/10.1080/09540121.2020.1772954>
+
+Zhang, J., O'Leary, A., Jemmott  3rd, J.B., Icard, L.D., Rutledge, S.E., 2019. Syndemic conditions predict lower levels of physical activity among African American men who have sex with men: A prospective survey study. PLOS One 14, e0213439--e0213439. <https://doi.org/10.1371/journal.pone.0213439>
 
 \newpage
 
-### B. Measurement tables
+## C. Measurement tables
 
 ```{r depression_table, tab.id = "DepressionTab", echo=FALSE}
 
