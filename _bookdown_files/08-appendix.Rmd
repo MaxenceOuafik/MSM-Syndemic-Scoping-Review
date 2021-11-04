@@ -2,10 +2,10 @@
 
 ## A. PRISMA-ScR checklist
 
-```{r PRISMA, tab.id = "PRISMA-ScR", echo=FALSE, message= FALSE,warning=FALSE}
+```{r PRISMA-ScR, tab.id = "PRISMA-ScR", echo=FALSE, message= FALSE,warning=FALSE}
 source("./scripts/supplementary_tables/PRISMA-ScR.R", local = knitr::knit_global())
 
-.PRISMA_FT
+.PRISMA_ft
 
 ```
 
