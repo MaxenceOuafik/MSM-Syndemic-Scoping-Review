@@ -1,7 +1,7 @@
 source("./scripts/supplementary_tables/general.R")
 
 .CSA_measurement <- measurement %>%
-  select(c(1, 61:63)) %>%
+  select(c(1, 63:65)) %>%
   filter(!is.na(CSA_type)) %>%
   add_count(CSA_type, name = "type_n") %>%
   add_count(CSA_scale_criteria, name = "criteria_n") %>%
@@ -37,16 +37,12 @@ source("./scripts/supplementary_tables/general.R")
   footnote(i = 1, j = 3, part = "header", 
            value = as_paragraph("Finkelhor definition : any sexual experience before 13 years old with someone at least 5 years older or any sexual experience between 13 and 17 years old with someone at least 10 years older (Finkelhor 1994)")) %>%
   merge_v(j = c(1:3, 5), part = "body") %>%
-  merge_at(j = 4, i = 1:6, part = "body") %>%
-  merge_at(j = 4, i = 7:12, part = "body") %>%
-  merge_at(j = 4, i = 13:16, part = "body") %>%
-  merge_at(j = 4, i = 17:18, part = "body") %>%
-  merge_at(j = 4, i = 29:31, part = "body") %>%
-  merge_at(j = 4, i = 32:33, part = "body") %>%
-  merge_h_range(i = 1:28, j1 = 3, j2=5, part = "body") %>%
+  merge_at(j = 4, i = 32:34, part = "body") %>%
+  merge_at(j = 4, i = 35:36, part = "body") %>%
+  merge_h_range(i = 1:31, j1 = 3, j2=5, part = "body") %>%
   hline(j = 3, border = .borders, part = "body") %>%
   hline(j = 5:6, border = .borders, part = "body") %>%
-  hline(i = 28, border = .big.border, part = "body") %>%
+  hline(i = 31, border = .big.border, part = "body") %>%
   align(align = "center", j=1:5, part = "body") %>%
   vline(j = 5, border = .borders, part = "body") %>%
   align(align = "right", j = 6, part = "body") %>%

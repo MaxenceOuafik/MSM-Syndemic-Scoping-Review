@@ -2,9 +2,9 @@ source("./scripts/supplementary_tables/general.R")
 
 .anxiety_measurement <- measurement %>%
   filter(!is.na(anxiety_type)) %>%
-  select(c(1, 42:45, 47:56)) %>%
+  select(c(1, 43:46, 48:58)) %>%
   unite(col = disorder, 2:5, sep = ", ", na.rm = T) %>%
-  unite(col = criteria, 3:11, sep = ", ", na.rm = T) %>%
+  unite(col = criteria, 3:12, sep = ", ", na.rm = T) %>%
   add_count(disorder, name = "disorder_n") %>%
   add_count(criteria, name = "criteria_n") %>%
   relocate("reference", .after = "anxiety_cutoff_period") %>%

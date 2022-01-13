@@ -1,11 +1,12 @@
 .framework_quantitative <- summary_quantitative %>%
-  select(1:3, 286:290) %>%
+  select(1:3, 291:296) %>%
   unite("reference", 1:3, na.rm = T, sep = " ") %>%
   filter(!is.na(minority_stress)|!is.na(social_cognitive)|
            !is.na(salutogenesis)|
            !is.na(resilience)|
-           !is.na(intersectionality)) %>%
-  unite("additional_framework", 2:6, sep = " ", na.rm = T) 
+           !is.na(intersectionality)|
+           !is.na(ecological)) %>%
+  unite("additional_framework", 2:7, sep = " ", na.rm = T) 
   
 
 .framework_qualitative <- summary_qualitative %>%

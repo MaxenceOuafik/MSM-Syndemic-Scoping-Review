@@ -76,15 +76,15 @@ for (i in 5:12) {
                     reference = "References") %>%
   add_footer_lines(values = .substances_prev[["footer"]]) %>%
   merge_v(j = c(1, 3), part = "body") %>%
-  merge_at(j = 2, i = 1:6, part = "body") %>%
-  merge_at(j = 2, i = 7:10, part = "body") %>%
-  merge_at(j = 2, i = 11:13, part = "body") %>%
-  merge_at(j = 2, i = 14:16, part = "body") %>%
-  merge_at(j = 2, i = 17:18, part = "body") %>%
-  merge_at(j = 2, i = 19:20, part = "body") %>%
+  merge_at(j = 2, i = 1:9, part = "body") %>%
+  merge_at(j = 2, i = 10:13, part = "body") %>%
+  merge_at(j = 2, i = 14:17, part = "body") %>%
+  merge_at(j = 2, i = 18:20, part = "body") %>%
   merge_at(j = 2, i = 21:22, part = "body") %>%
+  merge_at(j = 2, i = 23:24, part = "body") %>%
+  merge_at(j = 2, i = 25:26, part = "body") %>%
+  merge_at(j = 2, i = 27:28, part = "body") %>%
   hline(j = c(1, 3, 4), border = .borders, part = "body") %>%
-  hline(i = 43, border = .big.border, part = "body") %>%
   align(align = "center", j=1:4, part = "body") %>%
   vline(j = 3, border = .borders, part = "body") %>%
   align(align = "right", j = 4, part = "body") %>%

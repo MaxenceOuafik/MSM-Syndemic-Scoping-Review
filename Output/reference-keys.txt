@@ -27,7 +27,7 @@ subpopulations
 syndemic-conditions
 outcomes
 statistics-and-interaction
-additional-framework
+additional-frameworks
 strengths-and-limitations
 conclusion-and-recommendations
 funding

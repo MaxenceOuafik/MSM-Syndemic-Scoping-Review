@@ -1,7 +1,7 @@
 source("./scripts/supplementary_tables/general.R")
 
 .polysubstance_measurement <- measurement %>%
-  select(c(1, 64:66)) %>%
+  select(c(1, 66:68)) %>%
   filter(!is.na(polysubstance_number)) %>%
   add_count(polysubstance_number, name = "number_n") %>%
   relocate("number_n", .after = "polysubstance_number") %>%
@@ -30,6 +30,7 @@ source("./scripts/supplementary_tables/general.R")
   merge_at(j = 3, i = 5:16, part = "body") %>%
   merge_at(j = 3, i = 17:18, part = "body") %>%
   merge_at(j = 3, i = 19:25, part = "body") %>%
+  merge_at(j = 3, i = 26:27, part = "body") %>%
   hline(j = c(1, 3:5), border = .borders, part = "body") %>%
   align(align = "center", j=1:5, part = "body") %>%
   vline(j = 3:4, border = .borders, part = "body") %>%

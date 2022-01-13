@@ -2,7 +2,7 @@ library(flextable)
 library(officer)
 
 measurement <- summary_quantitative %>%
-  select (c(1:3, 57:179))
+  select (c(1:3, 57:183))
 measurement <- measurement %>%
   unite(col = "author_year", c(authors, year), sep = " ") %>%
   unite(col = "reference", c(author_year, letter), sep = "", na.rm = TRUE)

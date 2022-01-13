@@ -1,9 +1,9 @@
 .outcomes <- summary_quantitative %>%
-  select(1:3, 182:201) %>%
+  select(1:3, 184:205) %>%
   unite("reference", 1:3, sep =" ", na.rm = T)
 
 .outcomes_measurement <- summary_quantitative %>%
-  select(1:3, 202:251) %>%
+  select(1:3, 206:255) %>%
   unite("reference", 1:3, sep =" ", na.rm = T)
 
 .outcomes_sex_risk_measurement <- .outcomes_measurement %>%
@@ -24,4 +24,6 @@
   sum(!is.na(.outcomes$outcome_HIV)) +
   sum(!is.na(.outcomes$outcome_VL)) +
   sum(!is.na(.outcomes$outcome_screening)) +
-  sum(!is.na(.outcomes$outcome_HIV_care))
+  sum(!is.na(.outcomes$outcome_HIV_care)) +
+  sum(!is.na(.outcomes$transmission)) +
+  sum(!is.na(.outcomes$rectal_cytokines))

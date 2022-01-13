@@ -1,7 +1,7 @@
 source("./scripts/supplementary_tables/general.R")
 
 .binge_measurement <- measurement %>%
-  select(c(1, 35:36)) %>%
+  select(c(1, 36:37)) %>%
   filter(!is.na(binge_episodes)) %>%
   add_count(binge_episodes, name = "episodes_n") %>%
   relocate("episodes_n", .after = "binge_episodes") %>%

@@ -1,5 +1,5 @@
 reference_table_quantitative <- summary_quantitative %>%
-  select(1:6, 8, 10, 11:56, 182:201, 252:254, 259:278, 285) 
+  select(1:6, 8, 10, 11:56, 184:205, 256:258, 263:283, 290) 
 
 # Human readable data for subpopulation
 reference_table_quantitative[reference_table_quantitative == "AMSM"] <- "Adolescent MSM"
@@ -67,6 +67,9 @@ reference_table_quantitative[reference_table_quantitative == "outcome_MSMW"] <- 
 reference_table_quantitative[reference_table_quantitative == "outcome_syndemic"] <- "syndemic conditions as the outcomes"
 reference_table_quantitative[reference_table_quantitative == "outcome_help"] <- "help-seeking behaviors"
 reference_table_quantitative[reference_table_quantitative == "outcome_substance"] <- "substance use"
+reference_table_quantitative[reference_table_quantitative == "transmission"] <- "HIV transmission"
+reference_table_quantitative[reference_table_quantitative == "rectal_cytokines"] <- "elevation in rectal cytokines/chemokines"
+
 
 #Human readable data for statistics
 reference_table_quantitative[reference_table_quantitative == "score"] <- "regression analysis using a summation score"
@@ -89,6 +92,7 @@ reference_table_quantitative[reference_table_quantitative == "not_interaction"] 
 reference_table_quantitative[reference_table_quantitative == "hierarchical"] <- "hierarchical negative binomial regression"
 reference_table_quantitative[reference_table_quantitative == "logistic"] <- "multivariate logistic regression"
 reference_table_quantitative[reference_table_quantitative == "biserial"] <- "point-biserial correlation"
+reference_table_quantitative[reference_table_quantitative == "synergy_factor"] <- "synergy factor analysis"
 
 
 reference_table_quantitative <- reference_table_quantitative %>%
@@ -101,8 +105,8 @@ reference_table_quantitative <- reference_table_quantitative %>%
                           intervention_control), sep = " ", na.rm = TRUE) %>%
   unite(col = "subpopulation", c(subpopulation, disaggregated), sep = ", ", na.rm = TRUE) %>%
   unite(col = "syndemic_conditions", 5:50, sep = ", ", na.rm = TRUE) %>%
-  unite(col = "outcomes", 6:25, sep = ", ", na.rm = TRUE) %>%
-  unite(col = "statistics", 7:26, sep = ", ", na.rm = TRUE) %>%
+  unite(col = "outcomes", 6:27, sep = ", ", na.rm = TRUE) %>%
+  unite(col = "statistics", 7:27, sep = ", ", na.rm = TRUE) %>%
   arrange(reference)
 
 # Add footnote for PTSD, IPV, IDU, CSA, AUD, STI, ADHD

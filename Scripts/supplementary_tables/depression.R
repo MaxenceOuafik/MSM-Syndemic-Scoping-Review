@@ -35,32 +35,31 @@ source("./scripts/supplementary_tables/general.R")
                     depression_cutoff = "Cutoff used",
                     reference = "References") %>%
   merge_v(j = c(1, 2, 3), part = "body") %>%
-  merge_at(j = 4, i = 1:24, part = "body") %>%
-  merge_at(j = 4, i = 25:34, part = "body") %>%
-  merge_at(j = 4, i = 35:42, part = "body") %>%
-  merge_at(j = 4, i = 43:47, part = "body") %>%
-  merge_at(j = 4, i = 48:51, part = "body") %>%
-  merge_at(j = 4, i = 52:54, part = "body") %>%
-  merge_at(j = 4, i = 55:57, part = "body") %>%
-  merge_at(j = 4, i = 58:59, part = "body") %>%
-  merge_at(j = 4, i = 60:61, part = "body") %>%
-  merge_at(j = 4, i = 67:69, part = "body") %>%
-  merge_at(j = 4, i = 70:71, part = "body") %>%
-  merge_at(j = 4, i = 72:73, part = "body") %>%
-  merge_at(j = 5, i = 1:11, part = "body") %>%
-  merge_at(j = 5, i = 1:11, part = "body") %>%
-  merge_at(j = 5, i = 13:20, part = "body") %>%
-  merge_at(j = 5, i = 22:24, part = "body") %>%
-  merge_at(j = 5, i = 25:34, part = "body") %>%
-  merge_at(j = 5, i = 35:38, part = "body") %>%
-  merge_at(j = 5, i = 40:41, part = "body") %>%
-  merge_at(j = 5, i = 45:47, part = "body") %>%
-  merge_at(j = 5, i = 52:54, part = "body") %>%
-  merge_at(j = 5, i = 56:57, part = "body") %>%
-  merge_h_range(i = 66:76, j1 = 3, j2=5, part = "body") %>%
+  merge_at(j = 4, i = 1:26, part = "body") %>%
+  merge_at(j = 4, i = 27:37, part = "body") %>%
+  merge_at(j = 4, i = 38:46, part = "body") %>%
+  merge_at(j = 4, i = 47:51, part = "body") %>%
+  merge_at(j = 4, i = 52:55, part = "body") %>%
+  merge_at(j = 4, i = 56:58, part = "body") %>%
+  merge_at(j = 4, i = 59:61, part = "body") %>%
+  merge_at(j = 4, i = 62:63, part = "body") %>%
+  merge_at(j = 4, i = 64:65, part = "body") %>%
+  merge_at(j = 4, i = 71:73, part = "body") %>%
+  merge_at(j = 4, i = 74:75, part = "body") %>%
+  merge_at(j = 4, i = 76:77, part = "body") %>%
+  merge_at(j = 5, i = 1:12, part = "body") %>%
+  merge_at(j = 5, i = 14:21, part = "body") %>%
+  merge_at(j = 5, i = 23:25, part = "body") %>%
+  merge_at(j = 5, i = 27:37, part = "body") %>%
+  merge_at(j = 5, i = 38:41, part = "body") %>%
+  merge_at(j = 5, i = 43:45, part = "body") %>%
+  merge_at(j = 5, i = 49:51, part = "body") %>%
+  merge_at(j = 5, i = 56:58, part = "body") %>%
+  merge_at(j = 5, i = 60:61, part = "body") %>%
+  merge_h_range(i = 71:80, j1 = 3, j2=5, part = "body") %>%
   hline(j = 3, border = .borders, part = "body") %>%
   hline(j = 5:6, border = .borders, part = "body") %>%
-  hline(i = 65, border = .big.border, part = "body") %>%
+  hline(i = 70, border = .big.border, part = "body") %>%
   align(align = "center", j=1:5, part = "body") %>%
   vline(j = 5, border = .borders, part = "body") %>%
   align(align = "right", j = 6, part = "body") %>%

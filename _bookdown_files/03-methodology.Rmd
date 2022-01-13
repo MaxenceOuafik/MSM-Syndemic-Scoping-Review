@@ -1,26 +1,26 @@
 ---
-bibliography: references.bib
+bibliography: ./_bookdown_files/references.bib
 ---
 
 # Methodology
 
-The complete protocol of this scoping review was already published elsewhere [Anonymous 2020].
+The complete protocol of this scoping review was published in 2020 [Anonymous 2020].
 
-Briefly, we applied the framework suggested by Arskey and O'Malley @arksey2005, with enhancements from Levac et al. @levac2010. We also took into account the recommendations formulated by Colqhoun et al. @colquhoun2014 and the updated guidance by Peters and colleagues @peters2020. We also followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses etension for Scoping Reviews (PRISMA-ScR) @Tricco2018. The completed checklist can be found in \@ref(tab:PRISMA-ScR) of the supplementary materials.
+We applied the framework suggested by Arskey and O'Malley @arksey2005, with enhancements from Levac et al. @levac2010. We also took into account the recommendations formulated by Colqhoun et al. @colquhoun2014 and the updated guidance by Peters and colleagues @peters2020. We followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews (PRISMA-ScR) @Tricco2018. The completed checklist can be found in \@ref(tab:PRISMA-ScR) of the supplementary materials.
 
 Screening and data charting was completed using DistillerSR (Evidence Partners, Ottawa, Canada). Scripts, statistics, charts, tables and the present paper was generated using R @rcoreteam2020, RStudio @rstudioteam2020 and appropriate packages. To ensure the complete transparency and reproducibility of this article, our data manager uploaded every data used to generate this article on Open Science Framework (DOI : [masked for the anonymity of the review])
 
-Our main research question, *"What is known about Syndemic Theory applied to MSM"* was subdivided into three sub-questions :
+Our main research question : *"What is known about Syndemic Theory applied to MSM"* was subdivided into three sub-questions :
 
 1.  *"How are studies concerning Syndemic Theory applied to MSM conducted ?"*;
 2.  *"How is the concept of interaction explored in syndemic research applied to MSM ?"* and
 3.  *"What were the key findings of these studies ?"*.
 
-To answer those questions, we conducted a systematic search strategy in the following databases : Medline, PsycInfo, Scopus, Cochrane Central Register of Controlled Trials and ProQuest Sociological Abstracts using complex search equations to include every synonym for "men who have sex with men". The complete search strategy for every database can be found in the Supplementary Material of our protocol. No date limit was applied given the relative novelty of the syndemic literature. A first search using this strategy was conducted the 11th of June 2020 and was subsequently updated on the 09th of February 2021 and finally on the 09th of November 2021.
+To answer those questions, we conducted a systematic search strategy in the following databases : Medline, PsycInfo, Scopus, Cochrane Central Register of Controlled Trials and ProQuest Sociological Abstracts using complex search equations to include every synonym for "men who have sex with men". The complete search strategy for every database can be found in the Supplementary Material of our protocol. No date limit was applied given the relative novelty of the syndemic literature. A first search using this strategy was conducted the 11th of June 2020 and was subsequently updated on the 9th of February 2021 and finally on the 11th of November 2021.
 
-Search results were downloaded into .RIS files and imported into DistillerSR. After duplicate removal, we screened the title and abstracts for eligibility, using forms generated with DistillerSR by the authors. Articles that met the inclusion criteria or for which eligibility was unclear passed through a second wave in which the full texts were assessed for eligibility. As per protocol, 10% of the titles and abstracts were screened by two reviewers. A Kappa inter-rater reliability score was computed using DistillerSR and was equal to 0.86. As it exceeded our cutoff of 0.8, the rest of the screening process was conducted by the main investigator only. Research were included if they met the following criteria :
+Search results were downloaded into .RIS files and imported into DistillerSR. After duplicate removal, we screened the title and abstracts for eligibility, using forms generated with DistillerSR by the authors. Articles that met the inclusion criteria or for which eligibility was unclear underwent a second screening in which the full texts were assessed for eligibility. As per the protocol, 10% of the titles and abstracts were screened by two reviewers. A Kappa inter-rater reliability score was computed using DistillerSR and was equal to 0.86. As it exceeded our cutoff of 0.8, the rest of the screening process was conducted by the main investigator only. Articles were included if they met the following criteria :
 
--   MSM were either the only population studied in the paper or, if studied alongside other populations, such as transgender women, disaggregated data must have been available for MSM
+-   MSM was either the only population studied in the paper or, if studied alongside other populations, such as transgender women, disaggregated data must have been available for MSM
 
 -   Syndemic framework was the main focus of the study
 
@@ -32,10 +32,10 @@ Search results were downloaded into .RIS files and imported into DistillerSR. Af
 
 After inclusion of relevant studies, we hand-searched the reference lists to manually add pertinent studies. The same selection process was then applied and these papers are marked as "Additional records identified through other sources" in the study selection flow diagram.
 
-Data charting was also performed using forms generated in DistillerSR by the authors. The complete list of all variables for which data were sought can be found in our protocol. Furthermore, the README file of our *Data* subdirectory contains an exhaustive definition of every variable included. Two departures were made from our initial protocol :
+Data charting was also performed using forms generated in DistillerSR by the authors. The complete list of all variables for which data were sought can be found in our protocol [Anonymous 2020]. Furthermore, the README file of our *Data* subdirectory contains an exhaustive definition of every variable included. Two departures were made from our initial protocol :
 
 1.  We included a variable to chart any additional framework the authors might have used
 
 2.  We included variables to chart data for systematic reviews and meta-analyses. These two kind of studies were omitted from our initial protocol as we were not aware of the existence of systematic reviews on syndemic theory applied to MSM by the time we published the protocol. The variables included were general characteristics (authors, year, location, design, total sample size), purpose of the review, number of studies included, hypothesis for biological or bio-social interaction, key findings and additional framework.
 
-Data was then collated, summarised and reported using R, RStudio and relevant packages. Charts were generated to better visualize year of publication, location, population and syndemic conditions studied. Tables were generated to summarise the main variables of every article as well as the measurement methods of the most studied syndemic conditions. These tables can be found respectively in part B and C of the supplementary materials of this paper. Unfortunately, due do time constraints, we did not create any evidence map. However, we generated a SQL database alongside our data. This database contains every study included and provide scholars in the field the opportunity to search relevant studies using complex queries (e.g. to find every study using the CESD to measure depression on Black MSM between 2014 and 2021).
+Data was then collated, summarised and reported using R, RStudio and relevant packages. Charts were generated to better visualize year of publication, location, population and syndemic conditions studied. Tables were generated to summarise the main variables of every article as well as the measurement methods of the most studied syndemic conditions. These tables can be found respectively in part B and C of the supplementary materials of this paper. Unfortunately, due do time constraints, we did not create any evidence map. However, we generated a SQL database alongside our data. This database contains every study included and provide scholars in the field the opportunity to search relevant studies using complex queries.

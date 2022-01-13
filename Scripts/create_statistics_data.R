@@ -12,7 +12,7 @@
   
 
 .score_data <- summary_quantitative %>%
-  select(259:274, 276:278) %>%
-  unite(col = "statistics", 1:19, sep = ", ", na.rm = TRUE) %>%
+  select(263:278, 280:283) %>%
+  unite(col = "statistics", 1:20, sep = ", ", na.rm = TRUE) %>%
   filter(statistics == "score") %>%
   nrow()

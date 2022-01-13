@@ -2,7 +2,7 @@ source("./scripts/supplementary_tables/general.R")
 
 
 .IPV_measurement <- measurement %>%
-  select(c(1, 24:34)) %>%
+  select(c(1, 25:35)) %>%
   filter(!is.na(IPV_type)) %>%
   add_count(IPV_type, name = "type_n") %>%
   unite(col = IPV_scale_criteria, 3:11, sep = ", ", na.rm = T) %>%
@@ -14,11 +14,11 @@ source("./scripts/supplementary_tables/general.R")
 
 
 .IPV_prevalence <- list()
-for (i in 25:29) {
-  .IPV_prevalence$sum[[i-24]] <- sum(!is.na(measurement[i]))
-  .IPV_prevalence$perc[[i-24]] <-  percent(sum((!is.na(measurement[i]))/sum(!is.na(measurement$IPV_type))))
-  names(.IPV_prevalence[["sum"]])[[i-24]] <- names(measurement[i])
-  names(.IPV_prevalence[["perc"]])[[i-24]] <- names(measurement[i])
+for (i in 26:30) {
+  .IPV_prevalence$sum[[i-25]] <- sum(!is.na(measurement[i]))
+  .IPV_prevalence$perc[[i-25]] <-  percent(sum((!is.na(measurement[i]))/sum(!is.na(measurement$IPV_type))))
+  names(.IPV_prevalence[["sum"]])[[i-25]] <- names(measurement[i])
+  names(.IPV_prevalence[["perc"]])[[i-25]] <- names(measurement[i])
 }
 .IPV_prevalence$footer <- c(paste0("Physical intimate partner violence: ", 
                                   .IPV_prevalence[["sum"]][["physical IPV"]],
@@ -73,17 +73,17 @@ for (i in 25:29) {
                     reference = "References") %>%
   add_footer_lines(values = .IPV_prevalence[["footer"]]) %>%
   merge_v(j = c(1, 2, 3, 5), part = "body") %>%
-  merge_at(j = 4, i = 1:12, part = "body") %>%
-  merge_at(j = 4, i = 13:20, part = "body") %>%
-  merge_at(j = 4, i = 21:27, part = "body") %>%
-  merge_at(j = 4, i = 28:33, part = "body") %>%
-  merge_at(j = 4, i = 34:35, part = "body") %>%
+  merge_at(j = 4, i = 1:14, part = "body") %>%
+  merge_at(j = 4, i = 15:22, part = "body") %>%
+  merge_at(j = 4, i = 23:29, part = "body") %>%
+  merge_at(j = 4, i = 30:35, part = "body") %>%
   merge_at(j = 4, i = 36:37, part = "body") %>%
-  merge_at(j = 4, i = 39:41, part = "body") %>%
-  merge_at(j = 4, i = 42:44, part = "body") %>%
+  merge_at(j = 4, i = 38:39, part = "body") %>%
+  merge_at(j = 4, i = 41:43, part = "body") %>%
+  merge_at(j = 4, i = 44:46, part = "body") %>%
   hline(j = 3, border = .borders, part = "body") %>%
   hline(j = 5:6, border = .borders, part = "body") %>%
-  hline(i = 38, border = .big.border, part = "body") %>%
+  hline(i = 40, border = .big.border, part = "body") %>%
   align(align = "center", j=1:5, part = "body") %>%
   vline(j = 5, border = .borders, part = "body") %>%
   align(align = "right", j = 6, part = "body") %>%
