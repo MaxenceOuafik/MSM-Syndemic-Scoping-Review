@@ -1,0 +1,13 @@
+CREATE TABLE IF NOT EXISTS temp_tab (
+refid integer primary key,
+subpopulation_logical boolean,
+subpopulation_studied varchar,
+disaggregated_logical boolean, 
+disaggregated_population varchar);
+
+INSERT INTO subpopulations (refid, subpopulation_logical, subpopulation_studied, disaggregated_logical, disaggregated_population)
+SELECT refid, subpopulation_logical, subpopulation_studied, disaggregated_logical, disaggregated_population
+FROM temp_tab
+WHERE refid NOT IN (SELECT refid FROM subpopulations);
+
+DROP TABLE temp_tab;
