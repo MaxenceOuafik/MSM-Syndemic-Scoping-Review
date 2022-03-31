@@ -1,3 +1,15 @@
+tab:PRISMA-ScR
+tab:RefTabQuant
+tab:RefTabQual
+tab:RefTabRev
+tab:DepressionTab
+tab:IPVTab
+tab:SubstanceTab
+tab:CSATab
+tab:PolysubstanceTab
+tab:BingeTab
+tab:ViolenceTab
+tab:AnxietyTab
 abstract
 introduction
 background
