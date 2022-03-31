@@ -31,7 +31,7 @@ This section summarizes the findings relevant to our research questions. \@ref(t
 
 ## Literature search
 
-The electronic search identified 840 references and our handsearch of reference lists resulted in the addition of the seminal study by Stall and colleague @Stall2003 . After removing duplicates, 305 records were screened for inclusion.
+The electronic search identified 840 references and our handsearch of reference lists resulted in the addition of the seminal study by Stall and colleague [@Stall2003]. After removing duplicates, 305 records were screened for inclusion.
 
 After screening the title and abstract, 124 records were excluded. The two main reasons for exclusion at this stage were that MSM was not the main study population (n=49) and that syndemic was not the main focus of the paper (n=37). 38 studies were excluded because the type of publication did not meet our inclusion criteria.
 
