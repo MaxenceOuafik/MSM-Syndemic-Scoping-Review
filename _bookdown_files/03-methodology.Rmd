@@ -4,11 +4,11 @@ bibliography: ./_bookdown_files/references.bib
 
 # Materials and Methods
 
-The complete protocol of this scoping review was published in 2020 [Author (2020 of publication) Details omitted for double-blind review.].
+The complete protocol of this scoping review was published in 2020 (Author, 2020. Details omitted for double-blind review).
 
 We applied the framework suggested by Arskey and O'Malley [@arksey2005], with enhancements from Levac et al. [@levac2010]. We also considered the recommendations formulated by Colquhoun et al. [@colquhoun2014] and the updated guidance by Peters and colleagues [@peters2020]. We followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews (PRISMA-ScR) [@Tricco2018]. The completed checklist can be found in Table \@ref(tab:PRISMA-ScR) of the supplementary materials.
 
-Screening and data charting were completed using DistillerSR (Evidence Partners, Ottawa, Canada). Scripts, statistics, charts, tables and the present paper was generated using R [@rcoreteam2020], RStudio [@rstudioteam2020] and the appropriate packages. To ensure the complete transparency and reproducibility of this article, the lead author (M.O.) uploaded all data used to generate this article on Open Science Framework ([[DOI:[masked](DOI:%5Bmasked](DOI:%5Bmasked%5D(DOI:%5Bmasked)%7B.uri%7D){.uri} for the anonymity of the review])
+Screening and data charting were completed using DistillerSR (Evidence Partners, Ottawa, Canada). Scripts, statistics, charts, tables and the present paper was generated using R [@rcoreteam2020], RStudio [@rstudioteam2020] and the appropriate packages. To ensure the complete transparency and reproducibility of this article, the lead author uploaded all data used to generate this article on Open Science Framework ([DOI: masked for the anonymity of the review])
 
 Our main research question was: *"What is known about Syndemic Theory applied to MSM"* was subdivided into three sub-questions:
 
